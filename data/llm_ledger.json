@@ -1,9 +1,9 @@
 {
  "gemini-3.5-flash-lite": {
-  "calls": 77,
+  "calls": 78,
   "cache_hits": 25,
-  "input_tokens": 324299,
-  "output_tokens": 32214
+  "input_tokens": 329876,
+  "output_tokens": 32989
  },
  "gemini-3.5-flash": {
   "calls": 2,
