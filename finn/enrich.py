@@ -1,4 +1,4 @@
-"""Reads the snapshot, runs the model over the filings that matter, writes app/data/enrich.json (keyed by filing URL).
+"""Reads the snapshot, runs the model over the filings that matter, writes docs/data/enrich.json (keyed by filing URL).
 
     python3 -m finn.enrich            # results, management changes, one-line summaries
 Everything is cached by request, so re-running costs nothing for documents already read.
@@ -11,7 +11,7 @@ import sys
 
 from . import extract, llm, pdftext
 
-SNAP = pathlib.Path(__file__).resolve().parent.parent / "app" / "data" / "snapshot.json"
+SNAP = pathlib.Path(__file__).resolve().parent.parent / "docs" / "data" / "snapshot.json"
 
 PEOPLE_SCHEMA = {
     "type": "OBJECT",

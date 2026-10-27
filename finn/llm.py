@@ -136,5 +136,5 @@ def ledger() -> dict:
 
 def publish_ledger() -> None:
     """Copy the token ledger next to the app so the Watch tab can show it."""
-    dest = ROOT / "app" / "data" / "ledger.json"
+    dest = ROOT / "docs" / "data" / "ledger.json"
     dest.write_text(json.dumps(ledger(), indent=1))

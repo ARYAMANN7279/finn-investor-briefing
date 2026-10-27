@@ -11,7 +11,7 @@ import re
 
 from . import llm, pdftext
 
-ENRICH = pathlib.Path(__file__).resolve().parent.parent / "app" / "data" / "enrich.json"
+ENRICH = pathlib.Path(__file__).resolve().parent.parent / "docs" / "data" / "enrich.json"
 TO_CRORE = {"rs_crore": 1.0, "rs_lakh": 0.01, "rs_million": 0.1, "rs_billion": 100.0}
 
 NUM = {"type": "NUMBER", "nullable": True}

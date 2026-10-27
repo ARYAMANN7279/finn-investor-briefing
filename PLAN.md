@@ -22,7 +22,7 @@ An investor should not open a list. FINN is a **briefing that talks back**, thre
 - `finn/classify`: rules first (free), LLM only for the ambiguous remainder. Categories from the reference doc (17 of them).
 - `finn/extract`: results PDF -> headline numbers with a cheap model, cross-checked against Screener's quarterly table where possible. EBITDA is not reported on filings; defined as PBT + finance cost + depreciation - other income, stated in the UI.
 - `finn/research`: PDF -> text (PyMuPDF) -> chunks -> cheap model extracts guidance/claims -> strong model only for the promised-vs-delivered comparison. Cache by document hash so each document is paid for once.
-- `app/`: single static mobile-first web app (installable PWA) reading pre-built JSON, plus an optional local server for live research on any ticker.
+- `docs/`: single static mobile-first web app (installable PWA) reading pre-built JSON, plus an optional local server for live research on any ticker.
 - LLM: Gemini free tier (Flash for bulk, Pro only for the comparison). Key is Aryamann's, in a git-ignored `.env`.
 
 ## Honesty rules for the writeup

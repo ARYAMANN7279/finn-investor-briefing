@@ -1,4 +1,4 @@
-"""Builds app/data/snapshot.json: everything the mobile app needs to rank, window and alert in the browser.
+"""Builds docs/data/snapshot.json: everything the mobile app needs to rank, window and alert in the browser.
 
     python3 -m finn.snapshot            # portfolio + research names, from cache where fresh
 Filings are classified here (free rules); results numbers and research sheets are added by their own steps and merged in.
@@ -14,7 +14,7 @@ from . import universe
 from .classify import classify
 from .sources import prices, screener
 
-OUT = pathlib.Path(__file__).resolve().parent.parent / "app" / "data" / "snapshot.json"
+OUT = pathlib.Path(__file__).resolve().parent.parent / "docs" / "data" / "snapshot.json"
 
 
 def company_entry(sym: str, sector: str, in_portfolio: bool) -> dict:

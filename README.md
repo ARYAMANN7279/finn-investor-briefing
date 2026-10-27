@@ -9,10 +9,10 @@ Built for the ENAM Holdings AI Engineer Build Challenge (Financial Investment Ag
 ## Run it
 
 ```bash
-python3 -m http.server 8765 --directory app     # open http://localhost:8765 on a laptop or a phone on the same network
+python3 -m http.server 8765 --directory docs     # open http://localhost:8765 on a laptop or a phone on the same network
 ```
 
-The app is static: it reads `app/data/*.json` that the Python side prepares. Ranking, windows, thresholds and the results maths run in the browser (`app/logic.js`), so the sliders respond instantly and hosting needs no server.
+The app is static: it reads `docs/data/*.json` that the Python side prepares. Ranking, windows, thresholds and the results maths run in the browser (`docs/logic.js`), so the sliders respond instantly and hosting needs no server.
 
 Rebuild the data (needs Python 3.10+ and `pip install pymupdf`; the model steps need `GEMINI_API_KEY` in a git-ignored `.env`):
 
@@ -34,7 +34,7 @@ Tests: `python3 -m unittest discover -s tests` and `node --test tests/logic.test
 | `finn/enrich.py` | management-change summaries and one-line summaries of other material filings | small model, filing text only |
 | `finn/research.py` | PDF → page-tagged chunks → claims and facts with verbatim quotes → quotes verified against the PDF text by code → older promises judged against later quarters → business, narrative, bull and bear view citing item ids → ids become footnotes | small model extracts; stronger model judges and writes |
 | `finn/llm.py` | Gemini client, fallback chains, JSON schemas, request-level disk cache, token ledger | |
-| `app/` | vanilla ES modules, no build step, installable PWA | none |
+| `docs/` | vanilla ES modules, no build step, installable PWA | none |
 
 ### Efficiency
 - **Routing.** Extraction, which is most of the tokens, runs on Gemini 3.5 Flash-Lite. A stronger tier is used only for the promised-versus-delivered judgement and the written view.
@@ -49,7 +49,7 @@ Tests: `python3 -m unittest discover -s tests` and `node --test tests/logic.test
 - Every model-written piece in the app names the model that wrote it.
 
 ## What is live and what is a snapshot
-- Prices and filings are a dated snapshot (`app/data/snapshot.json`, stamped in the header). The exchange APIs from NSE and BSE refuse scripts and I did not work around that. Screener lists each company's five most recent filings, so a 7-day digest is real but thin for busy companies.
+- Prices and filings are a dated snapshot (`docs/data/snapshot.json`, stamped in the header). The exchange APIs from NSE and BSE refuse scripts and I did not work around that. Screener lists each company's five most recent filings, so a 7-day digest is real but thin for busy companies.
 - Research sheets are prepared for Asian Paints, Avenue Supermarts (D-Mart), Persistent Systems and Cipla. The engine builds one for any NSE ticker from the command line; the hosted app serves prepared sheets only.
 - The free Gemini tier has no quota for the Pro model, so the "strong" step ran on a Flash model. The sheets say which.
 

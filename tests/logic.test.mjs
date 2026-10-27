@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { quarterFromTitle, resultsCard, brief, route, priceAlerts, DEFAULT_RULES, effScore } from "../app/logic.js";
+import { quarterFromTitle, resultsCard, brief, route, priceAlerts, DEFAULT_RULES, effScore } from "../docs/logic.js";
 
 const co = (over = {}) => ({
   symbol: "ACME", name: "Acme Ltd", portfolio: true, financial: false, spark: [1, 2],

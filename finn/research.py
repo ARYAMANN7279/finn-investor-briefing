@@ -22,7 +22,7 @@ import time
 from . import llm, pdftext
 from .sources import screener
 
-OUT = pathlib.Path(__file__).resolve().parent.parent / "app" / "data" / "research"
+OUT = pathlib.Path(__file__).resolve().parent.parent / "docs" / "data" / "research"
 
 ITEM = {"type": "OBJECT", "properties": {
     "statement": {"type": "STRING"}, "quote": {"type": "STRING"}, "page": {"type": "INTEGER"}},

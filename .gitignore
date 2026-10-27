@@ -3,3 +3,5 @@ data/cache/
 __pycache__/
 *.pyc
 .venv/
+EMAIL-DRAFT.md
+LOG.md
