@@ -144,3 +144,14 @@ blockquote { margin: 6px 0 0; padding: 2px 0 2px 10px; border-left: 2px solid va
 .tabs button[aria-current="page"] { color: var(--amber); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 svg.spark.up { color: var(--up); } svg.spark.down { color: var(--down); }
+
+.person { border-top: 1px solid var(--line); padding: 8px 0; }
+.person:first-of-type { border-top: 0; }
+sup.fn { font-size: 10px; color: var(--amber); margin-left: 1px; }
+details.src { margin: 6px 0 2px; font-size: 12.5px; }
+details.src summary { color: var(--mute); cursor: pointer; padding: 2px 0; }
+details.src ol { margin: 4px 0 0; padding-left: 18px; }
+details.src li { margin-bottom: 8px; }
+.v-too_early, .v-not_measurable { background: var(--line); color: var(--mute); }
+.v-delivered { background: color-mix(in srgb, var(--up) 18%, transparent); color: var(--up); }
+.v-partly { background: color-mix(in srgb, var(--amber) 18%, transparent); color: var(--amber); }

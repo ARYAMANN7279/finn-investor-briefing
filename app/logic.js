@@ -134,7 +134,7 @@ const SECTION_WORDS = {
   business: ["business", "segment", "what does", "mix", "does the company"],
   bullbear: ["bull", "bear", "risk", "buy", "case", "upside", "downside"],
 };
-const SECTION_ID = { guidance: "promised", narrative: "narrative", balance: "balance", cash: "cash", trajectory: "trajectory", financial: "financial", business: "business", bullbear: "bullbear" };
+const SECTION_ID = { guidance: "promised", narrative: "narrative", balance: "balance", cash: "balance", trajectory: "trajectory", financial: "trajectory", business: "business", bullbear: "bullbear" };
 
 /** Turns a question into {company, section}: "did Infosys deliver on guidance?" -> INFY, promised-vs-delivered. */
 export function route(query, companies) {

@@ -118,3 +118,9 @@ def ask(prompt: str, tier: str = "bulk", system: str | None = None, schema: dict
 
 def ledger() -> dict:
     return json.loads(LEDGER.read_text()) if LEDGER.exists() else {}
+
+
+def publish_ledger() -> None:
+    """Copy the token ledger next to the app so the Watch tab can show it."""
+    dest = ROOT / "app" / "data" / "ledger.json"
+    dest.write_text(json.dumps(ledger(), indent=1))

@@ -81,6 +81,7 @@ def main() -> None:
         db[key] = {**row, "symbol": co["symbol"]}
         extract.save(db)
         print(co["symbol"], kind, db[key].get("state") or db[key].get("status") or "ok", db[key].get("check", {}).get("state", ""))
+    llm.publish_ledger()
     print(json.dumps(llm.ledger()))
 
 

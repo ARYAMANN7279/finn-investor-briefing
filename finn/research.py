@@ -29,9 +29,10 @@ ITEM = {"type": "OBJECT", "properties": {
     "required": ["statement", "quote", "page"]}
 CLAIM = {"type": "OBJECT", "properties": {
     **ITEM["properties"],
+    "speaker": {"type": "STRING", "enum": ["management", "analyst", "unclear"]},
     "topic": {"type": "STRING", "enum": ["revenue_growth", "margin", "profit", "capex", "debt_cash", "expansion", "product", "demand", "cost", "other"]},
     "target": {"type": "STRING", "nullable": True}, "horizon": {"type": "STRING", "nullable": True}},
-    "required": ["statement", "quote", "page", "topic"]}
+    "required": ["statement", "quote", "page", "topic", "speaker"]}
 FACT = {"type": "OBJECT", "properties": {
     **ITEM["properties"], "kind": {"type": "STRING", "enum": ["business", "segment", "risk", "balance_sheet", "cash_flow", "other"]}},
     "required": ["statement", "quote", "page", "kind"]}
@@ -39,7 +40,9 @@ CHUNK_SCHEMA = {"type": "OBJECT", "properties": {"claims": {"type": "ARRAY", "it
                 "required": ["claims", "facts"]}
 CHUNK_SYSTEM = ("You extract evidence from a company's annual report or earnings-call transcript for an equity analyst. "
                 "Use only the text given. `quote` must be copied word for word from the text (at most 40 words, no ellipses, no edits). "
-                "`page` is the number from the nearest '[p N]' marker before the quote.")
+                "`page` is the number from the nearest '[p N]' marker before the quote. In a transcript, set `speaker` to who said the quote: "
+                "company management (CEO, CFO, executives) or an analyst asking a question. Only management's own words count as claims; "
+                "an analyst's question that mentions a number is not a company claim.")
 CHUNK_PROMPT = """Document: {label}.
 Return:
 - claims: forward-looking commitments, guidance or targets that management states (growth rates, margins, capex, launches, store/capacity additions, debt goals). Put any number or date they give in `target` / `horizon`. Skip history and generic optimism. At most 10, the most specific first.
@@ -52,7 +55,8 @@ TEXT:
 JUDGE_SCHEMA = {"type": "OBJECT", "properties": {"verdicts": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
     "id": {"type": "STRING"},
     "verdict": {"type": "STRING", "enum": ["delivered", "partly", "missed", "too_early", "not_measurable"]},
-    "evidence": {"type": "STRING"}, "quarters": {"type": "ARRAY", "items": {"type": "STRING"}}},
+    "evidence": {"type": "STRING"}, "quarters": {"type": "ARRAY", "items": {"type": "STRING"}},
+    "same_as": {"type": "STRING", "nullable": True}},
     "required": ["id", "verdict", "evidence"]}}}, "required": ["verdicts"]}
 JUDGE_SYSTEM = ("You compare what management promised on an earnings call with what the company then reported. "
                 "Use only the promises and the quarterly table given. Cite the quarters (labels as in the table) and the figures you used in `evidence`, "
@@ -61,10 +65,10 @@ JUDGE_SYSTEM = ("You compare what management promised on an earnings call with w
 JUDGE_PROMPT = """Company: {name}. Quarterly results table (figures in Rs crore, oldest to newest; OPM = operating profit / revenue):
 {table}
 
-Promises made on earlier calls (id, call date, promise, quote):
+Promises made on earlier calls (id, call date, quarters reported after the call, promise, quote). Judge a promise only against quarters listed as reported after its call; if none of them covers the promised period, say too_early:
 {promises}
 
-For each id give a verdict."""
+For each id give a verdict. If a promise repeats the same commitment as an earlier id in the list (for example the same margin band restated on a later call), set `same_as` to that earlier id, otherwise null."""
 
 VIEW_SCHEMA = {"type": "OBJECT", "properties": {
     "business": {"type": "STRING"},
@@ -124,6 +128,8 @@ def extract_doc(doc: dict, tag: str) -> list[dict]:
         r = llm.ask(CHUNK_PROMPT.format(label=doc["label"], text=chunk), tier="bulk", system=CHUNK_SYSTEM, schema=CHUNK_SCHEMA)
         for kind, key in (("claim", "claims"), ("fact", "facts")):
             for it in r["data"].get(key, []):
+                if it.get("speaker") == "analyst":  # a question from the floor is not management's word
+                    continue
                 q = _norm(it["quote"])
                 if len(q) < 25 or q not in doc["norm"]:  # not a verbatim quote of this document: drop it
                     continue
@@ -135,6 +141,28 @@ def extract_doc(doc: dict, tag: str) -> list[dict]:
             seen.add(k)
             out.append(it)
     return out
+
+
+MON = {m: i for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split(), 1)}
+
+
+def _ym(label: str) -> tuple[int, int] | None:
+    m = re.search(r"([A-Z][a-z]{2})\w*\s+(\d{4})", label)
+    return (int(m.group(2)), MON[m.group(1)]) if m and m.group(1) in MON else None
+
+
+def quarters_after(call_label: str, labels: list[str]) -> list[str]:
+    """Quarters whose results came out after a call: any quarter ending in or after the call's month."""
+    c = _ym(call_label)
+    return [q for q in labels if c and _ym(q) and _ym(q) >= c]
+
+
+def numbers_ok(evidence: str, tbl: str) -> bool:
+    """Every figure of 100 or more quoted in the evidence must appear in the table the judge was given."""
+    nums = re.findall(r"\d[\d,]*\.?\d*", evidence)
+    big = [n.replace(",", "").rstrip(".") for n in nums if len(n.replace(",", "").split(".")[0]) >= 3]
+    flat = tbl.replace(",", "")
+    return all(n in flat or n.split(".")[0] in flat for n in big)
 
 
 def table(co: screener.Company, n: int = 12) -> str:
@@ -195,33 +223,65 @@ def build(symbol: str, calls: int = 4, reports: int = 1) -> dict:
     promises = [it for it in items if it["type"] == "claim" and it["doc"] in older and it.get("target")][:24]
     verdicts = []
     if promises:
-        listing = "\n".join(f"{p['id']} | {p['doc']} | {p['statement']} (target: {p['target']}, horizon: {p.get('horizon')}) | \"{p['quote']}\"" for p in promises)
-        j = llm.ask(JUDGE_PROMPT.format(name=co.name, table=table(co), promises=listing), tier="strong", system=JUDGE_SYSTEM, schema=JUDGE_SCHEMA)
+        tbl = table(co)
+        listing = "\n".join(f"{p['id']} | {p['doc'].replace('Concall ', '')} | after: {', '.join(quarters_after(p['doc'], co.quarters['labels'])) or 'none'} | {p['statement']} "
+                            f"(target: {p['target']}, horizon: {p.get('horizon')}) | \"{p['quote']}\"" for p in promises)
+        j = llm.ask(JUDGE_PROMPT.format(name=co.name, table=tbl, promises=listing), tier="strong", system=JUDGE_SYSTEM, schema=JUDGE_SCHEMA)
         for v in j["data"]["verdicts"]:
             p = by_id.get(v["id"])
             if p:
                 verdicts.append({**v, "claim": p["statement"], "target": p.get("target"), "horizon": p.get("horizon"), "quote": p["quote"], "doc": p["doc"],
-                                 "page": p["page"], "url": p["url"], "judge": j["model"]})
+                                 "page": p["page"], "url": p["url"], "judge": j["model"], "numbers_ok": numbers_ok(v["evidence"], tbl)})
+    # one entry per commitment: repeats of the same promise fold into the first one
+    first = {v["id"]: v for v in verdicts}
+    kept = []
+    for v in verdicts:
+        tgt = first.get(v.get("same_as") or "")
+        if tgt and tgt is not v:
+            tgt.setdefault("repeats", []).append({k: v[k] for k in ("doc", "page", "url", "quote")})
+        else:
+            kept.append(v)
+    verdicts = kept
     # business / narrative / bull / bear view, citing ids only
     pool = sorted(items, key=lambda it: (it["type"] != "fact", it["id"]))[:70]
     listing = "\n".join(f"{it['id']} | {it['doc']} | {it['statement']}" for it in pool)
     view = llm.ask(VIEW_PROMPT.format(name=co.name, items=listing), tier="strong", system=VIEW_SYSTEM, schema=VIEW_SCHEMA)
     v, view_model = view["data"], view["model"]
 
+    def section(text, ids):
+        """Swap the model's inline ids for footnote numbers in order of appearance; cites list is in the same order."""
+        order = []
+
+        def mark(m):
+            ns = []
+            for i in re.split(r"[,\s]+", m.group(1).strip()):
+                if i in by_id:
+                    if i not in order:
+                        order.append(i)
+                    ns.append(order.index(i) + 1)
+            return "".join(f"[{n}]" for n in ns)
+
+        text = re.sub(r"\s*\(((?:\d+\.\d+[,\s]*)+)\)", lambda m: " " + mark(m) if mark(m) else "", text)
+        for i in ids:  # ids the model listed but did not mark inline still get a footnote
+            if i in by_id and i not in order:
+                order.append(i)
+        return {"text": text, "cites": [{k: by_id[i][k] for k in ("doc", "url", "page", "quote")} for i in order]}
+
     def cite(ids):
-        return [{k: by_id[i][k] for k in ("doc", "url", "page", "quote")} for i in ids if i in by_id]
+        return section("", ids)["cites"]
 
     sheet = {
         "symbol": symbol, "name": co.name, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
         "sources": [{"label": d["label"], "url": d["url"], "kind": d["kind"]} for d in docs],
-        "business": {"text": v["business"], "cites": cite(v["business_ids"])},
-        "narrative": {"text": v["narrative"], "cites": cite(v["narrative_ids"])},
-        "balance": {"text": v["balance"], "cites": cite(v["balance_ids"])},
-        "bull": [{"point": x["point"], "cites": cite(x["ids"])} for x in v["bull"]],
-        "bear": [{"point": x["point"], "cites": cite(x["ids"])} for x in v["bear"]],
+        "business": section(v["business"], v["business_ids"]),
+        "narrative": section(v["narrative"], v["narrative_ids"]),
+        "balance": section(v["balance"], v["balance_ids"]),
+        "bull": [{**section(x["point"], x["ids"]), "point": section(x["point"], x["ids"])["text"]} for x in v["bull"]],
+        "bear": [{**section(x["point"], x["ids"]), "point": section(x["point"], x["ids"])["text"]} for x in v["bear"]],
         "promised": verdicts,
         "trajectory": trajectory(co),
-        "stats": {"documents": len(docs), "verified_items": len(items), "view_model": view_model},
+        "stats": {"documents": len(docs), "verified_items": len(items), "view_model": view_model,
+                  "bulk_model": max({it["model"] for it in items}, key=lambda m: sum(it["model"] == m for it in items)) if items else None},
     }
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / f"{symbol}.json").write_text(json.dumps(sheet, indent=1, ensure_ascii=False))
@@ -235,6 +295,7 @@ def main() -> None:
     for sym in sys.argv[1:] or ["ASIANPAINT"]:
         s = build(sym.upper())
         print(sym, "->", s["stats"], len(s["promised"]), "promises judged")
+    llm.publish_ledger()
     print(json.dumps(llm.ledger()))
 
 
