@@ -1,1 +1,286 @@
-{}
+{
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0056a3dc-6357-48ff-a037-f1b206624331.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Reliance Industries announced that the IPO of its subsidiary Jio Platforms closed on October 23, 2026, with the final issue price set at ₹1,119 per share.",
+  "symbol": "RELIANCE"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77e3ec52-056d-4103-8388-14b48756f70d.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "On October 21, 2026, ICRA Limited assigned a credit rating of [ICRA] AAA/Stable to Reliance Industries Limited for its bank loan facilities and reaffirmed ratings for its debentures and commercial paper.",
+  "symbol": "RELIANCE"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad952e13-3c76-410e-81f8-4fe3d108a196.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Tata Consultancy Services completed the 100% acquisition of BBY Services India LLP on October 15, 2026, making it a wholly owned subsidiary.",
+  "symbol": "TCS"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f7c4fa3-6c9a-497a-921a-e14c20919f86.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Infosys Ltd declared an interim dividend of 26 rupees per equity share, with November 3, 2026, as the record date and November 11, 2026, as the payout date.",
+  "symbol": "INFY"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26c12463-d44e-4050-bd47-b53cc294b4e0.pdf": {
+  "kind": "results",
+  "status": "extracted",
+  "model": "gemini-3.5-flash-lite",
+  "data": {
+   "basis": "consolidated",
+   "unit": "rs_crore",
+   "current_quarter_end": "September 30, 2026",
+   "current": {
+    "revenue": 49244,
+    "profit_before_tax": 11063,
+    "net_profit": 7838,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 50092
+   },
+   "previous_quarter": {
+    "revenue": 48211,
+    "profit_before_tax": 11028,
+    "net_profit": 7775,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 49286
+   },
+   "year_ago_quarter": {
+    "revenue": 44490,
+    "profit_before_tax": 10229,
+    "net_profit": 7375,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 45472
+   }
+  },
+  "check": {
+   "state": "verified",
+   "detail": [
+    {
+     "metric": "revenue",
+     "filing": 49244.0,
+     "screener": 49244.0,
+     "ok": true
+    },
+    {
+     "metric": "profit_before_tax",
+     "filing": 11063.0,
+     "screener": 11063.0,
+     "ok": true
+    },
+    {
+     "metric": "net_profit",
+     "filing": 7838.0,
+     "screener": 7838.0,
+     "ok": true
+    }
+   ]
+  },
+  "symbol": "INFY"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a7cacec-6e60-4f88-9c95-ad60962ad4d4.pdf": {
+  "kind": "results",
+  "status": "extracted",
+  "model": "gemini-3.5-flash-lite",
+  "data": {
+   "basis": "consolidated",
+   "unit": "rs_crore",
+   "current_quarter_end": "September 30, 2026",
+   "current": {
+    "revenue": 49244,
+    "profit_before_tax": 11063,
+    "net_profit": 7838,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 50092
+   },
+   "previous_quarter": {
+    "revenue": 48211,
+    "profit_before_tax": 11028,
+    "net_profit": 7775,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 49057
+   },
+   "year_ago_quarter": {
+    "revenue": 44490,
+    "profit_before_tax": 10229,
+    "net_profit": 7375,
+    "interest_earned": null,
+    "interest_expended": null,
+    "total_income": 45472
+   }
+  },
+  "check": {
+   "state": "verified",
+   "detail": [
+    {
+     "metric": "revenue",
+     "filing": 49244.0,
+     "screener": 49244.0,
+     "ok": true
+    },
+    {
+     "metric": "profit_before_tax",
+     "filing": 11063.0,
+     "screener": 11063.0,
+     "ok": true
+    },
+    {
+     "metric": "net_profit",
+     "filing": 7838.0,
+     "screener": 7838.0,
+     "ok": true
+    }
+   ]
+  },
+  "symbol": "INFY"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94d9e62f-952d-4046-8379-bbdd1761f3ab.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "ICRA and CARE Ratings reaffirmed ICICI Bank Ltd's credit ratings on October 23, 2026, while withdrawing ratings for fully redeemed bonds amounting to Rs 945 crore, Rs 6,500 crore, and Rs 40.41 crore.",
+  "symbol": "ICICIBANK"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb4bfa8c-5285-4b6f-86c3-852bf82c8015.pdf": {
+  "kind": "people",
+  "model": "gemini-3.5-flash-lite",
+  "summary": "Prashant Verma has been re-appointed as the Chief Information Security Officer of Bajaj Finance Ltd, effective from 1 February 2027 for a period of three years. The re-appointment was approved by the Board of Directors based on RBI guidelines and the recommendation of the Nomination and Remuneration Committee.",
+  "people": [
+   {
+    "name": "Prashant Verma",
+    "action": "reappointed",
+    "role": "Chief Information Security Officer",
+    "bio": "Prashant Verma is the Chief Information Security Officer of Bajaj Finance Ltd since February 1, 2024. Prashant Verma has around 21 years of full-time experience on Security Domain. He joined us as head of Cyber Risk Unit 7 years back and is now heading Information Security. In his previous job, he has architected security services and has worked as security auditor and consultant for various domestic and international banks and insurance companies. He is CISSP and is co-author of couple of security books.",
+    "effective": "1 February 2027",
+    "reason": null
+   }
+  ],
+  "symbol": "BAJFINANCE"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8eac2987-9924-4131-b4da-af66c3b06041.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "ITC acquired an additional 13,445 shares on 28th September, 2026, making Sproutlife Foods a wholly owned subsidiary for a total cost of around 645 crores.",
+  "symbol": "ITC"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=115618e0-f718-4b8b-81e1-642618cbe608.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "On October 27, 2026, Larsen & Toubro announced that its transportation infrastructure business secured major orders worth between five thousand and ten thousand crore rupees for the Dhaka Metro Line 1 project.",
+  "symbol": "LT"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42761949-c90f-4c0c-8fad-6d79416f15d2.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "On October 21, 2026, Larsen & Toubro announced that its Public Spaces, Airports & Health business secured large orders in New Delhi and Andhra Pradesh.",
+  "symbol": "LT"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=631d73dc-7695-4952-8082-d9d34d4e0827.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Titan Company Limited has fully redeemed Commercial Papers worth 1000 crore rupees on October 19, 2026.",
+  "symbol": "TITAN"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad927144-51f6-458f-a4a5-dfed2478c03a.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Titan Company has fully redeemed commercial papers worth 825 crore rupees on 8th October 2026.",
+  "symbol": "TITAN"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8dbcbbbb-1706-41d5-a7d3-058de4c45277.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Adani Ports announced that its subsidiary incorporated a new step-down subsidiary named Indian Ocean Gateway Terminal in Oman on October 21, 2026.",
+  "symbol": "ADANIPORTS"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7c5db6c-3143-4afb-b2b7-7de50e0af5e2.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Adani Ports incorporated a wholly owned subsidiary, Paradip Mahanadi Terminal Limited, on October 6, 2026, to develop two dry bulk berths at Paradip Port.",
+  "symbol": "ADANIPORTS"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4fa70d2-bab3-4652-995d-4727e34503b0.pdf": {
+  "kind": "people",
+  "model": "gemini-3.5-flash-lite",
+  "summary": "Shri Anindya Biswas has been appointed as a Non-Executive Government Nominee Director of the company effective 7th October, 2026. He succeeds Dr. K Rajalakshmi Menon, whose nomination was withdrawn by the Ministry of Defence.",
+  "people": [
+   {
+    "name": "Dr. K Rajalakshmi Menon",
+    "action": "resigned",
+    "role": "Non-Executive Director [Government Nominee Director]",
+    "bio": null,
+    "effective": "7th October, 2026",
+    "reason": "Being nominee director, nomination was withdrawn by MoD"
+   },
+   {
+    "name": "Shri Anindya Biswas",
+    "action": "appointed",
+    "role": "Non-Executive Director [Government Nominee Director]",
+    "bio": "He is renowned for his R&D efforts towards indigenous design, development and production of avionic sub-systems for indigenous missiles. He joined DRDO in 1992 and has contributed to several missile systems. He holds a graduation in Electronics and Telecommunications from Bengal Engineering College, Shibpur and an M. Tech in Electronics and Communication Engineering from IIT Kharagpur.",
+    "effective": "7th October, 2026",
+    "reason": null
+   }
+  ],
+  "symbol": "HAL"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70bc729d-e921-4367-9add-cb9cdb5162fc.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Hindustan Aeronautics Limited has signed an agreement on October 2, 2026, to acquire the remaining 50 percent stake in HATSOFF Helicopter Training from CAE, Canada, for nil consideration, making it a wholly-owned subsidiary.",
+  "symbol": "HAL"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fc2f5da-34a9-4a6c-a7d2-59cdcf975f69.pdf": {
+  "kind": "people",
+  "model": "gemini-3.5-flash-lite",
+  "summary": "Shri R Sriram is leaving the role of Executive Director (Finance) due to superannuation effective from 30.09.2026. This filing informs the stock exchanges about the change in senior management.",
+  "people": [
+   {
+    "name": "Shri R Sriram",
+    "action": "resigned",
+    "role": "Executive Director (Finance)",
+    "bio": null,
+    "effective": "30.09.2026",
+    "reason": "Superannuation"
+   }
+  ],
+  "symbol": "HAL"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf9c8eec-654a-4016-acf5-b7160985dc78.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "On October 22, 2026, Trent announced that its subsidiary agreed to divest its entire stake in Netria Property Holdings for Rs 11.25 per share plus loan repayments.",
+  "symbol": "TRENT"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f2619df-b01f-4905-978f-00de8477b2f8.pdf": {
+  "kind": "people",
+  "model": "gemini-3.5-flash-lite",
+  "summary": "Mr. Harish Bhat has resigned as Non-Executive Non-Independent Director of Trent Ltd. effective from 17th October 2026 due to his existing and growing professional and personal commitments.",
+  "people": [
+   {
+    "name": "Harish Bhat",
+    "action": "resigned",
+    "role": "Non-Executive Non-Independent Director",
+    "bio": null,
+    "effective": "17th October 2026",
+    "reason": "existing and growing professional and personal commitments"
+   }
+  ],
+  "symbol": "TRENT"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=243de729-cff5-4203-a58d-cb59adb578b5.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "Dixon Technologies issued an unconditional guarantee of up to US$ 7 million on October 21, 2026, for its wholly owned subsidiary Padget Electronics Private Limited in favor of Quanta Computer Inc.",
+  "symbol": "DIXON"
+ },
+ "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0fba81c-bd84-40eb-8435-9643b019e9fc.pdf": {
+  "kind": "line",
+  "model": "gemini-3.5-flash-lite",
+  "line": "On October 15, 2026, the NCLAT heard and reserved its order on the appeal in the Asier Metals Private Limited versus Polycab India Limited matter.",
+  "symbol": "POLYCAB"
+ }
+}
