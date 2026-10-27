@@ -266,3 +266,5 @@ document.addEventListener("submit", async (e) => {
   state.ledger = (await getJSON("data/ledger.json")) || {};
   header(); render(false);
 })();
+
+if ("serviceWorker" in navigator && location.protocol !== "file:") navigator.serviceWorker.register("sw.js").catch(() => {});

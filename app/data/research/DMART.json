@@ -1,7 +1,7 @@
 {
  "symbol": "DMART",
  "name": "Avenue Supermarts Ltd",
- "built_at": "2026-10-27T18:46:36+0530",
+ "built_at": "2026-10-27T20:18:51+0530",
  "sources": [
   {
    "label": "Annual Report 2026",
@@ -24,13 +24,13 @@
    "kind": "concall"
   },
   {
-   "label": "Concall Jul 2024",
-   "url": "https://api.dmartindia.com/corporate/content/file/v1/2/nxWmnRKchjDixyjyLNUUq0wp1722949766/Transcript%20of%20Analyst%20Institutional%20Investor%20Call%20-%2030.07.2024.pdf",
+   "label": "Concall Aug 2023",
+   "url": "https://api.dmartindia.com/corporate/content/file/v1/6/9CgmGcMoKSLXpvuus3iRJ16p1692274965/Transcript%20of%2023rd%20AGM%20-10.08.2023.pdf",
    "kind": "concall"
   }
  ],
  "business": {
-  "text": "Avenue Supermarts Limited (DMart) is a national supermarket chain focusing on value-retailing across multiple product categories. The company primarily operates on a cash and carry business model along with sales to subsidiaries. It operates brick-and-mortar stores alongside the DMart Ready e-commerce platform and sells general merchandise and apparel largely consisting of private or pseudo-private labels.",
+  "text": "Avenue Supermarts Limited (DMart) is a national supermarket chain focusing on value-retailing across multiple product categories. The group primarily operates on a cash and carry business model alongside sales to subsidiaries, making credit risk from receivables insignificant. The company operates brick-and-mortar stores alongside an online shopping service called DMart Ready.",
   "cites": [
    {
     "doc": "Annual Report 2026",
@@ -51,10 +51,10 @@
     "quote": "The group operates on business model of primarily cash and carry and credit risk from receivable perspective is not significant."
    },
    {
-    "doc": "Concall Aug 2025",
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-    "page": 10,
-    "quote": "They are actually all private labels or pseudo private labels."
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+    "page": 17,
+    "quote": "if the question is whether there is a plan to integrate AEL with ASL business, so there is no such plan. Because our belief is that the online shopper and the customer that DMart Ready is catering to has some specific needs"
    },
    {
     "doc": "Concall Aug 2024",
@@ -65,7 +65,7 @@
   ]
  },
  "narrative": {
-  "text": "The annual report and recent concalls align on DMart's physical retail store growth, reaching 500 stores and 20.58 million square feet of retail area while maintaining a cash and carry business model. However, management concalls place greater emphasis on the distinct operation of the DMart Ready e-commerce business, which runs at an EBITDA loss despite sales growth. Concalls also emphasize cost pressures not detailed in high-level annual report summaries, such as rising real estate prices, warehousing rental inflation, and wage increases that reduce return on capital.",
+  "text": "The annual report highlights DMart's footprint expansion to 500 stores with 20.58 million square feet of retail business area as of March 31, 2026, operating on a low credit risk cash and carry model. On recent concalls, management agrees with this operational scale while placing greater emphasis on store ownership dynamics, noting that 68 out of 500 stores are leased and that DMart owns approximately 88% of its properties. Management also brings into focus operational headwinds not detailed in high-level financial summaries, such as warehousing rental inflation, wage pressures, deteriorated fixed asset turnover due to rising real estate costs, and managing the online DMart Ready service separately.",
   "cites": [
    {
     "doc": "Annual Report 2026",
@@ -80,12 +80,6 @@
     "quote": "The Company operates on business model of primarily cash and carry along with sales to subsidiaries and credit risk from receivable perspective is not significant."
    },
    {
-    "doc": "Annual Report 2026",
-    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
-    "page": 244,
-    "quote": "The group operates on business model of primarily cash and carry and credit risk from receivable perspective is not significant."
-   },
-   {
     "doc": "Concall Aug 2026",
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
     "page": 5,
@@ -94,20 +88,20 @@
    {
     "doc": "Concall Aug 2026",
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+    "page": 7,
+    "quote": "last year, for example, we now have about 68 stores -- 65 stores which are on long leases."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+    "page": 14,
+    "quote": "68 in the total base of 500."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
     "page": 17,
     "quote": "if the question is whether there is a plan to integrate AEL with ASL business, so there is no such plan. Because our belief is that the online shopper and the customer that DMart Ready is catering to has some specific needs"
-   },
-   {
-    "doc": "Concall Aug 2025",
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-    "page": 5,
-    "quote": "Avenue E-Commerce grew sales by about 21% and the loss slightly widened to about 7%, the loss was at INR247 crores."
-   },
-   {
-    "doc": "Concall Aug 2025",
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-    "page": 22,
-    "quote": "I think the reduction in ROC is primarily because of accelerated property acquisitions and the capital employed because of that, which effectively should be seen in a positive light because that means that we are looking at a larger inventory of stores which are going to come in the future."
    },
    {
     "doc": "Concall Aug 2025",
@@ -122,15 +116,15 @@
     "quote": "Second is in the non-store area, we found that there has been a rapid inflation on warehousing, whether it is warehousing rentals, warehousing employees, there has been unprecedented inflation in wages there."
    },
    {
-    "doc": "Concall Aug 2024",
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-    "page": 27,
-    "quote": "EBITDA margin is still minus 2% to minus 3%."
+    "doc": "Concall Aug 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+    "page": 36,
+    "quote": "if 88% (inadvertently mentioned as 92% on the audio call) of my property is ownership, we take a call on what money this location will make basis what we are going to invest in that store."
    }
   ]
  },
  "balance": {
-  "text": "Net cash flow from operating activities for the year ended March 31, 2026 was 3,466.74 Crores, while net cash flow used in investing activities was 4,206.96 Crores. Short-term borrowings stood at 965.27 Crores as of March 31, 2026, with ending cash and cash equivalents net of bank overdrawn balances at negative 96.56 Crores.",
+  "text": "As of March 31, 2026, short-term borrowings stood at 965.27 Crores, while cash and cash equivalents net of bank overdrawn balances were negative 96.56 Crores, supported by 169.17 Crores in undrawn committed borrowing facilities. For the year ended March 31, 2026, net cash flow generated from operating activities was 3,466.74 Crores, while net cash flow used in investing activities was 4,206.96 Crores.",
   "cites": [
    {
     "doc": "Annual Report 2026",
@@ -155,12 +149,24 @@
     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
     "page": 200,
     "quote": "Cash and cash equivalents at end of the year (net of bank overdrawn balances)\n(96.56)\n355.48"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
+    "page": 222,
+    "quote": "At 31 March 2026, the Group had available C 169.17 Crores (31st March, 2025: C 407.99 Crores) of undrawn committed borrowing facilities."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+    "page": 5,
+    "quote": "The actual debt, which is net borrowing on the company, is close to INR965 crores as of March 2026 end."
    }
   ]
  },
  "bull": [
   {
-   "text": "DMart expanded its footprint to 500 stores with 20.58 million square feet of retail area, operating successfully across states like Punjab, Tamil Nadu, Rajasthan, Gujarat, and Andhra Pradesh.",
+   "text": "DMart has steadily expanded its retail footprint to 500 stores encompassing 20.58 million square feet of retail business area by March 31, 2026.",
    "cites": [
     {
      "doc": "Annual Report 2026",
@@ -169,40 +175,16 @@
      "quote": "Since launching our first store in 2002 in Mumbai, Maharashtra, we have grown to 500 stores with a retail business area of 20.58 million sq. ft. spread across Maharashtra (128), Gujarat (75), Telangana (48), Andhra Pradesh (47), Karnataka (50), Madhya Pradesh (29), Tamil Nadu (35), Rajasthan (28), Punjab (24), NCR (20), Chhattisgarh (8), Uttar Pradesh (3), Uttarakhand (1), Goa (1), Orissa (1), Haryana (1) and Daman (1)."
     },
     {
-     "doc": "Concall Aug 2025",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 8,
-     "quote": "the fact that a DMart now is equally successful in the Punjab, as well as Tamil Nadu, as well as Rajasthan, Gujarat or in AP, in fact, simplifies a lot of things from an operating standpoint."
-    }
-   ],
-   "point": "DMart expanded its footprint to 500 stores with 20.58 million square feet of retail area, operating successfully across states like Punjab, Tamil Nadu, Rajasthan, Gujarat, and Andhra Pradesh."
-  },
-  {
-   "text": "The company achieved a turnover close to INR 67,000 crores in the prior year while delivering 21% sales growth in its DMart Ready e-commerce business.",
-   "cites": [
-    {
      "doc": "Concall Aug 2026",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
      "page": 5,
-     "quote": "We reported a turnover of close to INR67,000 crores in the year gone by."
-    },
-    {
-     "doc": "Concall Aug 2025",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 5,
-     "quote": "Avenue E-Commerce grew sales by about 21% and the loss slightly widened to about 7%, the loss was at INR247 crores."
-    },
-    {
-     "doc": "Concall Aug 2025",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 15,
-     "quote": "Now, we have delivered a 21% or 22% growth rate vis-a-vis last year, purely on the DMart Ready business."
+     "quote": "At the end of March 2026, we had about 20.6 million square feet of retail business area"
     }
    ],
-   "point": "The company achieved a turnover close to INR 67,000 crores in the prior year while delivering 21% sales growth in its DMart Ready e-commerce business."
+   "point": "DMart has steadily expanded its retail footprint to 500 stores encompassing 20.58 million square feet of retail business area by March 31, 2026."
   },
   {
-   "text": "Credit risk from receivables remains insignificant, and the company has no history of loan defaults or being named a wilful defaulter.",
+   "text": "The company operates a low credit risk cash and carry business model, driving turnover to close to INR 67,000 crores without defaulting on any borrowing obligations.",
    "cites": [
     {
      "doc": "Annual Report 2026",
@@ -219,64 +201,64 @@
     {
      "doc": "Annual Report 2026",
      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
-     "page": 246,
-     "quote": "The Group have not been declared wilful defaulter by any bank, financial institution, government or government authority."
+     "page": 244,
+     "quote": "The group operates on business model of primarily cash and carry and credit risk from receivable perspective is not significant."
+    },
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+     "page": 5,
+     "quote": "We reported a turnover of close to INR67,000 crores in the year gone by."
     }
    ],
-   "point": "Credit risk from receivables remains insignificant, and the company has no history of loan defaults or being named a wilful defaulter."
+   "point": "The company operates a low credit risk cash and carry business model, driving turnover to close to INR 67,000 crores without defaulting on any borrowing obligations."
   },
   {
-   "text": "The business passes vendor price drops directly to customers, generates volume surges during staple price deflation, and reduced employee attrition to 11.3%.",
+   "text": "The DMart Ready e-commerce platform delivered 21% to 22% sales growth, operating across 24 cities with 165 pickup points.",
    "cites": [
     {
      "doc": "Concall Aug 2026",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
-     "page": 17,
-     "quote": "we basically just pass through whatever pricing that is given to us from our vendors. So, we basically just ensure that the same is passed on whether it is price decrease or deflation or inflation."
+     "page": 33,
+     "quote": "We currently have 165 pickup points."
     },
     {
      "doc": "Concall Aug 2025",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 12,
-     "quote": "So, whenever there is a deflation, you get huge volume pickup in those categories."
+     "page": 4,
+     "quote": "we are now actually in 24 cities."
     },
+    {
+     "doc": "Concall Aug 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+     "page": 15,
+     "quote": "Now, we have delivered a 21% or 22% growth rate vis-a-vis last year, purely on the DMart Ready business."
+    }
+   ],
+   "point": "The DMart Ready e-commerce platform delivered 21% to 22% sales growth, operating across 24 cities with 165 pickup points."
+  },
+  {
+   "text": "Operational stability is supported by high property ownership of approximately 88% and a reduction in employee attrition from 13.9% to 11.3%.",
+   "cites": [
     {
      "doc": "Concall Aug 2025",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
      "page": 31,
      "quote": "DMart employee attrition actually has fallen from last year, which we have published, I think it's fallen by almost 2% to 3%, from 13.9% to 11.3%."
+    },
+    {
+     "doc": "Concall Aug 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+     "page": 36,
+     "quote": "if 88% (inadvertently mentioned as 92% on the audio call) of my property is ownership, we take a call on what money this location will make basis what we are going to invest in that store."
     }
    ],
-   "point": "The business passes vendor price drops directly to customers, generates volume surges during staple price deflation, and reduced employee attrition to 11.3%."
+   "point": "Operational stability is supported by high property ownership of approximately 88% and a reduction in employee attrition from 13.9% to 11.3%."
   }
  ],
  "bear": [
   {
-   "text": "The DMart Ready e-commerce operations run at an EBITDA loss of minus 2% to minus 3% with annual net losses of INR 247 crores, impacted by higher transportation costs for home deliveries.",
-   "cites": [
-    {
-     "doc": "Concall Aug 2025",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 5,
-     "quote": "Avenue E-Commerce grew sales by about 21% and the loss slightly widened to about 7%, the loss was at INR247 crores."
-    },
-    {
-     "doc": "Concall Aug 2025",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-     "page": 41,
-     "quote": "transportation costs have increased because home delivery has significantly increased."
-    },
-    {
-     "doc": "Concall Aug 2024",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-     "page": 27,
-     "quote": "EBITDA margin is still minus 2% to minus 3%."
-    }
-   ],
-   "point": "The DMart Ready e-commerce operations run at an EBITDA loss of minus 2% to minus 3% with annual net losses of INR 247 crores, impacted by higher transportation costs for home deliveries."
-  },
-  {
-   "text": "Accelerated property purchases, higher per-location real estate prices, and rapid inflation in warehousing rentals and employee wages have hurt fixed asset turnover and lowered return on capital.",
+   "text": "Escalating per-location real estate prices and accelerated property acquisitions have increased capital employed and deteriorated return on capital and fixed asset turnover.",
    "cites": [
     {
      "doc": "Concall Aug 2025",
@@ -289,122 +271,76 @@
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
      "page": 22,
      "quote": "the reality is that real estate costs also are going up, which is being featured on the slide three on page 12, where the fixed asset turnover has slightly deteriorated because a combination of both, the per location prices are going up and we have some of these new stores which have opened, which are of higher value."
-    },
+    }
+   ],
+   "point": "Escalating per-location real estate prices and accelerated property acquisitions have increased capital employed and deteriorated return on capital and fixed asset turnover."
+  },
+  {
+   "text": "Non-store operational costs are rising due to rapid inflation in warehousing rentals, employee wage increases, and higher transportation costs from a shift toward home delivery.",
+   "cites": [
     {
      "doc": "Concall Aug 2025",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
      "page": 26,
      "quote": "Second is in the non-store area, we found that there has been a rapid inflation on warehousing, whether it is warehousing rentals, warehousing employees, there has been unprecedented inflation in wages there."
+    },
+    {
+     "doc": "Concall Aug 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+     "page": 41,
+     "quote": "transportation costs have increased because home delivery has significantly increased."
     }
    ],
-   "point": "Accelerated property purchases, higher per-location real estate prices, and rapid inflation in warehousing rentals and employee wages have hurt fixed asset turnover and lowered return on capital."
+   "point": "Non-store operational costs are rising due to rapid inflation in warehousing rentals, employee wage increases, and higher transportation costs from a shift toward home delivery."
   },
   {
-   "text": "The company generated negative net cash flow used in investing activities of 4,206.96 Crores, leaving ending cash and cash equivalents at negative 96.56 Crores.",
+   "text": "DMart Ready e-commerce operates at an EBITDA loss of minus 2% to minus 3%, recording a loss of INR 247 crores in FY2025.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+     "page": 5,
+     "quote": "Avenue E-Commerce grew sales by about 21% and the loss slightly widened to about 7%, the loss was at INR247 crores."
+    },
+    {
+     "doc": "Concall Aug 2024",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
+     "page": 27,
+     "quote": "EBITDA margin is still minus 2% to minus 3%."
+    }
+   ],
+   "point": "DMart Ready e-commerce operates at an EBITDA loss of minus 2% to minus 3%, recording a loss of INR 247 crores in FY2025."
+  },
+  {
+   "text": "Short-term borrowings reached 965.27 Crores while cash and cash equivalents net of overdrawn bank balances ended at negative 96.56 Crores as of March 31, 2026.",
    "cites": [
     {
      "doc": "Annual Report 2026",
      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
-     "page": 199,
-     "quote": "Net cash flow used in investing activities\n(4,206.96)\n(2,185.31)"
+     "page": 182,
+     "quote": "Short term borrowings | 965.27"
     },
     {
      "doc": "Annual Report 2026",
      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
      "page": 200,
      "quote": "Cash and cash equivalents at end of the year (net of bank overdrawn balances)\n(96.56)\n355.48"
-    }
-   ],
-   "point": "The company generated negative net cash flow used in investing activities of 4,206.96 Crores, leaving ending cash and cash equivalents at negative 96.56 Crores."
-  },
-  {
-   "text": "The defined benefit gratuity plan, carrying a 7-year weighted average obligation duration, exposes DMart to investment, interest rate, salary, mortality, concentration, and asset-liability matching risks.",
-   "cites": [
-    {
-     "doc": "Annual Report 2026",
-     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
-     "page": 181,
-     "quote": "Gratuity is a defined benefit plan and Company is exposed to the following risks: Interest rate risk: A fall in the discount rate which is linked to the G.Sec. rate will increase the present value of the liability requiring higher provision."
     },
     {
-     "doc": "Annual Report 2026",
-     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
-     "page": 181,
-     "quote": "The weighted average duration of the defined benefit plan obligation at the end of the reporting period is 7 years (31st March, 2025: 7 years)."
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+     "page": 5,
+     "quote": "The actual debt, which is net borrowing on the company, is close to INR965 crores as of March 2026 end."
     }
    ],
-   "point": "The defined benefit gratuity plan, carrying a 7-year weighted average obligation duration, exposes DMart to investment, interest rate, salary, mortality, concentration, and asset-liability matching risks."
+   "point": "Short-term borrowings reached 965.27 Crores while cash and cash equivalents net of overdrawn bank balances ended at negative 96.56 Crores as of March 31, 2026."
   }
  ],
  "promised": [
   {
    "id": "2.5",
-   "verdict": "not_measurable",
-   "evidence": "Store expansion metrics and personal time allocation for North India are not reported in the financial table.",
-   "quarters": [],
-   "same_as": null,
-   "claim": "Management plans to put disproportionate time personally into accelerating store expansion in North India over the next six to eight months.",
-   "target": "accelerate store expansion in North India",
-   "horizon": "six months to eight months",
-   "quote": "If you want to accelerate store expansion, which probably over the next six months to eight months, I'm going to put disproportionate time personally also, because North of India is what I'm going to handle from a real estate standpoint.",
-   "doc": "Concall Aug 2025",
-   "page": 8,
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true
-  },
-  {
-   "id": "2.9",
-   "verdict": "not_measurable",
-   "evidence": "DMart Ready operational and financial breakeven data are not reported in the provided table.",
-   "quarters": [],
-   "same_as": null,
-   "claim": "Management expects DMart Ready to potentially break even in a couple of years.",
-   "target": "breakeven",
-   "horizon": "a couple of years",
-   "quote": "So that's broadly what we feel about this.",
-   "doc": "Concall Aug 2025",
-   "page": 19,
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true
-  },
-  {
-   "id": "2.10",
-   "verdict": "not_measurable",
-   "evidence": "Store opening numbers are not tracked in the provided financial table.",
-   "quarters": [],
-   "same_as": null,
-   "claim": "Management states that store openings for the next year will not be less than 50.",
-   "target": "50 stores",
-   "horizon": "next year",
-   "quote": "I mean, it won't be less than 50. I mean, if you're talking so much about it.",
-   "doc": "Concall Aug 2025",
-   "page": 20,
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true
-  },
-  {
-   "id": "2.13",
-   "verdict": "not_measurable",
-   "evidence": "DMart Ready delivery timeframes are qualitative operational metrics not reported in the financial table.",
-   "quarters": [],
-   "same_as": null,
-   "claim": "DMart Ready's vision is to deliver almost all online orders in six hours.",
-   "target": "six hours",
-   "horizon": null,
-   "quote": "Our vision is to deliver almost all our orders in six hours. And I think for the basket value, see, the DMart Ready shopper is not shopping for immediacy.",
-   "doc": "Concall Aug 2025",
-   "page": 21,
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true
-  },
-  {
-   "id": "2.19",
-   "verdict": "delivered",
-   "evidence": "Across all quarters reported after August 2025, OPM% remained below 15%, peaking at 8.1% in Dec 2025 and ranging down to 6.8% in Mar 2026.",
+   "verdict": "too_early",
+   "evidence": "Management promised to accelerate store expansion in North India over the next six to eight months starting from August 2025, but store count data is not provided in the table.",
    "quarters": [
     "Sep 2025",
     "Dec 2025",
@@ -413,37 +349,93 @@
     "Sep 2026"
    ],
    "same_as": null,
-   "claim": "Management states that the company will not earn a margin of more than 15% or thereabouts.",
-   "target": "15%",
-   "horizon": "long-term",
-   "quote": "We are very clear, we'll not earn more than 15% or thereabouts.",
+   "claim": "Management plans to put disproportionate time personally into accelerating store expansion in North India over the next six to eight months.",
+   "target": "accelerate store expansion in North India",
+   "horizon": "six months to eight months",
+   "quote": "If you want to accelerate store expansion, which probably over the next six months to eight months, I'm going to put disproportionate time personally also, because North of India is what I'm going to handle from a real estate standpoint.",
    "doc": "Concall Aug 2025",
-   "page": 29,
+   "page": 8,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
-   "id": "2.22",
+   "id": "2.9",
    "verdict": "not_measurable",
-   "evidence": "NCR store counts are not available in the quarterly financial table.",
-   "quarters": [],
+   "evidence": "DMart Ready's financial results are not broken out separately in the provided table to measure profitability or breakeven.",
+   "quarters": [
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
-   "claim": "Management targets having 100 stores in NCR within a five-year horizon.",
-   "target": "100 stores in NCR",
-   "horizon": "5 years",
-   "quote": "even in the current situation, can, like if I take a five-year horizon, can we have 100 stores in NCR? Of course, you can have.",
+   "claim": "Management expects DMart Ready to potentially break even in a couple of years.",
+   "target": "breakeven",
+   "horizon": "a couple of years",
+   "quote": "So that's broadly what we feel about this.",
    "doc": "Concall Aug 2025",
-   "page": 38,
+   "page": 19,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
-   "id": "2.24",
+   "id": "2.10",
+   "verdict": "too_early",
+   "evidence": "Management stated store openings for the next year will not be less than 50, but individual store opening counts are not reported in the table.",
+   "quarters": [
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management states that store openings for the next year will not be less than 50.",
+   "target": "50 stores",
+   "horizon": "next year",
+   "quote": "I mean, it won't be less than 50. I mean, if you're talking so much about it.",
+   "doc": "Concall Aug 2025",
+   "page": 20,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.13",
    "verdict": "not_measurable",
-   "evidence": "State-wise store additions for Uttar Pradesh and Odisha are not reported in the financial table.",
-   "quarters": [],
+   "evidence": "Delivery time metrics for DMart Ready are qualitative and not tracked in the table.",
+   "quarters": [
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "DMart Ready's vision is to deliver almost all online orders in six hours.",
+   "target": "six hours",
+   "horizon": null,
+   "quote": "Our vision is to deliver almost all our orders in six hours. And I think for the basket value, see, the DMart Ready shopper is not shopping for immediacy.",
+   "doc": "Concall Aug 2025",
+   "page": 21,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.23",
+   "verdict": "too_early",
+   "evidence": "State-specific store locations are not detailed in the quarterly table.",
+   "quarters": [
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management expects to see more store openings in Uttar Pradesh compared to Odisha due to existing inventory and acquired locations.",
    "target": "Uttar Pradesh and Odisha",
@@ -452,14 +444,20 @@
    "doc": "Concall Aug 2025",
    "page": 42,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
-   "id": "2.25",
+   "id": "2.24",
    "verdict": "not_measurable",
-   "evidence": "DMart Ready standalone PAT is not provided in the table.",
-   "quarters": [],
+   "evidence": "Net profit or loss for DMart Ready individually is not separated from the company-wide net profit figures in the table.",
+   "quarters": [
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management aims to achieve break-even at the PAT level for DMart Ready.",
    "target": "PAT break-even",
@@ -468,14 +466,24 @@
    "doc": "Concall Aug 2025",
    "page": 41,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.0",
    "verdict": "not_measurable",
-   "evidence": "General merchandise and apparel revenue contribution percentages are not provided in the table.",
-   "quarters": [],
+   "evidence": "General merchandise and apparel (GMA) contribution percentages are not disclosed in the quarterly results table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management expects general merchandise and apparel (GMA) to trend around the current run rate of about 23%.",
    "target": "23%",
@@ -484,14 +492,24 @@
    "doc": "Concall Aug 2024",
    "page": 4,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.1",
-   "verdict": "not_measurable",
-   "evidence": "New store opening percentages relative to total store count are not available in the financial table.",
-   "quarters": [],
+   "verdict": "too_early",
+   "evidence": "New store counts as a percentage of total stores are not verifiable from the financial table alone.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management states that new store openings should typically account for 10% to 15% of the total store count.",
    "target": "10% to 15% of number count",
@@ -500,22 +518,24 @@
    "doc": "Concall Aug 2024",
    "page": 9,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true,
-   "repeats": [
-    {
-     "doc": "Concall Aug 2024",
-     "page": 56,
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-     "quote": "The theme is the same, 15%, 20%. Okay? You replace everything that I said, 15% with 20% even for this year, right? That's the aspiration."
-    }
-   ]
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
   },
   {
    "id": "3.7",
-   "verdict": "not_measurable",
-   "evidence": "Annual store opening numbers are not tracked in the provided table.",
-   "quarters": [],
+   "verdict": "too_early",
+   "evidence": "Total store opening counts for the year are not reported in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management projects 40 to 45 store openings for the current year.",
    "target": "40-45 stores",
@@ -524,14 +544,24 @@
    "doc": "Concall Aug 2024",
    "page": 17,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.8",
-   "verdict": "not_measurable",
-   "evidence": "Three-year store opening counts are not reported in the financial table.",
-   "quarters": [],
+   "verdict": "too_early",
+   "evidence": "Three-year store opening ranges cannot be tested using only the provided quarterly financial reports.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management projects a store opening range of 40 to 60 over the next three years.",
    "target": "40 to 60 stores",
@@ -540,14 +570,24 @@
    "doc": "Concall Aug 2024",
    "page": 17,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.9",
    "verdict": "not_measurable",
-   "evidence": "DMart Ready delivery speed metrics are not disclosed in the quarterly financial table.",
-   "quarters": [],
+   "evidence": "Delivery time metrics are qualitative and not included in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management states that around 40% to 45% of DMart Ready home deliveries happen within 12 hours.",
    "target": "40%-45% within 12 hours",
@@ -556,14 +596,24 @@
    "doc": "Concall Aug 2024",
    "page": 17,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.10",
    "verdict": "not_measurable",
-   "evidence": "24-hour delivery fulfillment percentages are not present in the reported quarterly table.",
-   "quarters": [],
+   "evidence": "Delivery time metrics are qualitative and not tracked in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management states that about 86% of DMart Ready home deliveries happen within 24 hours.",
    "target": "86% within 24 hours",
@@ -572,14 +622,24 @@
    "doc": "Concall Aug 2024",
    "page": 17,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.11",
    "verdict": "not_measurable",
-   "evidence": "Gross margins are not provided in the quarterly table, which only reports overall operating profit margin (OPM%).",
-   "quarters": [],
+   "evidence": "Gross margins are not listed in the table, which only provides operating profit and OPM%.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management expects gross margins to play around 14% to 15%.",
    "target": "14%-15%",
@@ -588,22 +648,50 @@
    "doc": "Concall Aug 2024",
    "page": 15,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
-   "numbers_ok": true,
-   "repeats": [
-    {
-     "doc": "Concall Aug 2024",
-     "page": 21,
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-     "quote": "I think 14.5%, 15%, 15.5%, those are the kind of ranges we play in from a gross margin standpoint. You have to look at a blended gross margin."
-    }
-   ]
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.15",
+   "verdict": "not_measurable",
+   "evidence": "Gross margins are not reported in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects blended average gross margins to remain within the range of 14.5%, 15%, and 15.5%.",
+   "target": "14.5% to 15.5%",
+   "horizon": null,
+   "quote": "I think 14.5%, 15%, 15.5%, those are the kind of ranges we play in from a gross margin standpoint. You have to look at a blended gross margin.",
+   "doc": "Concall Aug 2024",
+   "page": 21,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
   },
   {
    "id": "3.16",
    "verdict": "not_measurable",
-   "evidence": "Fulfilment center timelines and delivery targets are operational metrics not captured in the financial table.",
-   "quarters": [],
+   "evidence": "Fulfilment center build-outs and delivery speeds are operational details not captured in the financial table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management aims to build fulfilment centres in large towns quickly to enable deliveries within 12 hours for DMart Ready.",
    "target": "12 hours delivery",
@@ -612,14 +700,24 @@
    "doc": "Concall Aug 2024",
    "page": 22,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.17",
    "verdict": "not_measurable",
-   "evidence": "Product category contribution levels like GMA are not provided in the table.",
-   "quarters": [],
+   "evidence": "GMA contribution breakdown is not provided in the financial table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management states that the current financial year's general merchandise and apparel (GMA) contribution will be equal to or better than FY 2024.",
    "target": "Equal to or better than FY24 GMA contribution",
@@ -628,14 +726,24 @@
    "doc": "Concall Aug 2024",
    "page": 29,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.22",
    "verdict": "not_measurable",
-   "evidence": "Apparel sales breakdown is not present in the quarterly table.",
-   "quarters": [],
+   "evidence": "Apparel segment contribution data is not included in the quarterly results.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management believes apparel contribution can return to pre-COVID levels.",
    "target": "pre-COVID contribution levels",
@@ -644,14 +752,24 @@
    "doc": "Concall Aug 2024",
    "page": 29,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.24",
    "verdict": "not_measurable",
-   "evidence": "Store count CAGR figures are not tracked in the financial table.",
-   "quarters": [],
+   "evidence": "CAGR metrics and store counts per annum are not directly computable or listed in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management notes it is getting more challenging to maintain a 15% to 20% CAGR growth rate at only 40 stores per annum.",
    "target": "15% to 20% CAGR",
@@ -660,14 +778,24 @@
    "doc": "Concall Aug 2024",
    "page": 30,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
    "id": "3.31",
    "verdict": "not_measurable",
-   "evidence": "Pharmacy scaling and store presence data are not included in the financial table.",
-   "quarters": [],
+   "evidence": "Pharmacy category scale and store counts are not tracked in the financial table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management plans to scale up the pharmacy category and have it in as many stores as possible over a reasonable amount of time.",
    "target": "as many stores as possible",
@@ -676,14 +804,24 @@
    "doc": "Concall Aug 2024",
    "page": 43,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
-   "id": "3.36",
-   "verdict": "not_measurable",
-   "evidence": "Geographic store additions in Uttar Pradesh are not reported in the table.",
-   "quarters": [],
+   "id": "3.35",
+   "verdict": "too_early",
+   "evidence": "State-specific store openings in Uttar Pradesh are not tracked in the financial summary table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management plans to open stores in Uttar Pradesh and has tied up firm deals.",
    "target": "Uttar Pradesh",
@@ -692,14 +830,24 @@
    "doc": "Concall Aug 2024",
    "page": 48,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
   },
   {
-   "id": "3.37",
+   "id": "3.36",
    "verdict": "not_measurable",
-   "evidence": "Pharmacy square footage data is not provided in the financial table.",
-   "quarters": [],
+   "evidence": "Store square footage details are qualitative and not present in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
    "same_as": null,
    "claim": "Management notes that pharmacy takes around 300 to 800 square feet inside a store.",
    "target": "300 to 800 square feet",
@@ -708,8 +856,72 @@
    "doc": "Concall Aug 2024",
    "page": 56,
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
-   "judge": "gemini-3.5-flash",
+   "judge": "gemini-3.5-flash-lite",
    "numbers_ok": true
+  },
+  {
+   "id": "3.38",
+   "verdict": "too_early",
+   "evidence": "Minimax store model performance metrics are not explicitly broken out in the table.",
+   "quarters": [
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects to get a very clear picture on the Minimax store model in another year or two.",
+   "target": "clear picture on model",
+   "horizon": "1-2 years",
+   "quote": "I don't know, maybe another year or two, we'll get a very clear picture.",
+   "doc": "Concall Aug 2024",
+   "page": 58,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=665e24d3-eb58-4e20-b8aa-7a32f9aa70c3.pdf",
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true
+  },
+  {
+   "id": "4.3",
+   "verdict": "not_measurable",
+   "evidence": "Gross margins are not reported in the table, only operating profit margins (OPM%) ranging from 6.4% to 8.7% are provided.",
+   "quarters": [
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management states a gross margin target of not wanting to earn more than 15%.",
+   "target": "15%",
+   "horizon": null,
+   "quote": "gross margins are something that is sacrosanct. We don't want to earn more than 15% and below that whatever happens is a factor of market forces.",
+   "doc": "Concall Aug 2023",
+   "page": 13,
+   "url": "https://api.dmartindia.com/corporate/content/file/v1/6/9CgmGcMoKSLXpvuus3iRJ16p1692274965/Transcript%20of%2023rd%20AGM%20-10.08.2023.pdf",
+   "judge": "gemini-3.5-flash-lite",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Aug 2025",
+     "page": 29,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf",
+     "quote": "We are very clear, we'll not earn more than 15% or thereabouts."
+    }
+   ]
   }
  ],
  "trajectory": {
@@ -803,7 +1015,7 @@
  },
  "stats": {
   "documents": 5,
-  "verified_items": 172,
+  "verified_items": 136,
   "view_model": "gemini-3.5-flash",
   "bulk_model": "gemini-3.5-flash-lite"
  }

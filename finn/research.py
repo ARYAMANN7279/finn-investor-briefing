@@ -128,8 +128,8 @@ def extract_doc(doc: dict, tag: str) -> list[dict]:
         r = llm.ask(CHUNK_PROMPT.format(label=doc["label"], text=chunk), tier="bulk", system=CHUNK_SYSTEM, schema=CHUNK_SCHEMA)
         for kind, key in (("claim", "claims"), ("fact", "facts")):
             for it in r["data"].get(key, []):
-                if it.get("speaker") == "analyst":  # a question from the floor is not management's word
-                    continue
+                if it.get("speaker") == "analyst" or (doc["kind"] == "concall" and "?" in it["quote"]):
+                    continue  # a question from the floor is not management's word (the model's label is checked with a plain rule)
                 q = _norm(it["quote"])
                 if len(q) < 25 or q not in doc["norm"]:  # not a verbatim quote of this document: drop it
                     continue
