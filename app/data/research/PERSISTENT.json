@@ -1,0 +1,667 @@
+{
+ "symbol": "PERSISTENT",
+ "name": "Persistent Systems Ltd",
+ "built_at": "2026-10-27T18:50:23+0530",
+ "sources": [
+  {
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+   "kind": "annual_report"
+  },
+  {
+   "label": "Concall Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Apr 2026",
+   "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+   "kind": "concall"
+  }
+ ],
+ "business": {
+  "text": "Persistent Systems Limited is a software and IT consulting organisation operating with more than 27,500 employees across 21 countries [1][2]. The company derives revenues primarily from IT services comprising software development and related services and from the licensing of software products [3]. It also operates its own software product business through Accelerite [4].",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 212,
+    "quote": "As a Software and IT consulting organisation, we do not manufacture physical products"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 262,
+    "quote": "With more than 27,500 employees across 21 countries, it specialises in AI-driven solutions and software product engineering for industries such as BFSI, Healthcare and Hi-Tech"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 435,
+    "quote": "The Company derives revenues primarily from IT services comprising software development and related services and from the licensing of software products."
+   },
+   {
+    "doc": "Concall Oct 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+    "page": 12,
+    "quote": "Through Accelerite, we have also operated our own software product business, which gave us the direct experience in building, selling, supporting, and sustaining enterprise software."
+   }
+  ]
+ },
+ "narrative": {
+  "text": "Both the annual report and management calls highlight the company's steady expansion in headcount and revenue scale [1][2][3][4]. The annual report focuses on capital management objectives, business continuity frameworks, and risk mitigation across foreign exchange and investments [5][6][7][8]. Recent concalls shift emphasis toward major strategic deal wins, platform innovations, and the planned acquisition of Nagarro [9][10][11][12].",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 262,
+    "quote": "With more than 27,500 employees across 21 countries, it specialises in AI-driven solutions and software product engineering for industries such as BFSI, Healthcare and Hi-Tech"
+   },
+   {
+    "doc": "Concall Oct 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+    "page": 8,
+    "quote": "At the end of Q2 FY27, our total headcount stood at 29,598, an increase of 958 from previous the quarter."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+    "page": 5,
+    "quote": "Persistent today is roughly a $1.654 billion entity from a FY26 perspective. • From a run rate perspective, we are more than $1.7 billion."
+   },
+   {
+    "doc": "Concall Apr 2026",
+    "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+    "page": 24,
+    "quote": "At $1.7 billion, roughly we are very, very small in this and there is enough new outsourcing that may happen from these tech companies."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 536,
+    "quote": "The Company’s objective for capital management is to maximise shareholder value, safeguard business continuity and support the growth of the Company."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 473,
+    "quote": "The Company holds derivative foreign currency forward contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. These derivative financial instruments are valued based on quoted prices for similar assets in active markets or inputs that are directly or indirectly observable in the marketplace. The Company has designated foreign exchange forward contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast sales transactions."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 473,
+    "quote": "To manage its price risk arising from investments in mutual funds, the Company diversified its portfolio."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 245,
+    "quote": "Persistent Systems operates a mature, ISO/IEC 22301:2019–aligned Business Continuity Management System (BCMS) framework"
+   },
+   {
+    "doc": "Concall Oct 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+    "page": 12,
+    "quote": "Our teams today hold nearly 25,000 partner certifications across Microsoft, AWS, Google Cloud, Salesforce, Databricks, and Snowflakes, and have earned more than 58,000 AI certifications to date."
+   },
+   {
+    "doc": "Concall Oct 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+    "page": 19,
+    "quote": "ACV reported in Q1 FY27 was $536.8 million and the TCV was $1,146.2 million"
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+    "page": 11,
+    "quote": "Persistent has agreed to acquire 100% of the Nagarro shares at an enterprise value of €1.27 billion based on an €81 per share in cash"
+   },
+   {
+    "doc": "Concall Jan 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+    "page": 12,
+    "quote": "It's now having 105 patents filed, including 30 in the last quarter, along with over 20 research publications."
+   }
+  ]
+ },
+ "balance": {
+  "text": "The company has no outstanding bank borrowings, with principal liquidity sourced from cash and cash equivalents and operating cash flows [1]. Net cash generated from operating activities for the year ended March 31, 2026 was ₹ 18,067.18 Million, while working capital included cash and cash equivalents and current fixed deposits of ₹ 12,161.24 Million [2][3].",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 475,
+    "quote": "The Company’s principal sources of liquidity are cash and cash equivalents and the cash flow that is generated from operations. The Company has no outstanding bank borrowings."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 379,
+    "quote": "As at March  31, 2026, the Group had a working capital of ₹ 42,102.17 Million including cash and cash equivalents and current fixed deposits of ₹ 12,161.24 Million and current investments of ₹ 9,146.28 Million."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+    "page": 419,
+    "quote": "Net cash generated from operating activities (A) 18,067.18"
+   }
+  ]
+ },
+ "bull": [
+  {
+   "text": "Persistent Systems achieved full-year FY26 revenue of USD 1.65 billion and holds a historical five-year CAGR of 23.9% [1][2].",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+     "page": 18,
+     "quote": "we have grown from the time we went IPO at about 17.5% plus CAGR. If you look at the last five years in an industry where others have not grown, we have grown disproportionately. From our last five years CAGR perspective, we are at 23.9%."
+    },
+    {
+     "doc": "Concall Apr 2026",
+     "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+     "page": 3,
+     "quote": "FY26 revenue came in at USD 1.65 billion, translating into 17.4% YoY."
+    }
+   ],
+   "point": "Persistent Systems achieved full-year FY26 revenue of USD 1.65 billion and holds a historical five-year CAGR of 23.9% [1][2]."
+  },
+  {
+   "text": "The BFSI vertical demonstrated strong performance with full-year FY26 revenue growth of 28.4% year-on-year and an annualized run rate of USD 600 million [1][2].",
+   "cites": [
+    {
+     "doc": "Concall Apr 2026",
+     "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+     "page": 14,
+     "quote": "BFSI vertical demonstrated a robust growth of 24.4% year-on-year from Q4 perspective with an annualized run rate of USD 600 million."
+    },
+    {
+     "doc": "Concall Apr 2026",
+     "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+     "page": 14,
+     "quote": "With respect to full FY26 financial year, the revenue growth came at 28.4% year-on-year, a result of expanding relationships with our existing customers and new client wins across North America, Europe and Australia."
+    }
+   ],
+   "point": "The BFSI vertical demonstrated strong performance with full-year FY26 revenue growth of 28.4% year-on-year and an annualized run rate of USD 600 million [1][2]."
+  },
+  {
+   "text": "The company has strong technical capabilities, holding over 58,000 AI certifications and filing 105 patents for its SASVA platform [1][2].",
+   "cites": [
+    {
+     "doc": "Concall Oct 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+     "page": 12,
+     "quote": "Our teams today hold nearly 25,000 partner certifications across Microsoft, AWS, Google Cloud, Salesforce, Databricks, and Snowflakes, and have earned more than 58,000 AI certifications to date."
+    },
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+     "page": 12,
+     "quote": "It's now having 105 patents filed, including 30 in the last quarter, along with over 20 research publications."
+    }
+   ],
+   "point": "The company has strong technical capabilities, holding over 58,000 AI certifications and filing 105 patents for its SASVA platform [1][2]."
+  },
+  {
+   "text": "Operational efficiency remains strong with utilization reaching 85.8% and tools driving a 150 basis point margin improvement [1][2].",
+   "cites": [
+    {
+     "doc": "Concall Oct 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+     "page": 8,
+     "quote": "Utilization stood at 85.8%, down 70 basis sequentially, primarily reflecting proactive hiring to support the ramp-up of large deals."
+    },
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+     "page": 21,
+     "quote": "there's a 150 bps improvement in margins because of tools and pricing, tool-driven pricing models."
+    }
+   ],
+   "point": "Operational efficiency remains strong with utilization reaching 85.8% and tools driving a 150 basis point margin improvement [1][2]."
+  }
+ ],
+ "bear": [
+  {
+   "text": "Revenue generation carries customer concentration risk, as the top 100 customers provide 82% of total revenue [1].",
+   "cites": [
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+     "page": 23,
+     "quote": "if you look at our top 100 customers, they give us 82% of our revenue."
+    }
+   ],
+   "point": "Revenue generation carries customer concentration risk, as the top 100 customers provide 82% of total revenue [1]."
+  },
+  {
+   "text": "The planned Nagarro acquisition introduces significant leverage, funded via bridge financing from Barclays and inheriting Nagarro's net debt of around €267 million [1][2][3].",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+     "page": 11,
+     "quote": "Persistent has agreed to acquire 100% of the Nagarro shares at an enterprise value of €1.27 billion based on an €81 per share in cash"
+    },
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+     "page": 12,
+     "quote": "Then there is a Net Debt, reported Net Debt, of around €267 million. And that translates into the enterprise value of €1.27 billion."
+    },
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+     "page": 12,
+     "quote": "This will be completely funded through a committed bridge financing from Barclays. The interest rate is going to be Euribor plus a margin of 175-250 basis point."
+    }
+   ],
+   "point": "The planned Nagarro acquisition introduces significant leverage, funded via bridge financing from Barclays and inheriting Nagarro's net debt of around €267 million [1][2][3]."
+  },
+  {
+   "text": "The company faces foreign currency exposure risks, reflected by a debit balance of INR 1,676.01 Million in its Forward Cover Reserve as of March 31, 2026 [1][2].",
+   "cites": [
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+     "page": 268,
+     "quote": "Accordingly, the Forward Cover Reserve (net of tax effects) as at March 31, 2026, stood at a debit balance of INR 1,676.01 Million as against a debit balance of INR 2.32 Million as at March 31, 2025."
+    },
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+     "page": 473,
+     "quote": "The Company holds derivative foreign currency forward contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. These derivative financial instruments are valued based on quoted prices for similar assets in active markets or inputs that are directly or indirectly observable in the marketplace. The Company has designated foreign exchange forward contracts as cash flow hedges to mitigate the risk of foreign exchange exposure on highly probable forecast sales transactions."
+    }
+   ],
+   "point": "The company faces foreign currency exposure risks, reflected by a debit balance of INR 1,676.01 Million in its Forward Cover Reserve as of March 31, 2026 [1][2]."
+  },
+  {
+   "text": "Employee attrition remains a concern, ranging between 11.9% and 13.5% on a trailing 12-month basis across recent quarters [1][2][3].",
+   "cites": [
+    {
+     "doc": "Concall Oct 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+     "page": 8,
+     "quote": "Trailing 12-months attrition stood at 11.9% compared to 12.3% in the previous quarter."
+    },
+    {
+     "doc": "Concall Apr 2026",
+     "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+     "page": 9,
+     "quote": "Trailing 12 months attrition for this quarter came in at 13% compared to 13.5% in the previous quarter."
+    },
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+     "page": 9,
+     "quote": "Trailing Twelve Months attrition this quarter came in at 13.5% compared to 13.8% in the previous quarter."
+    }
+   ],
+   "point": "Employee attrition remains a concern, ranging between 11.9% and 13.5% on a trailing 12-month basis across recent quarters [1][2][3]."
+  }
+ ],
+ "promised": [
+  {
+   "id": "2.0",
+   "verdict": "too_early",
+   "evidence": "The deal targets a period of 6.5 years, whereas only Sep 2026 has been reported since the call.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "The new strategic deal will add about $125 million plus on an annual basis and roughly $650 million plus over 6.5 years.",
+   "target": "$650 million plus",
+   "horizon": "6.5 years",
+   "quote": "This is a net new deal which will add roughly about $125 million plus on an annual basis and overall for the period of the contract it will be roughly about $650 million plus over 6.5 years.",
+   "doc": "Concall Aug 2026",
+   "page": 4,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.7",
+   "verdict": "not_measurable",
+   "evidence": "The quarterly table does not report geographical breakdown of revenue.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects European business to reach 15% plus, getting to 22% in Europe with the Nagarro combination.",
+   "target": "22% in Europe",
+   "horizon": null,
+   "quote": "We add to the European business, we live to our dream of having European business at 15% plus. In fact, it's a very nice combination which gets us to 22% in Europe",
+   "doc": "Concall Aug 2026",
+   "page": 10,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.8",
+   "verdict": "too_early",
+   "evidence": "The target horizon is FY31, which is far beyond the latest reported quarter of Sep 2026.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management targets $5 billion aspiration by FY31.",
+   "target": "$5 billion",
+   "horizon": "FY31",
+   "quote": "do we need additional verticals to scale to the aspiration of $5 billion that we have? By FY31, we get that as well at a nice scale.",
+   "doc": "Concall Aug 2026",
+   "page": 10,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.9",
+   "verdict": "too_early",
+   "evidence": "The commitment covers Year 1 post-transaction, whereas only Sep 2026 is reported after the call.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects the transaction to be Cash EPS accretive and Reported EPS accretive in Year 1 excluding transaction expenses.",
+   "target": "Cash EPS accretive and Reported EPS accretive",
+   "horizon": "Year 1",
+   "quote": "The transaction is expected to be Cash EPS accretive as well as Reported EPS accretive in Year 1 if you remove the transaction expenses that will be incurred in the first year.",
+   "doc": "Concall Aug 2026",
+   "page": 13,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Aug 2026",
+     "page": 20,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+     "quote": "become cash EPS accretive from Year 1, and remove the transactional expenses, even the reported EPS should be positive from Year 1."
+    }
+   ]
+  },
+  {
+   "id": "2.10",
+   "verdict": "too_early",
+   "evidence": "Transaction close target is Q4 CY2026 or early Q1 CY2027, which lies beyond Sep 2026.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects the transaction to close sometime towards Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+   "target": "Transaction close",
+   "horizon": "Q4 CY2026 or Q1 CY2027",
+   "quote": "we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+   "doc": "Concall Aug 2026",
+   "page": 13,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": false
+  },
+  {
+   "id": "2.18",
+   "verdict": "not_measurable",
+   "evidence": "The quarterly financial table does not provide information on debt or loan repayments.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management intends to use cash generation over time to repay some of the loans.",
+   "target": "repay some of the loans",
+   "horizon": "over a period of time",
+   "quote": "our intent is basically to see some of these loans are repaid to the cash generation that will be happening over a period of time.",
+   "doc": "Concall Aug 2026",
+   "page": 20,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.19",
+   "verdict": "not_measurable",
+   "evidence": "Corporate structural agreements like domination or loss transfer are not reported in the table.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management states that Persistent does not intend to enter into a domination and/or property loss transfer agreement for two years.",
+   "target": "no domination or property loss transfer agreement",
+   "horizon": "two years",
+   "quote": "Persistent does not intend to enter into a domination and/or property loss transfer agreement for two years.",
+   "doc": "Concall Aug 2026",
+   "page": 24,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.20",
+   "verdict": "not_measurable",
+   "evidence": "Qualitative goals regarding integration and squeeze-out steps are not measurable from the table.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management targets to integrate over the next two years and ultimately become one entity.",
+   "target": "squeeze out and become one entity",
+   "horizon": "next two years",
+   "quote": "over a period of the next two years, look at where we can do the squeeze out. And we are in no hurry to do the squeeze out. We can do the squeeze out at the right period of time. Ultimately, it'll become one entity going ahead.",
+   "doc": "Concall Aug 2026",
+   "page": 24,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.25",
+   "verdict": "not_measurable",
+   "evidence": "Goodwill and intangibles amortization breakdowns are not present in the reported table.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Goodwill and intangibles are anticipated to have a 70-30 split, with intangibles amortizable over eight years.",
+   "target": "70-30 split",
+   "horizon": "eight years",
+   "quote": "what we are right now anticipating is a 70-30 split in terms of the goodwill and intangibles. The intangibles will be amortizable over a period of eight years.",
+   "doc": "Concall Aug 2026",
+   "page": 26,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.26",
+   "verdict": "not_measurable",
+   "evidence": "The table does not contain details on equity dilution or QIP issuances.",
+   "quarters": [
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "The company does not intend to do any QIP or dilute its stake at this point in time.",
+   "target": "no QIP",
+   "horizon": "at this point in time",
+   "quote": "We don't intend doing any QIP, just to be clear for everyone. We don't intend diluting our stake at this point in time.",
+   "doc": "Concall Aug 2026",
+   "page": 25,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.12",
+   "verdict": "partly",
+   "evidence": "OPM% was within the target range at 16.2% in Jun 2026, but fell below target to 13.6% in Sep 2026.",
+   "quarters": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management's aspiration for margins continues to be in the 16% to 17% range.",
+   "target": "16 to 17%",
+   "horizon": "next 2 years",
+   "quote": "Our aspiration continues to be in the 16 to 17% range.",
+   "doc": "Concall Apr 2026",
+   "page": 26,
+   "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "4.0",
+   "verdict": "too_early",
+   "evidence": "The horizon is March 2027, which lies beyond the available reported quarters through Sep 2026.",
+   "quarters": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Management stated they remain firmly on track advancing towards their aspiration of $2 billion by March 2027.",
+   "target": "$2 billion",
+   "horizon": "March 2027",
+   "quote": "we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+   "doc": "Concall Jan 2026",
+   "page": 6,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": false,
+   "repeats": [
+    {
+     "doc": "Concall Apr 2026",
+     "page": 18,
+     "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+     "quote": "the $2 billion by FY27, that's a run rate. We are marching towards it steadily."
+    }
+   ]
+  },
+  {
+   "id": "4.1",
+   "verdict": "not_measurable",
+   "evidence": "Effective Tax Rate (ETR) cannot be determined from the provided table because tax expenses and pre-tax profit are not reported.",
+   "quarters": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "same_as": null,
+   "claim": "Effective Tax Rate for FY26 will be in the range of 20%-24%.",
+   "target": "20%-24%",
+   "horizon": "FY26",
+   "quote": "ETR for FY26 will be in the range of 20%-24%.",
+   "doc": "Concall Jan 2026",
+   "page": 8,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  }
+ ],
+ "trajectory": {
+  "rows": [
+   {
+    "q": "Dec 2023",
+    "revenue": 2498.0,
+    "opm": 17.7,
+    "pat": 286.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Mar 2024",
+    "revenue": 2591.0,
+    "opm": 17.5,
+    "pat": 315.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Jun 2024",
+    "revenue": 2737.0,
+    "opm": 16.6,
+    "pat": 306.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Sep 2024",
+    "revenue": 2897.0,
+    "opm": 16.6,
+    "pat": 325.0,
+    "rev_yoy": 20.1
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 3062.0,
+    "opm": 17.6,
+    "pat": 373.0,
+    "rev_yoy": 22.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 3242.0,
+    "opm": 18.0,
+    "pat": 396.0,
+    "rev_yoy": 25.1
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 3334.0,
+    "opm": 18.4,
+    "pat": 425.0,
+    "rev_yoy": 21.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 3581.0,
+    "opm": 19.1,
+    "pat": 471.0,
+    "rev_yoy": 23.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 3778.0,
+    "opm": 19.4,
+    "pat": 439.0,
+    "rev_yoy": 23.4
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 4056.0,
+    "opm": 18.9,
+    "pat": 529.0,
+    "rev_yoy": 25.1
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 4303.0,
+    "opm": 16.2,
+    "pat": 483.0,
+    "rev_yoy": 29.1
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 4664.0,
+    "opm": 13.6,
+    "pat": 352.0,
+    "rev_yoy": 30.2
+   }
+  ],
+  "financial": false
+ },
+ "stats": {
+  "documents": 5,
+  "verified_items": 105,
+  "view_model": "gemini-3.5-flash",
+  "bulk_model": "gemini-3.5-flash-lite"
+ }
+}

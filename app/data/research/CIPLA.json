@@ -1,0 +1,753 @@
+{
+ "symbol": "CIPLA",
+ "name": "Cipla Ltd",
+ "built_at": "2026-10-27T18:55:07+0530",
+ "sources": [
+  {
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+   "kind": "annual_report"
+  },
+  {
+   "label": "Concall Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+   "kind": "concall"
+  }
+ ],
+ "business": {
+  "text": "Cipla operates 48 manufacturing facilities globally and earns revenue from pharmaceutical product sales upon transfer of product control. India represents approximately 50% of total sales, where the company holds the leading position by volume, and respiratory products account for one third of total business. The company also generates revenue from international markets, including $780 million in North American annual sales, alongside its active pharmaceutical ingredient business.",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 40,
+    "quote": "48 manufacturing facilities"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 253,
+    "quote": "The Company recognizes revenue from sales of pharmaceutical products, when control of the product is transferred. The Company records product sales net of estimated discounts, right to returns, rebates and other price adjustments."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 160,
+    "quote": "In FY 2026-27, API business will continue to focus on maintaining a strong market position in top 10 APIs and bringing new business on board with new pipeline molecules and enhancing its market presence via organic launches, partnering with innovators and deepening its footprint by increasing outreach to newer untapped markets."
+   },
+   {
+    "doc": "Concall Jul 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+    "page": 17,
+    "quote": "That's obviously one third of our total business."
+   },
+   {
+    "doc": "Concall Jul 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+    "page": 17,
+    "quote": "50% of the business come from India"
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 5,
+    "quote": "the business reported quarterly revenue of USD 155 million and an annual revenue of $780 million, supported by demand in our differentiated portfolio and a steady base business."
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 16,
+    "quote": "We're actually number1 by volume."
+   }
+  ]
+ },
+ "narrative": {
+  "text": "Both the annual report and earnings calls emphasize strong overall growth and financial performance, citing annual FY26 revenue of INR 28,163 crores and One India business revenue exceeding INR 12,500 crores. They also agree on global scale, highlighted by EMEU operations growing past $400 million. However, earnings calls shift focus towards specific commercial updates and operational issues, such as the rollout of Yurpeak (tirzepatide), North American revenue fluctuations ($233 million in Q2 FY26 down to $167 million in Q3 FY26), and required U.S. FDA remediation for Lanreotide.",
+  "cites": [
+   {
+    "doc": "Concall Jul 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+    "page": 12,
+    "quote": "So after Mounjaro, in IQVIA, Yurpeak is the second largest brand."
+   },
+   {
+    "doc": "Concall Jul 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+    "page": 16,
+    "quote": "Pharmathene has worked on a lot of remediation at their end as required by the U.S. FDA."
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 3,
+    "quote": "In India, we crossed a significant threshold with the business surpassing INR12,500 crores in revenues, underscoring the strength and resilience of our domestic franchise, which is our largest franchise."
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 3,
+    "quote": "our EMEU operations scaled meaningfully to become a $400 million-plus business unit."
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 6,
+    "quote": "And as a result of that, we ended the year with INR 28,163 crores."
+   },
+   {
+    "doc": "Concall Jan 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+    "page": 4,
+    "quote": "In North America, we delivered quarterly revenue of $167 million, which included a small contribution from Lenalidomide."
+   },
+   {
+    "doc": "Concall Nov 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+    "page": 5,
+    "quote": "In North America, we delivered a quarterly revenue of $233 million."
+   },
+   {
+    "doc": "Concall Nov 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+    "page": 9,
+    "quote": "So we will be launching a brand called Yurpeak, which is exclusive to Cipla, and we have nationwide distribution rights and the full rights to promote and distribute the product in India."
+   }
+  ]
+ },
+ "balance": {
+  "text": "As of March 31, 2026, Cipla maintained fixed-rate borrowings with total debt including lease liabilities at INR 614 crores and net debt at negative INR 10,526.03 Crores. Total cash and cash equivalents including mutual funds and bank deposits stood at INR 11,139.80 Crores as of March 31, 2026, adjusting to a net cash equivalent balance of INR 9,494 crores by June 30, 2026.",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 334,
+    "quote": "The Company has borrowings at a fixed rate therefore not exposed to interest rate risk."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 417,
+    "quote": "Less: Cash and cash equivalents \nincluding mutual fund and bank \ndeposit\n 11,139.80\n 10,806.69"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+    "page": 417,
+    "quote": "Net debt (A)\n(10,526.03)\n(10,368.50)"
+   },
+   {
+    "doc": "Concall Jul 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+    "page": 6,
+    "quote": "As of 30 June, 2026, the debt on our balance sheet, including lease liabilities, stood at INR600 crores with net cash equivalent balance at INR9,494 crores"
+   },
+   {
+    "doc": "Concall May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+    "page": 7,
+    "quote": "As of 31st March 2026, the debt on our balance sheet, including the lease liabilities stood at INR 614 crores with net cash equivalent balance at INR10,526 crores."
+   }
+  ]
+ },
+ "bull": [
+  {
+   "text": "Market leadership in India supported by major brand launches, including Yurpeak which achieved the second largest market position in the domestic anti-obesity segment.",
+   "cites": [
+    {
+     "doc": "Concall Jul 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+     "page": 12,
+     "quote": "So after Mounjaro, in IQVIA, Yurpeak is the second largest brand."
+    },
+    {
+     "doc": "Concall May 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "page": 16,
+     "quote": "We're actually number1 by volume."
+    },
+    {
+     "doc": "Concall Nov 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+     "page": 9,
+     "quote": "So we will be launching a brand called Yurpeak, which is exclusive to Cipla, and we have nationwide distribution rights and the full rights to promote and distribute the product in India."
+    }
+   ],
+   "point": "Market leadership in India supported by major brand launches, including Yurpeak which achieved the second largest market position in the domestic anti-obesity segment."
+  },
+  {
+   "text": "Solid balance sheet strength backed by a negative net debt of INR 10,526.03 Crores and over INR 10,500 crores in net cash equivalents.",
+   "cites": [
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+     "page": 417,
+     "quote": "Net debt (A)\n(10,526.03)\n(10,368.50)"
+    },
+    {
+     "doc": "Concall May 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "page": 7,
+     "quote": "As of 31st March 2026, the debt on our balance sheet, including the lease liabilities stood at INR 614 crores with net cash equivalent balance at INR10,526 crores."
+    },
+    {
+     "doc": "Concall May 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "page": 16,
+     "quote": "Actually just one clarification because the cash on balance sheet is pretty large now."
+    }
+   ],
+   "point": "Solid balance sheet strength backed by a negative net debt of INR 10,526.03 Crores and over INR 10,500 crores in net cash equivalents."
+  },
+  {
+   "text": "Expanding footprint in key international geographies, with North America generating $780 million in annual revenue and EMEU operations scaling past $400 million.",
+   "cites": [
+    {
+     "doc": "Concall May 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "page": 3,
+     "quote": "our EMEU operations scaled meaningfully to become a $400 million-plus business unit."
+    },
+    {
+     "doc": "Concall May 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "page": 5,
+     "quote": "the business reported quarterly revenue of USD 155 million and an annual revenue of $780 million, supported by demand in our differentiated portfolio and a steady base business."
+    }
+   ],
+   "point": "Expanding footprint in key international geographies, with North America generating $780 million in annual revenue and EMEU operations scaling past $400 million."
+  },
+  {
+   "text": "Strategic growth through targeted acquisitions and joint ventures, including full ownership of Inzpera Healthsciences and a new joint venture with Kemwell Biopharma.",
+   "cites": [
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+     "page": 165,
+     "quote": "Acquired 100% stake in Inzpera Healthsciences Limited (\"Inzpera\") making it a wholly owned subsidiary of the Company w.e.f 4th December, 2025."
+    },
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+     "page": 165,
+     "quote": "The Company and Kemwell Biopharma Private Limited incorporated a new joint venture company named Aspergen Limited in India, with effect from 5th May, 2026 with a shareholding structure of 60% by the Company and 40% by Kemwell Biopharma Private Limited."
+    }
+   ],
+   "point": "Strategic growth through targeted acquisitions and joint ventures, including full ownership of Inzpera Healthsciences and a new joint venture with Kemwell Biopharma."
+  }
+ ],
+ "bear": [
+  {
+   "text": "Quarterly North America revenue demonstrated volatility, falling from $233 million in Q2 FY26 to $167 million in Q3 FY26.",
+   "cites": [
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+     "page": 4,
+     "quote": "In North America, we delivered quarterly revenue of $167 million, which included a small contribution from Lenalidomide."
+    },
+    {
+     "doc": "Concall Nov 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+     "page": 5,
+     "quote": "In North America, we delivered a quarterly revenue of $233 million."
+    }
+   ],
+   "point": "Quarterly North America revenue demonstrated volatility, falling from $233 million in Q2 FY26 to $167 million in Q3 FY26."
+  },
+  {
+   "text": "Regulatory and remediation hurdles, including required U.S. FDA remediation work by Pharmathene regarding Lanreotide.",
+   "cites": [
+    {
+     "doc": "Concall Jul 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+     "page": 16,
+     "quote": "Pharmathene has worked on a lot of remediation at their end as required by the U.S. FDA."
+    }
+   ],
+   "point": "Regulatory and remediation hurdles, including required U.S. FDA remediation work by Pharmathene regarding Lanreotide."
+  },
+  {
+   "text": "Low market penetration for certain key products, such as Abraxane remaining in single-digit market share in a competitive market.",
+   "cites": [
+    {
+     "doc": "Concall Jan 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+     "page": 12,
+     "quote": "So, it's become a competitive market. So, as of now, we are inching up our market share. Currently, it's a single digit."
+    }
+   ],
+   "point": "Low market penetration for certain key products, such as Abraxane remaining in single-digit market share in a competitive market."
+  },
+  {
+   "text": "Impending patent expiration risks, such as Revlimid going off patent in January.",
+   "cites": [
+    {
+     "doc": "Concall Nov 2025",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+     "page": 16,
+     "quote": "anyways, it gives -- goes off patent in January, it's very close to that."
+    }
+   ],
+   "point": "Impending patent expiration risks, such as Revlimid going off patent in January."
+  }
+ ],
+ "promised": [
+  {
+   "id": "2.0",
+   "verdict": "too_early",
+   "evidence": "The target horizon is towards the end of FY27, but reported quarters only extend up to Sep 2026.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management aims to cross the $1 billion run rate mark for North America towards the end of FY27.",
+   "target": "$1 billion run rate",
+   "horizon": "FY '27",
+   "quote": "And our aim is to cross $1 billion mark as a run rate towards the end of this financial year, i.e., FY '27.",
+   "doc": "Concall May 2026",
+   "page": 7,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall May 2026",
+     "page": 9,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "quote": "So the guidance, I just wanted to clarify is a $1 billion run rate by the end of the year. We are not guiding for $1 billion revenue during the year, right? And the reason for that is because a lot of this is contingent on pipeline maturing."
+    },
+    {
+     "doc": "Concall May 2026",
+     "page": 14,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "quote": "We are talking about $1 billion exit. So this is about $380 million of incremental revenue."
+    }
+   ]
+  },
+  {
+   "id": "2.1",
+   "verdict": "too_early",
+   "evidence": "The target is for full-year FY27, which is not yet complete as results are only available up to Sep 2026.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management expects EBITDA margins to be in the range of 18.5% to 20% for FY27.",
+   "target": "18.5% to 20% EBITDA margin",
+   "horizon": "FY '27",
+   "quote": "We expect the EBITDA margins to be in the range of 18.5% to 20% and this would be actually achieved with a sequential improvement quarter-on-quarter with the key improvement being in the second half of the year.",
+   "doc": "Concall May 2026",
+   "page": 7,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall May 2026",
+     "page": 17,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "quote": "So that's exactly what I had mentioned initially that in 18.5% to 20% that we're guiding, it will be more in the favor of H2 where you will have better than average"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "verdict": "not_measurable",
+   "evidence": "Trade generics product launches are not reported in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company plans 17 new launches in the trade generics business this year.",
+   "target": "17 new launches",
+   "horizon": "this year",
+   "quote": "We will continue to expand portfolio and use that as a key driver for growth with 17 new launches planned this year.",
+   "doc": "Concall May 2026",
+   "page": 4,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.3",
+   "verdict": "not_measurable",
+   "evidence": "Product filings in the U.S. are not tracked in the provided financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management targets filing nearly 40 to 50 products in the U.S. over the next 3 years.",
+   "target": "40 to 50 products",
+   "horizon": "next 3 years",
+   "quote": "We remain very confident in our U.S. business outlook, which is supported by a pipeline of nearly 40 to 50 products to be filed over the next 3 years.",
+   "doc": "Concall May 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.4",
+   "verdict": "not_measurable",
+   "evidence": "Commercialization of specific respiratory assets cannot be verified from the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Four respiratory assets are expected to be commercialized in FY27.",
+   "target": "4 respiratory assets",
+   "horizon": "FY '27",
+   "quote": "4 of these are expected to be commercialized in FY '27.",
+   "doc": "Concall May 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.5",
+   "verdict": "not_measurable",
+   "evidence": "Asset filings for Peptides and Complex Generics are not tracked in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management aims to file 3 more Peptides and Complex Generics assets in the next 12 to 24 months.",
+   "target": "3 assets",
+   "horizon": "next 12 to 24 months",
+   "quote": "We aim to file 3 more Peptides & Complex Generics assets in the next 12 to 24 months.",
+   "doc": "Concall May 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.6",
+   "verdict": "not_measurable",
+   "evidence": "Respiratory asset filings are not disclosed in the provided quarterly financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Two respiratory assets incorporating green propellant are expected to be filed over the next 24 months.",
+   "target": "2 respiratory assets",
+   "horizon": "next 24 months",
+   "quote": "2 respiratory assets incorporating green propellant expected to be filed over the next 24 months as well.",
+   "doc": "Concall May 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.13",
+   "verdict": "not_measurable",
+   "evidence": "R&D spend is not separately broken out in the quarterly results table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Guiding towards 7%-ish on R&D spend as a percentage of sales.",
+   "target": "7% of sales",
+   "horizon": "coming year",
+   "quote": "We are guiding towards 7%-ish on R&D spend as a percentage of sales.",
+   "doc": "Concall May 2026",
+   "page": 11,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall May 2026",
+     "page": 18,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "quote": "R&D also, while it is discretionary and in hand, but still will continue to be at about 6% to 7%, but more biased towards 7% because we are increasing the number of programs, etcetera."
+    }
+   ]
+  },
+  {
+   "id": "2.14",
+   "verdict": "not_measurable",
+   "evidence": "Biosimilar pipeline addition details are not available in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Adding 1 to 2 biosimilar assets each year to build a pipeline of 6 to 8 in-house assets over the next 5 to 8 years.",
+   "target": "6 to 8 in-house assets",
+   "horizon": "next 5 to 8 years",
+   "quote": "We will be adding 1 to 2 assets each year, which will then, therefore, start resulting into a pipeline of 6 to 8 in-house assets over the next 5 to 8 years.",
+   "doc": "Concall May 2026",
+   "page": 9,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall May 2026",
+     "page": 16,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+     "quote": "biosimilar side, where we would want to do roughly 6 to 8 internally."
+    }
+   ]
+  },
+  {
+   "id": "2.15",
+   "verdict": "too_early",
+   "evidence": "The targeted return to the Lanreotide market is for FY28, which lies in the future.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Expects to be back in the Lanreotide market by FY 2028 perspective.",
+   "target": "Lanreotide market return",
+   "horizon": "FY 2028",
+   "quote": "We will be back in this definitely from an FY '28 perspective, it will be.",
+   "doc": "Concall May 2026",
+   "page": 10,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.16",
+   "verdict": "not_measurable",
+   "evidence": "India segment growth rates are not provided in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Confident of delivering strong double-digit growth as well as a market beating growth in India in FY '27 and '28.",
+   "target": "strong double-digit growth and market beating growth",
+   "horizon": "FY '27, '28",
+   "quote": "Yes. So we are confident that we'll be able to deliver a strong double-digit growth as well as a market beating growth in FY '27, '28.",
+   "doc": "Concall May 2026",
+   "page": 13,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.17",
+   "verdict": "not_measurable",
+   "evidence": "Regulatory site filings are not tracked in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Objective is to be able to file the alternate manufacturing site for Lanreotide by early next calendar year or Q4 of this financial year.",
+   "target": "file alternate manufacturing site",
+   "horizon": "Q4 financial year / early next calendar year",
+   "quote": "So the objective is to be able to file by early next year -- next calendar year or Q4 of this financial year.",
+   "doc": "Concall May 2026",
+   "page": 10,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.23",
+   "verdict": "too_early",
+   "evidence": "Margin targets for FY28 are beyond the current reported time horizon.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management targets margins of 20% plus going forward into FY28.",
+   "target": "20% plus",
+   "horizon": "FY28",
+   "quote": "To be fair, I think it should 20 plus is something that we should anyway sustain going forward.",
+   "doc": "Concall May 2026",
+   "page": 18,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.25",
+   "verdict": "not_measurable",
+   "evidence": "Individual US product launch revenues are not detailed in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management expects a couple of upcoming product launches in the US to be $100 million plus annualized opportunities.",
+   "target": "$100 million plus",
+   "horizon": "FY27",
+   "quote": "in terms of annualized revenues from these products, I think a couple of them, we are expecting $100 million plus annualized opportunities, right?",
+   "doc": "Concall May 2026",
+   "page": 15,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.27",
+   "verdict": "not_measurable",
+   "evidence": "Capex cycles and spend figures are not present in the provided table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management anticipates the current capex cycle to reduce after another year or so.",
+   "target": "reduction in capex cycle",
+   "horizon": "1-2 years",
+   "quote": "So this cycle will probably reduce after another year or so because we've built enough capacity for the products that we want to supply.",
+   "doc": "Concall May 2026",
+   "page": 16,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.0",
+   "verdict": "delivered",
+   "evidence": "Across FY26 (Jun 2025 to Mar 2026), Cipla reported total operating profit of Rs 5,883.0 crore on total revenue of Rs 28,161.0 crore, yielding an OPM of 20.89%, which lands around the 21% guidance.",
+   "quarters": [
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026"
+   ],
+   "same_as": null,
+   "claim": "The company expects FY26 EBITDA margin guidance to land at around 21%.",
+   "target": "around 21%",
+   "horizon": "FY26",
+   "quote": "Now, these are deliberate strategic choices and will lead to FY’26 EBITDA margin guidance to land at around 21%.",
+   "doc": "Concall Jan 2026",
+   "page": 6,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": false
+  },
+  {
+   "id": "3.1",
+   "verdict": "not_measurable",
+   "evidence": "Lanreotide resupply status is not reported in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company currently expects Lanreotide resupply to resume in H1 FY27.",
+   "target": "resume resupply",
+   "horizon": "H1 FY27",
+   "quote": "We currently expect Lanreotide resupply to resume in H1 FY’27.",
+   "doc": "Concall Jan 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.2",
+   "verdict": "not_measurable",
+   "evidence": "Generic Victoza and peptide asset launch details are not tracked in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company will be launching generic Victoza during the quarter and expects to launch three more peptide assets in FY27.",
+   "target": "launch three more peptide assets",
+   "horizon": "FY27",
+   "quote": "During the quarter, we will be launching generic Victoza, and we further expect to launch three more peptide assets in FY’27.",
+   "doc": "Concall Jan 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.3",
+   "verdict": "not_measurable",
+   "evidence": "South Africa primary revenue metrics are not provided in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "In South Africa, the company expects normalization of primary revenues by next quarter.",
+   "target": "normalization",
+   "horizon": "next quarter",
+   "quote": "However, we expect normalization by next quarter.",
+   "doc": "Concall Jan 2026",
+   "page": 5,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  }
+ ],
+ "trajectory": {
+  "rows": [
+   {
+    "q": "Dec 2023",
+    "revenue": 6604.0,
+    "opm": 26.5,
+    "pat": 1068.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Mar 2024",
+    "revenue": 6163.0,
+    "opm": 21.4,
+    "pat": 932.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Jun 2024",
+    "revenue": 6694.0,
+    "opm": 25.6,
+    "pat": 1175.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Sep 2024",
+    "revenue": 7051.0,
+    "opm": 26.7,
+    "pat": 1305.0,
+    "rev_yoy": 5.6
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 7073.0,
+    "opm": 28.1,
+    "pat": 1575.0,
+    "rev_yoy": 7.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 6730.0,
+    "opm": 22.9,
+    "pat": 1214.0,
+    "rev_yoy": 9.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 6957.0,
+    "opm": 25.6,
+    "pat": 1292.0,
+    "rev_yoy": 3.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 7589.0,
+    "opm": 25.0,
+    "pat": 1353.0,
+    "rev_yoy": 7.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 7074.0,
+    "opm": 17.7,
+    "pat": 674.0,
+    "rev_yoy": 0.0
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 6541.0,
+    "opm": 14.6,
+    "pat": 543.0,
+    "rev_yoy": -2.8
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 7119.0,
+    "opm": 16.7,
+    "pat": 786.0,
+    "rev_yoy": 2.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 7404.0,
+    "opm": 18.7,
+    "pat": 852.0,
+    "rev_yoy": -2.4
+   }
+  ],
+  "financial": false
+ },
+ "stats": {
+  "documents": 5,
+  "verified_items": 122,
+  "view_model": "gemini-3.5-flash",
+  "bulk_model": "gemini-3.5-flash-lite"
+ }
+}

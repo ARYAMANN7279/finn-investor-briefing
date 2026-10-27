@@ -1,0 +1,662 @@
+{
+ "symbol": "ASIANPAINT",
+ "name": "Asian Paints Ltd",
+ "built_at": "2026-10-27T18:29:02+0530",
+ "sources": [
+  {
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+   "kind": "annual_report"
+  },
+  {
+   "label": "Concall Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+   "kind": "concall"
+  },
+  {
+   "label": "Concall Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "kind": "concall"
+  }
+ ],
+ "business": {
+  "text": "Asian Paints is engaged in the manufacturing, selling, and distribution of paints, coatings, home décor products, bath fittings, modular kitchens, decorative lighting, and uPVC doors and windows. The company generates the vast majority of its revenue through indirect distribution, with sales to dealers or distributors accounting for 99.0% of total sales in FY 2025-26. Additionally, the company provides related services and operates the world's largest home painting service, known as Beautiful Homes Painting Service.",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 237,
+    "quote": "The Group is engaged in the business of manufacturing, selling and distribution of paints, coatings, products related to home décor, bath fittings, modular kitchen & accessories, decorative lighting, uPVC doors & windows and providing related services."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 165,
+    "quote": "Sales to dealer/distributors as % of total sales\n99.0%"
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 8,
+    "quote": "We have the world's largest home painting service, which we call the 'Beautiful Homes Painting Service'."
+   }
+  ]
+ },
+ "narrative": {
+  "text": "The annual report focuses on formal governance, structural consolidation like the amalgamation of Asian Paints (Polymers), risk frameworks, and major capital expenditures such as proposed paint plants in Madhya Pradesh and the UAE. In contrast, management concalls place stronger emphasis on operational execution, detailing price hikes taken to combat input cost inflation, and highlighting margin expansion alongside strong volume growth. Concalls also frequently discuss tactical growth levers, including retail network additions, Beautiful Home store rollouts, and backward integration projects like the VAM-VAE plant and Fujairah white cement facility. Both sources reflect a shared focus on long-term expansion, while concalls detail near-term profitability dynamics and product innovations.",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 5,
+    "quote": "The Integrated Annual Report of Asian Paints Limited presents a comprehensive overview  of our financial, operational and sustainability performance for the year."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 110,
+    "quote": "The Company had announced its proposal to set up a  water-based paint manufacturing facility in the State of  Madhya Pradesh with a proposed capacity of 4 lakh KL per  annum and an estimated investment of ~` 2,000 crores."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 110,
+    "quote": "During the year, Berger Paints Emirates Ltd Co (L.L.C), UAE,  a step‑down subsidiary of Asian Paints International Private  Limited, Singapore, a wholly owned subsidiary of the  Company, initiated the process for setting up its second  paint manufacturing facility in the United Arab Emirates with  an estimated investment of AED 140 million (~₹ 340 crores)  with an initial capacity of 55,800 KL per annum."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 117,
+    "quote": "Scheme of Amalgamation  of Asian Paints (Polymers) Private Limited, a wholly owned  subsidiary of Company, with the Company, with effect from  31st March 2026"
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 288,
+    "quote": "We have a robust and resilient risk management framework as per ISO 31000, which is guided by Risk Management Committee of the Board."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 9,
+    "quote": "We have already completed our white cement plant, which is now fully operational and running at very good capacities in Fujairah, UAE."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 12,
+    "quote": "If you look at it, we have about 74 Beautiful Home Stores, which are under one roof, you can get all the decor items, lots of collaborations here."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 17,
+    "quote": "PBDIT margins stand at about 20.6%, almost 240 bps higher YoY."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 21,
+    "quote": "The weighted average price increase has been about 7%."
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 24,
+    "quote": "costs have gone up by almost 25% and if we consider that costs broadly remain where they are and the price increase has been to the tune of 9%, 10% or 11%"
+   },
+   {
+    "doc": "Concall Jun 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+    "page": 11,
+    "quote": "more than 6,000 retail touchpoints we have added across the country this year."
+   },
+   {
+    "doc": "Concall Jun 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+    "page": 16,
+    "quote": "taking our Gross Margins to almost an all-time high of about 45.6%, which is very strong."
+   },
+   {
+    "doc": "Concall Jun 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+    "page": 19,
+    "quote": "where we have already taken close to about 10.5-11% price increase"
+   },
+   {
+    "doc": "Concall Jun 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+    "page": 25,
+    "quote": "the fact that what we are commissioning in this first half is only the VAE part, the entire VAM-VAE project as such will still take some time"
+   },
+   {
+    "doc": "Concall Feb 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+    "page": 14,
+    "quote": "As you see, we have been able to drive a strong high single-digit volume growth of 7.9% which is strong."
+   },
+   {
+    "doc": "Concall Feb 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+    "page": 24,
+    "quote": "about 44.9%, 200 bps points higher, and I think other than the deflation, we have also seen a lot of efficiencies in terms of the cost"
+   },
+   {
+    "doc": "Concall Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+    "page": 11,
+    "quote": "New products within the portfolio contribute 17% of our overall revenues."
+   },
+   {
+    "doc": "Concall Jun 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+    "page": 11,
+    "quote": "new products are something which we have always looked at, and they have now contributed to a substantial 17% of the revenues"
+   }
+  ]
+ },
+ "balance": {
+  "text": "As of 31st March 2026, the company held standalone cash, bank balances, and investments totaling Rs 9,014.60 crores, with group-level liquidity reaching Rs 9,762.11 crores. Against this liquidity, the company reported long-term borrowings of 805.42 crores, with 771.43 crores hypothecated as security for borrowings.",
+  "cites": [
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 110,
+    "quote": "The Company has long-term borrowings of ` 805.42 crores as on 31st March 2026, arising pursuant to the amalgamation of Asian Paints (Polymers) Private Limited, a wholly owned subsidiary of the Company, with the Company."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 110,
+    "quote": "Cash and cash equivalents and other balances with Banks (excluding earmarked balances), current/non-current  term deposits as disclosed in other financial assets, investments in debentures or bonds (including interest  accrued on the same) and mutual funds on a standalone basis as on 31st March 2026, stood at ₹ 9,014.60 crores as against ₹ 4,533.55 crores in the previous financial year."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 215,
+    "quote": "The Company believes that its liquidity position (₹ 9,014.60 crores as at 31st March 2026 (Previous Year-  ₹ 4,533.55 crores)), anticipated future internally generated funds from operations, and its fully available revolving undrawn credit facility will enable it to meet its future known obligations in the ordinary course of business."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 246,
+    "quote": "As at 31st March 2026, ₹ 771.43 crores (Previous year - ₹ 174.10 crores) was hypothecated as security for borrowings."
+   },
+   {
+    "doc": "Annual Report 2026",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+    "page": 269,
+    "quote": "The Group believes that its liquidity position (₹ 9,762.11 crores as at 31st March 2026 (Previous Year- ₹ 5,176.43 crores)), anticipated future internally generated funds from operations, and its fully available revolving undrawn credit facility will enable it to meet its future known obligations in the ordinary course of business."
+   }
+  ]
+ },
+ "bull": [
+  {
+   "text": "Robust margin expansion and pricing power, reaching an all-time high gross margin of 45.6% in Q4 alongside successful cumulative price increases.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 21,
+     "quote": "The weighted average price increase has been about 7%."
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 16,
+     "quote": "taking our Gross Margins to almost an all-time high of about 45.6%, which is very strong."
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 19,
+     "quote": "where we have already taken close to about 10.5-11% price increase"
+    }
+   ],
+   "point": "Robust margin expansion and pricing power, reaching an all-time high gross margin of 45.6% in Q4 alongside successful cumulative price increases."
+  },
+  {
+   "text": "Steady revenue contribution from innovation, with new products launched within a three-year timeframe consistently generating 16% to 17% of overall revenues.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 11,
+     "quote": "New products within the portfolio contribute 17% of our overall revenues."
+    },
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 18,
+     "quote": "Something which is in a three-year time frame is what we look at defining our new products."
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 11,
+     "quote": "new products are something which we have always looked at, and they have now contributed to a substantial 17% of the revenues"
+    },
+    {
+     "doc": "Concall Feb 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "page": 16,
+     "quote": "And today, new product contributes to about 16% of our overall revenues."
+    }
+   ],
+   "point": "Steady revenue contribution from innovation, with new products launched within a three-year timeframe consistently generating 16% to 17% of overall revenues."
+  },
+  {
+   "text": "Aggressive physical footprint expansion and distribution reach, adding over 6,000 retail touchpoints in a year and building a network of 74 Beautiful Home stores.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 12,
+     "quote": "If you look at it, we have about 74 Beautiful Home Stores, which are under one roof, you can get all the decor items, lots of collaborations here."
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 11,
+     "quote": "more than 6,000 retail touchpoints we have added across the country this year."
+    },
+    {
+     "doc": "Concall Feb 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "page": 15,
+     "quote": "We also continue to expand our distribution footprint. We have added about 3,500 to 4,000 retailers this year overall, and our reach is now in more than 1.6 lakh retail outlets."
+    },
+    {
+     "doc": "Concall Feb 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "page": 18,
+     "quote": "Our Beautiful Home stores network, which is doing quite well overall, expands to about 74 stores across the country."
+    }
+   ],
+   "point": "Aggressive physical footprint expansion and distribution reach, adding over 6,000 retail touchpoints in a year and building a network of 74 Beautiful Home stores."
+  },
+  {
+   "text": "Strategic backward integration initiatives, including the operational Fujairah white cement plant and the VAM-VAE project, to secure supply.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 9,
+     "quote": "We have already completed our white cement plant, which is now fully operational and running at very good capacities in Fujairah, UAE."
+    },
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 25,
+     "quote": "How should one think about this 150,000 metric ton VAE capacity versus your potential requirement on the current scale of business?"
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 21,
+     "quote": "commencement of your backward integration projects from 1Q or 1H, which you have called out now, is also quite timely."
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 25,
+     "quote": "the fact that what we are commissioning in this first half is only the VAE part, the entire VAM-VAE project as such will still take some time"
+    }
+   ],
+   "point": "Strategic backward integration initiatives, including the operational Fujairah white cement plant and the VAM-VAE project, to secure supply."
+  }
+ ],
+ "bear": [
+  {
+   "text": "High sensitivity to raw material cost inflation, where input costs increased by almost 25% while price hikes were limited to around 9% to 11%.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 24,
+     "quote": "costs have gone up by almost 25% and if we consider that costs broadly remain where they are and the price increase has been to the tune of 9%, 10% or 11%"
+    },
+    {
+     "doc": "Concall Jun 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "page": 19,
+     "quote": "where we have already taken close to about 10.5-11% price increase"
+    }
+   ],
+   "point": "High sensitivity to raw material cost inflation, where input costs increased by almost 25% while price hikes were limited to around 9% to 11%."
+  },
+  {
+   "text": "An exceptional impairment loss of approximately Rs. 94 crores recorded for White Teak in Q3 FY2026.",
+   "cites": [
+    {
+     "doc": "Concall Feb 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "page": 26,
+     "quote": "we have to take another impairment here, and that has been something which is close to about Rs. 94 crores which has been taken in White Teak"
+    }
+   ],
+   "point": "An exceptional impairment loss of approximately Rs. 94 crores recorded for White Teak in Q3 FY2026."
+  },
+  {
+   "text": "Legal and regulatory uncertainties, as the company is currently a party to proceedings before the Competition Commission of India and an appellate forum.",
+   "cites": [
+    {
+     "doc": "Annual Report 2026",
+     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+     "page": 117,
+     "quote": "The Company is a party to proceedings before the  Competition Commission of India and in a separate matter  before the appellate forum in relation to certain allegations  under the Competition Act, 2002."
+    }
+   ],
+   "point": "Legal and regulatory uncertainties, as the company is currently a party to proceedings before the Competition Commission of India and an appellate forum."
+  },
+  {
+   "text": "Seasonal or product-mix margin drag, leading to relatively lower margins in second quarters compared to other periods.",
+   "cites": [
+    {
+     "doc": "Concall Aug 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+     "page": 24,
+     "quote": "if you see quarter two, relatively speaking, the margins are little bit lower as compared to what we get in other quarters, given the product mix that we speak of."
+    }
+   ],
+   "point": "Seasonal or product-mix margin drag, leading to relatively lower margins in second quarters compared to other periods."
+  }
+ ],
+ "promised": [
+  {
+   "id": "2.0",
+   "verdict": "not_measurable",
+   "evidence": "Operational progress on commissioning the VAM-VAE backward integration project is not tracked in the financial table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company expects to commission the first phase of the VAM-VAE backward integration project in the first half of the year.",
+   "target": "first phase",
+   "horizon": "first half of this year",
+   "quote": "and we expect to commission first phase in the first half of this year.",
+   "doc": "Concall Jun 2026",
+   "page": 11,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "2.15",
+   "verdict": "not_measurable",
+   "evidence": "The volume-value gap trajectory cannot be verified as sales volume figures are not reported in the quarterly table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Expects the volume-value gap trajectory to remain around 3-4% as we go ahead.",
+   "target": "3-4%",
+   "horizon": "next few quarters",
+   "quote": "we think that this trajectory of 3-4% will remain as we go ahead.",
+   "doc": "Concall Jun 2026",
+   "page": 26,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.7",
+   "verdict": "not_measurable",
+   "evidence": "Training numbers for personnel are non-financial metrics not reported in the quarterly results.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company aims to train 10 lakh people this year.",
+   "target": "10 lakh people",
+   "horizon": "this year",
+   "quote": "this year, as we kind of go ahead, we are gunning for training almost 10 lakh people.",
+   "doc": "Concall Feb 2026",
+   "page": 28,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "3.15",
+   "verdict": "not_measurable",
+   "evidence": "Volume growth percentages are not reported in the quarterly financial summary.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management expects volume growth to be between 8% and 10% under current circumstances.",
+   "target": "8% - 10%",
+   "horizon": "current context",
+   "quote": "and therefore, anything in the volume, in the current context, which is between that 8% - 10% is a good growth, in terms of what I would say under the current circumstances.",
+   "doc": "Concall Feb 2026",
+   "page": 34,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Jun 2026",
+     "page": 21,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "quote": "we are still confident that demand conditions should continue giving us closer to high single-digit volume growth in the band of about 8 -10%, as we predict going forward."
+    }
+   ]
+  },
+  {
+   "id": "4.0",
+   "verdict": "not_measurable",
+   "evidence": "Capital expenditure allocations for specific projects are not detailed in the quarterly results table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "The company committed a capex of about Rs. 3,250 crores to the VAM VAE project.",
+   "target": "Rs. 3,250 crores",
+   "horizon": null,
+   "quote": "The second area is the VAM VAE project in which we have committed to the project a CAPEX of about Rs. 3,250 crores.",
+   "doc": "Concall Nov 2025",
+   "page": 12,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  },
+  {
+   "id": "4.6",
+   "verdict": "delivered",
+   "evidence": "In Dec 2025, revenue grew 3.7% YoY to Rs 8549.0 crore from Rs 8549.0 crore in Dec 2024, representing mid-single-digit value growth, with Mar 2026 (Rs 9247.0 crore) and Jun 2026 (Rs 10542.0 crore) showing stronger growth.",
+   "quarters": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "same_as": null,
+   "claim": "Management expects mid-single-digit value growth for the full year.",
+   "target": "mid-single-digit value growth",
+   "horizon": "full year",
+   "quote": "We are looking at mid-single-digit value growth for the full year.",
+   "doc": "Concall Nov 2025",
+   "page": 25,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Feb 2026",
+     "page": 35,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "quote": "I think that is a reasonable take in terms of what we can look at."
+    }
+   ]
+  },
+  {
+   "id": "4.7",
+   "verdict": "not_measurable",
+   "evidence": "Volume-value gap performance is not testable from the financial table as volume growth is omitted.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management anticipates that the gap between volume and value will remain in the zone of 4-5%.",
+   "target": "4-5% gap",
+   "horizon": "next six months",
+   "quote": "And therefore, we would anticipate that the gap between the volume and the value would remain in that zone of about 4-5%.",
+   "doc": "Concall Nov 2025",
+   "page": 25,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Feb 2026",
+     "page": 35,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "quote": "So, I would say that this 4%-5% is a more realistic thing which would remain in the market"
+    }
+   ]
+  },
+  {
+   "id": "4.8",
+   "verdict": "delivered",
+   "evidence": "OPM% was 20.1% in Dec 2025, 19.3% in Mar 2026, and 20.6% in Jun 2026, maintaining the guidance range of 18% to 20%.",
+   "quarters": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "same_as": null,
+   "claim": "Management maintains the PBDIT margin band guidance of 18 to 20%.",
+   "target": "18 to 20% PBDIT margin",
+   "horizon": "as we go ahead",
+   "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+   "doc": "Concall Nov 2025",
+   "page": 27,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true,
+   "repeats": [
+    {
+     "doc": "Concall Jun 2026",
+     "page": 23,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+     "quote": "We are maintaining our margin guidance, which is there."
+    },
+    {
+     "doc": "Concall Feb 2026",
+     "page": 35,
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+     "quote": "So, I would say that we would keep the guidance between that 18 and 20% band as we go ahead and that is something which we will endeavour to maintain."
+    }
+   ]
+  },
+  {
+   "id": "4.12",
+   "verdict": "not_measurable",
+   "evidence": "Category-wise revenue breakdown for waterproofing and construction chemicals is not provided in the quarterly table.",
+   "quarters": [],
+   "same_as": null,
+   "claim": "Management expects to grow the waterproofing and construction chemicals category at more than double digits.",
+   "target": "more than double digits",
+   "horizon": null,
+   "quote": "Overall, we are looking at growing more than double digits in that category.",
+   "doc": "Concall Nov 2025",
+   "page": 30,
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "judge": "gemini-3.5-flash",
+   "numbers_ok": true
+  }
+ ],
+ "trajectory": {
+  "rows": [
+   {
+    "q": "Sep 2023",
+    "revenue": 8479.0,
+    "opm": 20.2,
+    "pat": 1232.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Dec 2023",
+    "revenue": 9103.0,
+    "opm": 22.6,
+    "pat": 1475.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Mar 2024",
+    "revenue": 8731.0,
+    "opm": 19.4,
+    "pat": 1275.0,
+    "rev_yoy": null
+   },
+   {
+    "q": "Jun 2024",
+    "revenue": 8970.0,
+    "opm": 18.9,
+    "pat": 1187.0,
+    "rev_yoy": -2.3
+   },
+   {
+    "q": "Sep 2024",
+    "revenue": 8028.0,
+    "opm": 15.4,
+    "pat": 694.0,
+    "rev_yoy": -5.3
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 8549.0,
+    "opm": 19.1,
+    "pat": 1128.0,
+    "rev_yoy": -6.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 8359.0,
+    "opm": 17.2,
+    "pat": 701.0,
+    "rev_yoy": -4.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 8939.0,
+    "opm": 18.2,
+    "pat": 1117.0,
+    "rev_yoy": -0.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 8531.0,
+    "opm": 17.6,
+    "pat": 1018.0,
+    "rev_yoy": 6.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 8867.0,
+    "opm": 20.1,
+    "pat": 1074.0,
+    "rev_yoy": 3.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 9247.0,
+    "opm": 19.3,
+    "pat": 1185.0,
+    "rev_yoy": 10.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 10542.0,
+    "opm": 20.6,
+    "pat": 1559.0,
+    "rev_yoy": 17.9
+   }
+  ],
+  "financial": false
+ },
+ "stats": {
+  "documents": 5,
+  "verified_items": 111,
+  "view_model": "gemini-3.5-flash",
+  "bulk_model": "gemini-3.5-flash-lite"
+ }
+}

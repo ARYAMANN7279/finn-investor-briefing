@@ -62,7 +62,7 @@ JUDGE_SYSTEM = ("You compare what management promised on an earnings call with w
                 "Use only the promises and the quarterly table given. Cite the quarters (labels as in the table) and the figures you used in `evidence`, "
                 "in one or two plain sentences. If the table cannot test the promise (new products, qualitative goals), say not_measurable. "
                 "If too little time has passed, say too_early. Never use outside knowledge.")
-JUDGE_PROMPT = """Company: {name}. Quarterly results table (figures in Rs crore, oldest to newest; OPM = operating profit / revenue):
+JUDGE_PROMPT = """Company: {name}. Quarterly results table (figures in Rs crore, oldest to newest; OPM = operating profit / revenue; YoY and last-4-quarter figures are already computed, use them rather than calculating):
 {table}
 
 Promises made on earlier calls (id, call date, quarters reported after the call, promise, quote). Judge a promise only against quarters listed as reported after its call; if none of them covers the promised period, say too_early:
@@ -166,16 +166,21 @@ def numbers_ok(evidence: str, tbl: str) -> bool:
 
 
 def table(co: screener.Company, n: int = 12) -> str:
+    """The quarterly table the judge sees. Growth and trailing-year figures are computed here so the model never does the arithmetic."""
     q = co.quarters
-    top = co.top_line()
+    top = co.top_line() or []
     op = q["rows"].get("Operating Profit")
     pat = q["rows"].get("Net Profit")
-    lines = ["quarter | revenue | operating profit | OPM% | net profit"]
+    lines = ["quarter | revenue | revenue YoY% | revenue last 4 quarters | operating profit | OPM% | net profit | net profit YoY%"]
     for i in range(max(0, len(q["labels"]) - n), len(q["labels"])):
         r = top[i] if top else None
         o = op[i] if op else None
+        yoy = f"{(r - top[i - 4]) / top[i - 4] * 100:.1f}" if r is not None and i >= 4 and top[i - 4] else "n/a"
+        ttm = f"{sum(top[i - 3:i + 1]):.0f}" if i >= 3 and all(v is not None for v in top[i - 3:i + 1]) else "n/a"
+        p, p4 = (pat[i] if pat else None), (pat[i - 4] if pat and i >= 4 else None)
+        pyoy = f"{(p - p4) / abs(p4) * 100:.1f}" if p is not None and p4 else "n/a"
         opm = f"{o / r * 100:.1f}" if r and o is not None else "n/a"
-        lines.append(f"{q['labels'][i]} | {r} | {o} | {opm} | {pat[i] if pat else 'n/a'}")
+        lines.append(f"{q['labels'][i]} | {r} | {yoy} | {ttm} | {o} | {opm} | {p} | {pyoy}")
     return "\n".join(lines)
 
 
@@ -208,6 +213,9 @@ def build(symbol: str, calls: int = 4, reports: int = 1) -> dict:
             break
         if c.get("transcript"):
             d = read_doc(f"Concall {c['label']}", c["transcript"], "concall")
+            if d and any(d["norm"][:3000] == o["norm"][:3000] for o in docs):  # the same transcript filed under two dates
+                print("  skip duplicate", d["label"])
+                continue
             if d:
                 docs.append(d)
                 done += 1

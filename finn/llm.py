@@ -21,7 +21,7 @@ API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateC
 
 CHAINS = {
     "bulk": ["gemini-3.5-flash-lite", "gemini-3.5-flash", "gemini-3.8-flash"],
-    "strong": ["gemini-3.1-pro-preview", "gemini-3.8-flash", "gemini-3.5-flash"],
+    "strong": ["gemini-3.1-pro-preview", "gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite"],
 }
 
 
@@ -79,6 +79,24 @@ def ask(prompt: str, tier: str = "bulk", system: str | None = None, schema: dict
         _record(hit["model"], {}, True)
         return {**hit, "cached": True}
     last = "no model tried"
+    for rnd in range(4):  # if every model is overloaded, wait and go round again
+        if rnd:
+            time.sleep(45 * rnd)
+        out = _try(models, body, schema, timeout)
+        if isinstance(out, dict):
+            CACHE.mkdir(parents=True, exist_ok=True)
+            path.write_text(json.dumps({"data": out["data"], "model": out["model"]}))
+            _record(out["model"], out["usage"], False)
+            return {"data": out["data"], "model": out["model"], "cached": False}
+        last = out
+        if "HTTP 503" not in last and "HTTP 429" not in last:
+            break
+    raise LLMError(f"all models failed; last: {last}")
+
+
+def _try(models, body, schema, timeout):
+    """One pass down the chain. Returns the answer dict, or the last error as a string."""
+    last = "no model tried"
     for model in models:
         for attempt in range(3):
             try:
@@ -108,12 +126,8 @@ def ask(prompt: str, tier: str = "bulk", system: str | None = None, schema: dict
             except json.JSONDecodeError:
                 last = f"{model}: invalid JSON"
                 break
-            out = {"data": data, "model": model}
-            CACHE.mkdir(parents=True, exist_ok=True)
-            path.write_text(json.dumps(out))
-            _record(model, r.get("usageMetadata", {}), False)
-            return {**out, "cached": False}
-    raise LLMError(f"all models failed; last: {last}")
+            return {"data": data, "model": model, "usage": r.get("usageMetadata", {})}
+    return last
 
 
 def ledger() -> dict:
