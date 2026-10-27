@@ -51,6 +51,13 @@ class Prices(unittest.TestCase):
         r = prices.unusual(b)
         self.assertFalse(r["volume_alert"] or r["move_alert"])
 
+    def test_daily_stats_matches_unusual_for_the_last_day(self):
+        b = self.bars([100] * 25 + [300], [100.0] * 25 + [103.0])
+        last = prices.daily_stats(b, days=5)[-1]
+        u = prices.unusual(b)
+        self.assertEqual((last["move_pct"], last["vol_multiple"]), (u["move_pct"], u["vol_multiple"]))
+        self.assertEqual(len(prices.daily_stats(b, days=5)), 5)
+
     def test_open_session_bar_is_dropped(self):
         import datetime as dt
         b = self.bars([100] * 3, [1.0] * 3)

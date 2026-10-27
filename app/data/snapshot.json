@@ -1,0 +1,7794 @@
+{
+ "built_at": "2026-10-27T12:01:11+05:30",
+ "companies": [
+  {
+   "symbol": "RELIANCE",
+   "name": "Reliance Industries Ltd",
+   "sector": "Energy and conglomerate",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 16,14,634 Cr.",
+    "Current Price": "₹ 1,193",
+    "Stock P/E": "21.5",
+    "Dividend Yield": "0.50 %",
+    "ROCE": "10.3 %",
+    "ROE": "8.91 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1201.8
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1226.0,
+     "move_pct": 0.56,
+     "vol_multiple": 1.09
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1197.6,
+     "move_pct": -2.32,
+     "vol_multiple": 1.12
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1182.0,
+     "move_pct": -1.3,
+     "vol_multiple": 1.93
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1187.0,
+     "move_pct": 0.42,
+     "vol_multiple": 1.37
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1167.7,
+     "move_pct": -1.63,
+     "vol_multiple": 1.38
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1186.4,
+     "move_pct": 1.6,
+     "vol_multiple": 1.16
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1218.0,
+     "move_pct": 2.66,
+     "vol_multiple": 1.43
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1207.7,
+     "move_pct": -0.85,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1178.0,
+     "move_pct": -2.46,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1170.3,
+     "move_pct": -0.65,
+     "vol_multiple": 0.92
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1158.9,
+     "move_pct": -0.97,
+     "vol_multiple": 0.87
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1166.7,
+     "move_pct": 0.67,
+     "vol_multiple": 0.83
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1174.6,
+     "move_pct": 0.68,
+     "vol_multiple": 0.82
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1215.0,
+     "move_pct": 3.44,
+     "vol_multiple": 1.78
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1211.2,
+     "move_pct": -0.31,
+     "vol_multiple": 1.24
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1202.0,
+     "move_pct": -0.76,
+     "vol_multiple": 1.09
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1209.0,
+     "move_pct": 0.58,
+     "vol_multiple": 1.23
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1184.5,
+     "move_pct": -2.03,
+     "vol_multiple": 1.02
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1190.0,
+     "move_pct": 0.46,
+     "vol_multiple": 1.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1201.8,
+     "move_pct": 0.99,
+     "vol_multiple": 0.49
+    }
+   ],
+   "spark": [
+    1282.2,
+    1287.0,
+    1277.0,
+    1309.0,
+    1313.1,
+    1302.5,
+    1322.0,
+    1309.5,
+    1294.9,
+    1279.0,
+    1274.0,
+    1257.5,
+    1235.3,
+    1240.0,
+    1243.9,
+    1226.4,
+    1247.4,
+    1240.4,
+    1248.0,
+    1219.2,
+    1226.0,
+    1197.6,
+    1182.0,
+    1187.0,
+    1167.7,
+    1186.4,
+    1218.0,
+    1207.7,
+    1178.0,
+    1170.3,
+    1158.9,
+    1166.7,
+    1174.6,
+    1215.0,
+    1211.2,
+    1202.0,
+    1209.0,
+    1184.5,
+    1190.0,
+    1201.8
+   ],
+   "filings": [
+    {
+     "title": "Initial Public Offer Of Jio Platforms Limited - Update",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0056a3dc-6357-48ff-a037-f1b206624331.pdf",
+     "time": "2026-10-24T21:47:58+05:30",
+     "category": "fund_raise",
+     "subtype": "ipo",
+     "score": 76,
+     "ambiguous": false
+    },
+    {
+     "title": "Media Statement",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3667a6e5-6d63-45c2-b94e-d09043e401b4.pdf",
+     "time": "2026-10-21T22:42:31+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77e3ec52-056d-4103-8388-14b48756f70d.pdf",
+     "time": "2026-10-21T20:44:48+05:30",
+     "category": "credit_rating",
+     "subtype": "rating",
+     "score": 48,
+     "ambiguous": false
+    },
+    {
+     "title": "Newspaper Clipping - Proposed Initial Public Offer Of Jio Platforms Limited -Reservation For Eligible RIL Shareholders",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1d40c0e3-3bbd-4d47-8085-cae3973ee547.pdf",
+     "time": "2026-10-17T19:32:41+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Newspaper Clippings - Proposed Initial Public Offer Of Jio Platforms Limited - Reservation For Eligible RIL Shareholders",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36a51bd7-b43c-414a-8984-3139d2d4723e.pdf",
+     "time": "2026-10-16T20:58:10+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      261388.0,
+      243632.0,
+      254623.0,
+      264905.0,
+      294059.0,
+      309468.0
+     ],
+     "Operating Profit": [
+      43832.0,
+      42905.0,
+      45885.0,
+      46018.0,
+      44141.0,
+      47517.0
+     ],
+     "Other Income": [
+      4905.0,
+      15119.0,
+      4482.0,
+      4914.0,
+      4447.0,
+      6550.0
+     ],
+     "Interest": [
+      6155.0,
+      7036.0,
+      6827.0,
+      6613.0,
+      6585.0,
+      8337.0
+     ],
+     "Depreciation": [
+      13479.0,
+      13842.0,
+      14416.0,
+      14622.0,
+      14808.0,
+      15100.0
+     ],
+     "Profit before tax": [
+      29103.0,
+      37146.0,
+      29124.0,
+      29697.0,
+      27195.0,
+      30630.0
+     ],
+     "Net Profit": [
+      22611.0,
+      30783.0,
+      22092.0,
+      22290.0,
+      20589.0,
+      23196.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/2726/3/2025/",
+     "https://www.screener.in/company/source/quarter/2726/6/2025/",
+     "https://www.screener.in/company/source/quarter/2726/9/2025/",
+     "https://www.screener.in/company/source/quarter/2726/12/2025/",
+     "https://www.screener.in/company/source/quarter/2726/3/2026/",
+     "https://www.screener.in/company/source/quarter/2726/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d1656c-cf53-4d52-94c3-7ed0edd50271.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5145c56f-ff81-4812-9663-f9b2461c4b2c.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0e06e07-5a3e-4bc0-a6a6-76635bc53238.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2454c0f-aad9-4d23-add0-dfe3d49aa8d6.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b74bb5fb-c15b-42f1-b853-34231e587f46.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a050d55-ad53-4d57-8735-cbcf20bb412b.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "TCS",
+   "name": "Tata Consultancy Services Ltd",
+   "sector": "IT services",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 9,01,627 Cr.",
+    "Current Price": "₹ 2,492",
+    "Stock P/E": "16.5",
+    "Dividend Yield": "2.57 %",
+    "ROCE": "63.0 %",
+    "ROE": "51.8 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 2535.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 2082.0,
+     "move_pct": -0.24,
+     "vol_multiple": 1.12
+    },
+    {
+     "date": "2026-09-28",
+     "close": 2070.7,
+     "move_pct": -0.54,
+     "vol_multiple": 0.8
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2032.4,
+     "move_pct": -1.85,
+     "vol_multiple": 1.49
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2050.6,
+     "move_pct": 0.9,
+     "vol_multiple": 1.2
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2075.0,
+     "move_pct": 1.19,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2114.4,
+     "move_pct": 1.9,
+     "vol_multiple": 1.67
+    },
+    {
+     "date": "2026-10-06",
+     "close": 2100.0,
+     "move_pct": -0.68,
+     "vol_multiple": 0.72
+    },
+    {
+     "date": "2026-10-07",
+     "close": 2080.3,
+     "move_pct": -0.94,
+     "vol_multiple": 0.41
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2076.0,
+     "move_pct": -0.21,
+     "vol_multiple": 1.31
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2156.0,
+     "move_pct": 3.85,
+     "vol_multiple": 3.47
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2125.0,
+     "move_pct": -1.44,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2269.3,
+     "move_pct": 6.79,
+     "vol_multiple": 2.88
+    },
+    {
+     "date": "2026-10-14",
+     "close": 2304.9,
+     "move_pct": 1.57,
+     "vol_multiple": 2.85
+    },
+    {
+     "date": "2026-10-15",
+     "close": 2350.0,
+     "move_pct": 1.96,
+     "vol_multiple": 1.99
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2465.0,
+     "move_pct": 4.89,
+     "vol_multiple": 2.47
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2460.9,
+     "move_pct": -0.17,
+     "vol_multiple": 1.62
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2529.0,
+     "move_pct": 2.77,
+     "vol_multiple": 1.05
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2506.9,
+     "move_pct": -0.87,
+     "vol_multiple": 0.74
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2530.0,
+     "move_pct": 0.92,
+     "vol_multiple": 1.21
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2535.0,
+     "move_pct": 0.2,
+     "vol_multiple": 0.74
+    }
+   ],
+   "spark": [
+    2248.4,
+    2342.0,
+    2399.3,
+    2369.0,
+    2348.0,
+    2320.1,
+    2304.0,
+    2270.0,
+    2255.5,
+    2208.0,
+    2204.1,
+    2200.8,
+    2251.0,
+    2188.8,
+    2190.0,
+    2105.0,
+    2128.7,
+    2105.0,
+    2089.6,
+    2087.0,
+    2082.0,
+    2070.7,
+    2032.4,
+    2050.6,
+    2075.0,
+    2114.4,
+    2100.0,
+    2080.3,
+    2076.0,
+    2156.0,
+    2125.0,
+    2269.3,
+    2304.9,
+    2350.0,
+    2465.0,
+    2460.9,
+    2529.0,
+    2506.9,
+    2530.0,
+    2535.0
+   ],
+   "filings": [
+    {
+     "title": "Press Release - TCS Bancs For Treasury Marks Its Entry Into Sri Lanka With Indian Bank",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b12e07f0-028d-4c07-a018-036951644a15.pdf",
+     "time": "2026-10-19T11:30:41+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18a00aec-26f8-4738-9e5b-d33abe1ff616.pdf",
+     "time": "2026-10-16T16:29:42+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad952e13-3c76-410e-81f8-4fe3d108a196.pdf",
+     "time": "2026-10-15T13:28:35+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    },
+    {
+     "title": "Press Release - TCS Launches Industrial Intelligence Foundry To Accelerate AI-Led Autonomy And Engineering",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50f14eb1-bf37-4fd3-a23d-5da7dc974ca4.pdf",
+     "time": "2026-10-15T11:31:54+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+     "time": "2026-10-14T15:55:38+05:30",
+     "category": "earnings_call",
+     "subtype": "transcript",
+     "score": 40,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Sales": [
+      63437.0,
+      65799.0,
+      67087.0,
+      70698.0,
+      72275.0,
+      73188.0
+     ],
+     "Operating Profit": [
+      16875.0,
+      17978.0,
+      18269.0,
+      19276.0,
+      18556.0,
+      18815.0
+     ],
+     "Other Income": [
+      1660.0,
+      -268.0,
+      -2273.0,
+      757.0,
+      900.0,
+      1337.0
+     ],
+     "Interest": [
+      195.0,
+      229.0,
+      538.0,
+      265.0,
+      273.0,
+      252.0
+     ],
+     "Depreciation": [
+      1361.0,
+      1413.0,
+      1380.0,
+      1406.0,
+      1239.0,
+      1262.0
+     ],
+     "Profit before tax": [
+      16979.0,
+      16068.0,
+      14078.0,
+      18362.0,
+      17944.0,
+      18638.0
+     ],
+     "Net Profit": [
+      12819.0,
+      12131.0,
+      10720.0,
+      13784.0,
+      13420.0,
+      13934.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/3365/6/2025/",
+     "https://www.screener.in/company/source/quarter/3365/9/2025/",
+     "https://www.screener.in/company/source/quarter/3365/12/2025/",
+     "https://www.screener.in/company/source/quarter/3365/3/2026/",
+     "https://www.screener.in/company/source/quarter/3365/6/2026/",
+     "https://www.screener.in/company/source/quarter/3365/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d57e49b6-fd89-4fa8-b591-4f590100db1e.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2026-27/q1/Presentations/Q1%202026-27%20Fact%20Sheet.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Mar 2026",
+      "transcript": null,
+      "ppt": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q4/Presentations/Q4%202025-26%20Fact%20Sheet.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf",
+      "ppt": null
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "INFY",
+   "name": "Infosys Ltd",
+   "sector": "IT services",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 4,68,854 Cr.",
+    "Current Price": "₹ 1,155",
+    "Stock P/E": "14.9",
+    "Dividend Yield": "4.19 %",
+    "ROCE": "40.0 %",
+    "ROE": "31.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1166.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1000.2,
+     "move_pct": -1.41,
+     "vol_multiple": 1.15
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1003.2,
+     "move_pct": 0.3,
+     "vol_multiple": 0.95
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1015.4,
+     "move_pct": 1.22,
+     "vol_multiple": 1.44
+    },
+    {
+     "date": "2026-09-30",
+     "close": 994.1,
+     "move_pct": -2.1,
+     "vol_multiple": 1.47
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1035.0,
+     "move_pct": 4.11,
+     "vol_multiple": 1.65
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1020.5,
+     "move_pct": -1.4,
+     "vol_multiple": 1.27
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1013.85,
+     "move_pct": -0.65,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-07",
+     "close": 992.0,
+     "move_pct": -2.16,
+     "vol_multiple": 0.75
+    },
+    {
+     "date": "2026-10-08",
+     "close": 997.0,
+     "move_pct": 0.5,
+     "vol_multiple": 1.49
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1023.4,
+     "move_pct": 2.65,
+     "vol_multiple": 1.36
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1020.0,
+     "move_pct": -0.33,
+     "vol_multiple": 0.81
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1062.1,
+     "move_pct": 4.13,
+     "vol_multiple": 2.09
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1088.0,
+     "move_pct": 2.44,
+     "vol_multiple": 1.98
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1110.0,
+     "move_pct": 2.02,
+     "vol_multiple": 1.39
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1161.2,
+     "move_pct": 4.61,
+     "vol_multiple": 2.12
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1130.7,
+     "move_pct": -2.63,
+     "vol_multiple": 1.02
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1168.0,
+     "move_pct": 3.3,
+     "vol_multiple": 1.48
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1153.35,
+     "move_pct": -1.25,
+     "vol_multiple": 1.29
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1153.8,
+     "move_pct": 0.04,
+     "vol_multiple": 2.43
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1166.0,
+     "move_pct": 1.06,
+     "vol_multiple": 1.73
+    }
+   ],
+   "spark": [
+    1110.8,
+    1144.0,
+    1133.8,
+    1156.0,
+    1140.0,
+    1130.3,
+    1130.0,
+    1087.5,
+    1082.0,
+    1035.0,
+    1036.5,
+    1037.7,
+    1077.0,
+    1060.0,
+    1058.6,
+    1051.4,
+    1038.5,
+    1029.4,
+    1020.5,
+    1014.5,
+    1000.2,
+    1003.2,
+    1015.4,
+    994.1,
+    1035.0,
+    1020.5,
+    1013.85,
+    992.0,
+    997.0,
+    1023.4,
+    1020.0,
+    1062.1,
+    1088.0,
+    1110.0,
+    1161.2,
+    1130.7,
+    1168.0,
+    1153.35,
+    1153.8,
+    1166.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication 24 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33c1b5fb-5050-4952-9b3b-741b61357dfa.pdf",
+     "time": "2026-10-24T19:51:19+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Report Of Auditors On Financial Statements For The Quarter And Half Year Ended September 30, 2026 With UDIN",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b0157a38-ac25-43d0-8be4-d73cfead434b.pdf",
+     "time": "2026-10-23T20:08:50+05:30",
+     "category": "results",
+     "subtype": "auditor_report",
+     "score": 38,
+     "ambiguous": false
+    },
+    {
+     "title": "Corporate Action-Board approves Dividend",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f7c4fa3-6c9a-497a-921a-e14c20919f86.pdf",
+     "time": "2026-10-23T16:19:52+05:30",
+     "category": "dividend",
+     "subtype": "declared",
+     "score": 60,
+     "ambiguous": false
+    },
+    {
+     "title": "Financial Results For The Quarter And Half Year Ended September 30, 2026 And Declaration Of Interim Dividend",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26c12463-d44e-4050-bd47-b53cc294b4e0.pdf",
+     "time": "2026-10-23T16:16:06+05:30",
+     "category": "results",
+     "subtype": "outcome",
+     "score": 92,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Outcome for Financial Results For The Quarter And Half Year Ended September 30, 2026 And Declaration Of Interim Dividend",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a7cacec-6e60-4f88-9c95-ad60962ad4d4.pdf",
+     "time": "2026-10-23T16:08:56+05:30",
+     "category": "results",
+     "subtype": "outcome",
+     "score": 92,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Sales": [
+      42279.0,
+      44490.0,
+      45479.0,
+      46402.0,
+      48211.0,
+      49244.0
+     ],
+     "Operating Profit": [
+      9943.0,
+      10535.0,
+      10634.0,
+      11167.0,
+      11409.0,
+      11689.0
+     ],
+     "Other Income": [
+      1042.0,
+      982.0,
+      -150.0,
+      1159.0,
+      984.0,
+      848.0
+     ],
+     "Interest": [
+      105.0,
+      106.0,
+      100.0,
+      105.0,
+      119.0,
+      115.0
+     ],
+     "Depreciation": [
+      1140.0,
+      1182.0,
+      1155.0,
+      1424.0,
+      1246.0,
+      1359.0
+     ],
+     "Profit before tax": [
+      9740.0,
+      10229.0,
+      9229.0,
+      10797.0,
+      11028.0,
+      11063.0
+     ],
+     "Net Profit": [
+      6924.0,
+      7375.0,
+      6666.0,
+      8509.0,
+      7775.0,
+      7838.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1489/6/2025/",
+     "https://www.screener.in/company/source/quarter/1489/9/2025/",
+     "https://www.screener.in/company/source/quarter/1489/12/2025/",
+     "https://www.screener.in/company/source/quarter/1489/3/2026/",
+     "https://www.screener.in/company/source/quarter/1489/6/2026/",
+     "https://www.screener.in/company/source/quarter/1489/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/25cc7fbc-154b-4463-928d-c95f2d8c5c9c.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=048f2a46-2734-4c94-be94-07b0c483aaab.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf4a6179-8e43-4959-b055-91f1f7f4f076.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10c91fa1-f133-476d-ada3-0143acdd9846.pdf",
+      "ppt": null
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "HDFCBANK",
+   "name": "HDFC Bank Ltd",
+   "sector": "Private bank",
+   "portfolio": true,
+   "financial": true,
+   "ratios": {
+    "Market Cap": "₹ 10,59,577 Cr.",
+    "Current Price": "₹ 687",
+    "Stock P/E": "13.2",
+    "Dividend Yield": "1.91 %",
+    "ROCE": "7.02 %",
+    "ROE": "13.6 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 688.05
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 735.6,
+     "move_pct": 0.92,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-09-28",
+     "close": 719.05,
+     "move_pct": -2.25,
+     "vol_multiple": 0.69
+    },
+    {
+     "date": "2026-09-29",
+     "close": 722.7,
+     "move_pct": 0.51,
+     "vol_multiple": 1.35
+    },
+    {
+     "date": "2026-09-30",
+     "close": 708.7,
+     "move_pct": -1.94,
+     "vol_multiple": 1.31
+    },
+    {
+     "date": "2026-10-01",
+     "close": 721.2,
+     "move_pct": 1.76,
+     "vol_multiple": 1.26
+    },
+    {
+     "date": "2026-10-05",
+     "close": 704.8,
+     "move_pct": -2.27,
+     "vol_multiple": 2.22
+    },
+    {
+     "date": "2026-10-06",
+     "close": 711.45,
+     "move_pct": 0.94,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-07",
+     "close": 702.75,
+     "move_pct": -1.22,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-10-08",
+     "close": 692.25,
+     "move_pct": -1.49,
+     "vol_multiple": 0.81
+    },
+    {
+     "date": "2026-10-09",
+     "close": 707.25,
+     "move_pct": 2.17,
+     "vol_multiple": 0.55
+    },
+    {
+     "date": "2026-10-12",
+     "close": 704.9,
+     "move_pct": -0.33,
+     "vol_multiple": 0.56
+    },
+    {
+     "date": "2026-10-13",
+     "close": 714.0,
+     "move_pct": 1.29,
+     "vol_multiple": 0.59
+    },
+    {
+     "date": "2026-10-14",
+     "close": 710.7,
+     "move_pct": -0.46,
+     "vol_multiple": 0.76
+    },
+    {
+     "date": "2026-10-15",
+     "close": 726.85,
+     "move_pct": 2.27,
+     "vol_multiple": 1.24
+    },
+    {
+     "date": "2026-10-16",
+     "close": 728.85,
+     "move_pct": 0.28,
+     "vol_multiple": 0.95
+    },
+    {
+     "date": "2026-10-19",
+     "close": 712.0,
+     "move_pct": -2.31,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-21",
+     "close": 706.95,
+     "move_pct": -0.71,
+     "vol_multiple": 0.87
+    },
+    {
+     "date": "2026-10-22",
+     "close": 694.05,
+     "move_pct": -1.82,
+     "vol_multiple": 1.99
+    },
+    {
+     "date": "2026-10-23",
+     "close": 692.8,
+     "move_pct": -0.18,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-26",
+     "close": 688.05,
+     "move_pct": -0.69,
+     "vol_multiple": 0.75
+    }
+   ],
+   "spark": [
+    711.0,
+    720.3,
+    709.0,
+    711.9,
+    700.8,
+    706.65,
+    712.1,
+    710.5,
+    703.0,
+    687.1,
+    693.8,
+    708.25,
+    716.55,
+    721.5,
+    713.0,
+    731.0,
+    739.5,
+    738.6,
+    737.25,
+    728.9,
+    735.6,
+    719.05,
+    722.7,
+    708.7,
+    721.2,
+    704.8,
+    711.45,
+    702.75,
+    692.25,
+    707.25,
+    704.9,
+    714.0,
+    710.7,
+    726.85,
+    728.85,
+    712.0,
+    706.95,
+    694.05,
+    692.8,
+    688.05
+   ],
+   "filings": [
+    {
+     "title": "Disclosure Under Regulation 30 And Other Applicable Regulations Of The SEBI (LODR) Regulations, 2015 - Change In Managing Director And Chief Executive Officer Of The Bank 27 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b2d06f-fea8-4dea-aa03-84674215a0fd.pdf",
+     "time": "2026-10-27T08:06:22+05:30",
+     "category": "unclassified",
+     "subtype": "unknown",
+     "score": 12,
+     "ambiguous": true
+    },
+    {
+     "title": "Grant Of Stock Options Under Employee Stock Option Scheme",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e0bab4c-fcd5-45ce-8a91-a3dcf5dac9e9.pdf",
+     "time": "2026-10-24T22:24:00+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+     "time": "2026-10-23T22:50:38+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=536a781d-6af5-4dde-840e-5e1420f5157f.pdf",
+     "time": "2026-10-22T13:51:14+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=19d4c3c3-df05-444a-adfb-4edcffa3f847.pdf",
+     "time": "2026-10-22T11:49:06+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Revenue": [
+      87372.0,
+      86994.0,
+      87067.0,
+      87182.0,
+      90575.0,
+      95132.0
+     ],
+     "Interest": [
+      47709.0,
+      46741.0,
+      45821.0,
+      45220.0,
+      47626.0,
+      50667.0
+     ],
+     "Financing Profit": [
+      -24833.0,
+      -4908.0,
+      -12899.0,
+      -2066.0,
+      -15342.0,
+      -5565.0
+     ],
+     "Other Income": [
+      45683.0,
+      31567.0,
+      39860.0,
+      29737.0,
+      42535.0,
+      34227.0
+     ],
+     "Depreciation": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "Profit before tax": [
+      20850.0,
+      26659.0,
+      26961.0,
+      27672.0,
+      27193.0,
+      28663.0
+     ],
+     "Net Profit": [
+      17090.0,
+      20364.0,
+      20691.0,
+      21074.0,
+      20383.0,
+      21537.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1298/6/2025/",
+     "https://www.screener.in/company/source/quarter/1298/9/2025/",
+     "https://www.screener.in/company/source/quarter/1298/12/2025/",
+     "https://www.screener.in/company/source/quarter/1298/3/2026/",
+     "https://www.screener.in/company/source/quarter/1298/6/2026/",
+     "https://www.screener.in/company/source/quarter/1298/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/411e22d2-0720-4cec-b659-9ccd639f0f1a.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2160dea5-d49e-4409-83a4-c2b111a3bd12.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+      "ppt": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-2/q2fy27-earnings-presentation.pdf"
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+      "ppt": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-1/q1fy27-earnings-presentation.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+      "ppt": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2025-2026/quarter-4/q4fy26-earnings-presentation.pdf"
+     },
+     {
+      "label": "Mar 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e45f8a0-0fe6-40a3-8e5a-51c53713e6f0.pdf",
+      "ppt": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/financial-results/2025-2026/quarter-3/Q3FY26-earnings-presentation.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=145964f9-580c-4d3f-b239-759f7b6a7a28.pdf",
+      "ppt": "http://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Footer/About%20Us/Investor%20Relation/Detail%20PAges/financial%20results/PDFs/2025/oct/Q2FY26-Earnings-Presentation.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "ICICIBANK",
+   "name": "ICICI Bank Ltd",
+   "sector": "Private bank",
+   "portfolio": true,
+   "financial": true,
+   "ratios": {
+    "Market Cap": "₹ 9,95,388 Cr.",
+    "Current Price": "₹ 1,386",
+    "Stock P/E": "16.8",
+    "Dividend Yield": "0.86 %",
+    "ROCE": "7.18 %",
+    "ROE": "15.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1403.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1326.8,
+     "move_pct": -0.58,
+     "vol_multiple": 1.17
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1302.0,
+     "move_pct": -1.87,
+     "vol_multiple": 0.69
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1292.2,
+     "move_pct": -0.75,
+     "vol_multiple": 1.63
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1321.7,
+     "move_pct": 2.28,
+     "vol_multiple": 1.56
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1310.6,
+     "move_pct": -0.84,
+     "vol_multiple": 1.43
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1332.0,
+     "move_pct": 1.63,
+     "vol_multiple": 1.4
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1342.8,
+     "move_pct": 0.81,
+     "vol_multiple": 1.27
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1357.5,
+     "move_pct": 1.09,
+     "vol_multiple": 1.5
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1349.0,
+     "move_pct": -0.63,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1355.0,
+     "move_pct": 0.44,
+     "vol_multiple": 0.54
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1340.0,
+     "move_pct": -1.11,
+     "vol_multiple": 0.88
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1360.2,
+     "move_pct": 1.51,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1338.6,
+     "move_pct": -1.59,
+     "vol_multiple": 0.86
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1389.4,
+     "move_pct": 3.8,
+     "vol_multiple": 1.85
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1397.0,
+     "move_pct": 0.55,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1381.0,
+     "move_pct": -1.15,
+     "vol_multiple": 2.46
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1385.0,
+     "move_pct": 0.29,
+     "vol_multiple": 1.58
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1398.5,
+     "move_pct": 0.97,
+     "vol_multiple": 1.38
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1394.2,
+     "move_pct": -0.31,
+     "vol_multiple": 0.95
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1403.0,
+     "move_pct": 0.63,
+     "vol_multiple": 0.63
+    }
+   ],
+   "spark": [
+    1443.0,
+    1422.8,
+    1454.0,
+    1438.0,
+    1426.5,
+    1430.0,
+    1423.2,
+    1427.5,
+    1399.4,
+    1389.1,
+    1384.5,
+    1379.3,
+    1350.4,
+    1358.8,
+    1347.6,
+    1338.9,
+    1345.0,
+    1339.6,
+    1340.0,
+    1334.5,
+    1326.8,
+    1302.0,
+    1292.2,
+    1321.7,
+    1310.6,
+    1332.0,
+    1342.8,
+    1357.5,
+    1349.0,
+    1355.0,
+    1340.0,
+    1360.2,
+    1338.6,
+    1389.4,
+    1397.0,
+    1381.0,
+    1385.0,
+    1398.5,
+    1394.2,
+    1403.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6e8627c-e5c3-43ef-929c-707b24b1cf4d.pdf",
+     "time": "2026-10-27T10:26:10+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94d9e62f-952d-4046-8379-bbdd1761f3ab.pdf",
+     "time": "2026-10-24T13:38:34+05:30",
+     "category": "credit_rating",
+     "subtype": "rating",
+     "score": 48,
+     "ambiguous": false
+    },
+    {
+     "title": "Transcripts Of The Call With Media And Of Earnings Call With Analysts And Investors",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b0db888f-4420-4c21-9c36-9a91bdf5865e.pdf",
+     "time": "2026-10-23T18:02:46+05:30",
+     "category": "earnings_call",
+     "subtype": "transcript",
+     "score": 40,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74fe2093-fb65-447c-b37a-4c94e860f509.pdf",
+     "time": "2026-10-22T16:42:26+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=265811af-e787-4d51-8313-c62c515ae838.pdf",
+     "time": "2026-10-17T20:52:29+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Revenue": [
+      49080.0,
+      48181.0,
+      48364.0,
+      49594.0,
+      52241.0,
+      55992.0
+     ],
+     "Interest": [
+      23090.0,
+      22017.0,
+      21874.0,
+      22047.0,
+      23064.0,
+      25656.0
+     ],
+     "Financing Profit": [
+      -6002.0,
+      -8901.0,
+      -10664.0,
+      -14276.0,
+      -6141.0,
+      -9055.0
+     ],
+     "Other Income": [
+      25496.0,
+      27966.0,
+      28418.0,
+      35020.0,
+      27448.0,
+      32169.0
+     ],
+     "Depreciation": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "Profit before tax": [
+      19494.0,
+      19065.0,
+      17754.0,
+      20744.0,
+      21307.0,
+      23115.0
+     ],
+     "Net Profit": [
+      14456.0,
+      14318.0,
+      13481.0,
+      15681.0,
+      16276.0,
+      17389.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1384/6/2025/",
+     "https://www.screener.in/company/source/quarter/1384/9/2025/",
+     "https://www.screener.in/company/source/quarter/1384/12/2025/",
+     "https://www.screener.in/company/source/quarter/1384/3/2026/",
+     "https://www.screener.in/company/source/quarter/1384/6/2026/",
+     "https://www.screener.in/company/source/quarter/1384/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d80c4401-bed9-4aa4-b532-00255b963376.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9d5f21fd-9b1e-42e5-a48b-84d2623f293c.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b831cebf-9ddc-48a6-861f-1879e07a86fc.pdf"
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2027/transcript-for-earnings-call-held-on-july-18-2026.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d689538-69d3-4271-9c39-631e3efc0b77.pdf"
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=881c8fc3-a4c2-40ff-bacf-d68efc0e3d7a.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d0e36c-8e96-4fde-9d2e-d33a9443ec34.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=245b872b-cdb6-4c0d-b8ae-1c9d3d3ee9af.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2941b192-7144-4566-874a-a0d4124a003f.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2026/transcript-earnings-call-jan2026.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a0e8729-682f-40bf-ade8-3daeaa2a1173.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "BAJFINANCE",
+   "name": "Bajaj Finance Ltd",
+   "sector": "NBFC",
+   "portfolio": true,
+   "financial": true,
+   "ratios": {
+    "Market Cap": "₹ 5,71,200 Cr.",
+    "Current Price": "₹ 917",
+    "Stock P/E": "26.2",
+    "Dividend Yield": "0.59 %",
+    "ROCE": "10.9 %",
+    "ROE": "18.2 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 918.7
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 996.9,
+     "move_pct": 1.52,
+     "vol_multiple": 0.91
+    },
+    {
+     "date": "2026-09-28",
+     "close": 985.0,
+     "move_pct": -1.19,
+     "vol_multiple": 1.28
+    },
+    {
+     "date": "2026-09-29",
+     "close": 973.8,
+     "move_pct": -1.14,
+     "vol_multiple": 1.4
+    },
+    {
+     "date": "2026-09-30",
+     "close": 959.4,
+     "move_pct": -1.48,
+     "vol_multiple": 1.06
+    },
+    {
+     "date": "2026-10-01",
+     "close": 948.3,
+     "move_pct": -1.16,
+     "vol_multiple": 0.9
+    },
+    {
+     "date": "2026-10-05",
+     "close": 970.0,
+     "move_pct": 2.29,
+     "vol_multiple": 2.01
+    },
+    {
+     "date": "2026-10-06",
+     "close": 963.1,
+     "move_pct": -0.71,
+     "vol_multiple": 0.66
+    },
+    {
+     "date": "2026-10-07",
+     "close": 963.85,
+     "move_pct": 0.08,
+     "vol_multiple": 1.75
+    },
+    {
+     "date": "2026-10-08",
+     "close": 955.95,
+     "move_pct": -0.82,
+     "vol_multiple": 1.35
+    },
+    {
+     "date": "2026-10-09",
+     "close": 960.0,
+     "move_pct": 0.42,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-12",
+     "close": 957.25,
+     "move_pct": -0.29,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-13",
+     "close": 982.75,
+     "move_pct": 2.66,
+     "vol_multiple": 1.05
+    },
+    {
+     "date": "2026-10-14",
+     "close": 957.0,
+     "move_pct": -2.62,
+     "vol_multiple": 0.98
+    },
+    {
+     "date": "2026-10-15",
+     "close": 965.25,
+     "move_pct": 0.86,
+     "vol_multiple": 1.47
+    },
+    {
+     "date": "2026-10-16",
+     "close": 982.1,
+     "move_pct": 1.75,
+     "vol_multiple": 1.01
+    },
+    {
+     "date": "2026-10-19",
+     "close": 957.35,
+     "move_pct": -2.52,
+     "vol_multiple": 1.06
+    },
+    {
+     "date": "2026-10-21",
+     "close": 926.0,
+     "move_pct": -3.27,
+     "vol_multiple": 2.36
+    },
+    {
+     "date": "2026-10-22",
+     "close": 942.1,
+     "move_pct": 1.74,
+     "vol_multiple": 1.24
+    },
+    {
+     "date": "2026-10-23",
+     "close": 928.95,
+     "move_pct": -1.4,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-26",
+     "close": 918.7,
+     "move_pct": -1.1,
+     "vol_multiple": 0.45
+    }
+   ],
+   "spark": [
+    1083.0,
+    1079.9,
+    1057.0,
+    1053.9,
+    1055.9,
+    1049.0,
+    1060.5,
+    1060.0,
+    1054.1,
+    1039.3,
+    1043.5,
+    1034.5,
+    1009.2,
+    1006.2,
+    1015.0,
+    1040.3,
+    1021.3,
+    1008.8,
+    1043.2,
+    982.0,
+    996.9,
+    985.0,
+    973.8,
+    959.4,
+    948.3,
+    970.0,
+    963.1,
+    963.85,
+    955.95,
+    960.0,
+    957.25,
+    982.75,
+    957.0,
+    965.25,
+    982.1,
+    957.35,
+    926.0,
+    942.1,
+    928.95,
+    918.7
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 26 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd352f0e-ac9c-4c6d-94cd-6b50802c665b.pdf",
+     "time": "2026-10-26T19:33:10+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+     "time": "2026-10-23T14:45:33+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5bb76cad-5a8c-42c8-8aa3-6d81edf31bf6.pdf",
+     "time": "2026-10-21T12:22:21+05:30",
+     "category": "unclassified",
+     "subtype": "allotment",
+     "score": 12,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=adefbbb0-caa9-46a5-91aa-41c5359a7271.pdf",
+     "time": "2026-10-19T21:05:09+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Change in Management",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb4bfa8c-5285-4b6f-86c3-852bf82c8015.pdf",
+     "time": "2026-10-19T18:18:41+05:30",
+     "category": "management_change",
+     "subtype": "senior",
+     "score": 84,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Revenue": [
+      19524.0,
+      19990.0,
+      21013.0,
+      21606.0,
+      23165.0,
+      24546.0
+     ],
+     "Interest": [
+      6918.0,
+      7011.0,
+      7339.0,
+      7398.0,
+      7942.0,
+      8602.0
+     ],
+     "Financing Profit": [
+      6614.0,
+      6861.0,
+      5937.0,
+      7654.0,
+      8430.0,
+      8825.0
+     ],
+     "Other Income": [
+      5.0,
+      5.0,
+      -262.0,
+      11.0,
+      6.0,
+      33.0
+     ],
+     "Depreciation": [
+      251.0,
+      258.0,
+      244.0,
+      256.0,
+      288.0,
+      321.0
+     ],
+     "Profit before tax": [
+      6368.0,
+      6608.0,
+      5431.0,
+      7410.0,
+      8149.0,
+      8537.0
+     ],
+     "Net Profit": [
+      4765.0,
+      4948.0,
+      4066.0,
+      5553.0,
+      6081.0,
+      6367.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/372/6/2025/",
+     "https://www.screener.in/company/source/quarter/372/9/2025/",
+     "https://www.screener.in/company/source/quarter/372/12/2025/",
+     "https://www.screener.in/company/source/quarter/372/3/2026/",
+     "https://www.screener.in/company/source/quarter/372/6/2026/",
+     "https://www.screener.in/company/source/quarter/372/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0670e08f-bc55-4155-9cbe-89e4637b3b05.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/23ae9a75-9bfa-49c2-89e4-5e1ee7a20f8c.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7c0f169-e396-4a7d-a57d-b1f7c47f6290.pdf"
+     },
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12138db5-13e0-4417-a325-d6d8bffa5cb2.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be6ffd5d-c69b-4fcf-8214-1a6f302c6794.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6eb34dc2-bde9-4df5-8b93-aad3d461140e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d213b0e9-5f1c-48ab-b21f-664f669f3a95.pdf"
+     },
+     {
+      "label": "Dec 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=39ea369b-a7b8-42e8-b787-2d1df4efa020.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd2470ef-968a-4e49-baac-ccf37743161c.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "ITC",
+   "name": "ITC Ltd",
+   "sector": "FMCG and tobacco",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 3,23,637 Cr.",
+    "Current Price": "₹ 258",
+    "Stock P/E": "16.4",
+    "Dividend Yield": "5.66 %",
+    "ROCE": "38.9 %",
+    "ROE": "29.3 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 260.5
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 269.0,
+     "move_pct": 0.37,
+     "vol_multiple": 0.47
+    },
+    {
+     "date": "2026-09-28",
+     "close": 265.2,
+     "move_pct": -1.41,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-09-29",
+     "close": 265.1,
+     "move_pct": -0.04,
+     "vol_multiple": 1.13
+    },
+    {
+     "date": "2026-09-30",
+     "close": 262.75,
+     "move_pct": -0.89,
+     "vol_multiple": 1.14
+    },
+    {
+     "date": "2026-10-01",
+     "close": 255.9,
+     "move_pct": -2.61,
+     "vol_multiple": 1.44
+    },
+    {
+     "date": "2026-10-05",
+     "close": 268.9,
+     "move_pct": 5.08,
+     "vol_multiple": 4.25
+    },
+    {
+     "date": "2026-10-06",
+     "close": 266.7,
+     "move_pct": -0.82,
+     "vol_multiple": 1.69
+    },
+    {
+     "date": "2026-10-07",
+     "close": 265.7,
+     "move_pct": -0.37,
+     "vol_multiple": 3.64
+    },
+    {
+     "date": "2026-10-08",
+     "close": 255.0,
+     "move_pct": -4.03,
+     "vol_multiple": 3.38
+    },
+    {
+     "date": "2026-10-09",
+     "close": 266.0,
+     "move_pct": 4.31,
+     "vol_multiple": 1.7
+    },
+    {
+     "date": "2026-10-12",
+     "close": 257.9,
+     "move_pct": -3.05,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-13",
+     "close": 261.0,
+     "move_pct": 1.2,
+     "vol_multiple": 0.7
+    },
+    {
+     "date": "2026-10-14",
+     "close": 261.5,
+     "move_pct": 0.19,
+     "vol_multiple": 1.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 263.9,
+     "move_pct": 0.92,
+     "vol_multiple": 1.16
+    },
+    {
+     "date": "2026-10-16",
+     "close": 263.5,
+     "move_pct": -0.15,
+     "vol_multiple": 0.65
+    },
+    {
+     "date": "2026-10-19",
+     "close": 260.8,
+     "move_pct": -1.02,
+     "vol_multiple": 0.58
+    },
+    {
+     "date": "2026-10-21",
+     "close": 262.0,
+     "move_pct": 0.46,
+     "vol_multiple": 1.06
+    },
+    {
+     "date": "2026-10-22",
+     "close": 258.9,
+     "move_pct": -1.18,
+     "vol_multiple": 0.75
+    },
+    {
+     "date": "2026-10-23",
+     "close": 257.9,
+     "move_pct": -0.39,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-26",
+     "close": 260.5,
+     "move_pct": 1.01,
+     "vol_multiple": 0.72
+    }
+   ],
+   "spark": [
+    269.0,
+    266.0,
+    255.5,
+    266.6,
+    266.3,
+    263.0,
+    264.1,
+    263.5,
+    263.5,
+    260.8,
+    259.3,
+    259.85,
+    258.0,
+    264.15,
+    266.2,
+    262.3,
+    267.0,
+    265.8,
+    270.15,
+    268.0,
+    269.0,
+    265.2,
+    265.1,
+    262.75,
+    255.9,
+    268.9,
+    266.7,
+    265.7,
+    255.0,
+    266.0,
+    257.9,
+    261.0,
+    261.5,
+    263.9,
+    263.5,
+    260.8,
+    262.0,
+    258.9,
+    257.9,
+    260.5
+   ],
+   "filings": [
+    {
+     "title": "Board Meeting Intimation for Unaudited Standalone And Consolidated Financial Results Of The Company For The Quarter And Six Months Ended 30Th September, 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5bddd8c-e334-4796-abcb-fe6f95a76110.pdf",
+     "time": "2026-10-16T17:35:27+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b57d5926-290d-4936-a8b7-3f7495bc27b0.pdf",
+     "time": "2026-10-15T19:18:59+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 7 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4A76F0DB_EACC_426D_9D7C_C907E5CE4065_103659.pdf",
+     "time": "2026-10-07T10:37:03+05:30",
+     "category": "insider_trading",
+     "subtype": "disclosure",
+     "score": 34,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a2697d75-c31f-46ca-9ef2-a1f32bd98ab9.pdf",
+     "time": "2026-10-05T14:27:49+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8eac2987-9924-4131-b4da-af66c3b06041.pdf",
+     "time": "2026-09-28T20:27:29+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      18765.0,
+      21495.0,
+      19502.0,
+      20047.0,
+      17825.0,
+      19114.0
+     ],
+     "Operating Profit": [
+      6519.0,
+      6816.0,
+      6695.0,
+      6883.0,
+      6924.0,
+      5181.0
+     ],
+     "Other Income": [
+      15391.0,
+      751.0,
+      739.0,
+      322.0,
+      700.0,
+      1148.0
+     ],
+     "Interest": [
+      11.0,
+      16.0,
+      20.0,
+      19.0,
+      29.0,
+      40.0
+     ],
+     "Depreciation": [
+      411.0,
+      423.0,
+      435.0,
+      431.0,
+      422.0,
+      428.0
+     ],
+     "Profit before tax": [
+      21489.0,
+      7128.0,
+      6979.0,
+      6754.0,
+      7173.0,
+      5861.0
+     ],
+     "Net Profit": [
+      19808.0,
+      5343.0,
+      5187.0,
+      5018.0,
+      5470.0,
+      4509.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1552/3/2025/",
+     "https://www.screener.in/company/source/quarter/1552/6/2025/",
+     "https://www.screener.in/company/source/quarter/1552/9/2025/",
+     "https://www.screener.in/company/source/quarter/1552/12/2025/",
+     "https://www.screener.in/company/source/quarter/1552/3/2026/",
+     "https://www.screener.in/company/source/quarter/1552/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ba4a189-5fd2-4851-af6f-ec365f7edea2.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f0d1e906-3c13-4993-ad06-e04ad1d3edf9.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20b685f4-2aec-4887-bb2a-eaf9fd999da2.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ed30323-0ded-4685-b1b4-fd441908505c.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f154edb-b1e2-43fa-98af-04d0a1c49062.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5822a588-ec86-4294-909b-875e4062acea.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c251f7d-9278-4673-a72a-b44867704934.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f080690-3c12-43b7-81b5-49b477522dca.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "HINDUNILVR",
+   "name": "Hindustan Unilever Ltd",
+   "sector": "FMCG",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 4,17,029 Cr.",
+    "Current Price": "₹ 1,775",
+    "Stock P/E": "37.8",
+    "Dividend Yield": "2.29 %",
+    "ROCE": "28.4 %",
+    "ROE": "31.0 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1818.6
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1942.9,
+     "move_pct": 0.49,
+     "vol_multiple": 0.57
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1896.0,
+     "move_pct": -2.41,
+     "vol_multiple": 1.46
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1863.8,
+     "move_pct": -1.7,
+     "vol_multiple": 1.56
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1879.1,
+     "move_pct": 0.82,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1836.0,
+     "move_pct": -2.29,
+     "vol_multiple": 0.98
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1838.4,
+     "move_pct": 0.13,
+     "vol_multiple": 0.72
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1895.2,
+     "move_pct": 3.09,
+     "vol_multiple": 1.2
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1865.4,
+     "move_pct": -1.57,
+     "vol_multiple": 0.48
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1844.5,
+     "move_pct": -1.12,
+     "vol_multiple": 1.59
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1856.7,
+     "move_pct": 0.66,
+     "vol_multiple": 0.99
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1820.7,
+     "move_pct": -1.94,
+     "vol_multiple": 1.13
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1875.5,
+     "move_pct": 3.01,
+     "vol_multiple": 1.63
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1895.5,
+     "move_pct": 1.07,
+     "vol_multiple": 2.66
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1897.1,
+     "move_pct": 0.08,
+     "vol_multiple": 0.89
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1893.8,
+     "move_pct": -0.17,
+     "vol_multiple": 0.85
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1853.2,
+     "move_pct": -2.14,
+     "vol_multiple": 0.82
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1850.2,
+     "move_pct": -0.16,
+     "vol_multiple": 0.46
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1828.3,
+     "move_pct": -1.18,
+     "vol_multiple": 0.7
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1814.7,
+     "move_pct": -0.74,
+     "vol_multiple": 0.83
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1818.6,
+     "move_pct": 0.21,
+     "vol_multiple": 0.46
+    }
+   ],
+   "spark": [
+    2009.0,
+    2010.4,
+    1967.4,
+    1994.8,
+    1975.0,
+    1962.0,
+    1973.4,
+    1960.0,
+    1980.0,
+    1945.0,
+    1942.3,
+    1927.0,
+    1938.1,
+    1962.0,
+    1942.2,
+    1932.0,
+    1947.0,
+    1933.8,
+    1950.0,
+    1933.5,
+    1942.9,
+    1896.0,
+    1863.8,
+    1879.1,
+    1836.0,
+    1838.4,
+    1895.2,
+    1865.4,
+    1844.5,
+    1856.7,
+    1820.7,
+    1875.5,
+    1895.5,
+    1897.1,
+    1893.8,
+    1853.2,
+    1850.2,
+    1828.3,
+    1814.7,
+    1818.6
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication 26 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22ded40d-e939-4762-a41b-0b3d2905589e.pdf",
+     "time": "2026-10-26T23:24:26+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bff766e5-708c-4040-b2a9-da0ced14931a.pdf",
+     "time": "2026-10-21T16:32:22+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=709c3833-7566-4079-ab39-986673a9751d.pdf",
+     "time": "2026-10-09T18:03:00+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20780ff7-c103-4dee-b19a-ccde015c6c96.pdf",
+     "time": "2026-10-08T19:38:38+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Consideration Of Unaudited Standalone And Consolidated Financial Results For The Quarter And Half Year Ended 30Th September 2026 And Payment Of Interim Dividend (If Any)",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b9dd186-7988-4f00-ab68-1c44672d35b9.pdf",
+     "time": "2026-10-07T15:51:42+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      15190.0,
+      15757.0,
+      15919.0,
+      16441.0,
+      16351.0,
+      17341.0
+     ],
+     "Operating Profit": [
+      3618.0,
+      3639.0,
+      3782.0,
+      3781.0,
+      3837.0,
+      3947.0
+     ],
+     "Other Income": [
+      149.0,
+      103.0,
+      269.0,
+      4048.0,
+      503.0,
+      113.0
+     ],
+     "Interest": [
+      77.0,
+      122.0,
+      124.0,
+      88.0,
+      76.0,
+      75.0
+     ],
+     "Depreciation": [
+      318.0,
+      326.0,
+      322.0,
+      337.0,
+      348.0,
+      353.0
+     ],
+     "Profit before tax": [
+      3372.0,
+      3294.0,
+      3605.0,
+      7404.0,
+      3916.0,
+      3632.0
+     ],
+     "Net Profit": [
+      2475.0,
+      2768.0,
+      2694.0,
+      6603.0,
+      2994.0,
+      2680.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1350/3/2025/",
+     "https://www.screener.in/company/source/quarter/1350/6/2025/",
+     "https://www.screener.in/company/source/quarter/1350/9/2025/",
+     "https://www.screener.in/company/source/quarter/1350/12/2025/",
+     "https://www.screener.in/company/source/quarter/1350/3/2026/",
+     "https://www.screener.in/company/source/quarter/1350/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/770bf03e-526d-45d8-8364-13f7fc523289.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/02d8d87d-90ce-4191-8b3f-4167267aee8a.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Sep 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56b4f75a-8e0c-4c0a-ab55-30bd26b12cc3.pdf"
+     },
+     {
+      "label": "Sep 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9d8d7e9-c5ef-40ef-bbd6-bc832320c0d5.pdf"
+     },
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8bf7fdd-0f7d-4440-a443-08ea9a8e6d04.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=163e0f27-042e-41a9-9db7-14f5d0172218.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf",
+      "ppt": "https://www.hul.co.in/files/hul-mq-26-and-fy-26-results-presentation.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e6dea43-db7a-4075-82c6-71024ed4436a.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2eb875fe-ef79-4b40-88b8-228ccc8be17e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b38b0312-d563-42a1-96e7-d61213c82925.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "SUNPHARMA",
+   "name": "Sun Pharmaceutical Industries Ltd",
+   "sector": "Pharma",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 4,21,935 Cr.",
+    "Current Price": "₹ 1,759",
+    "Stock P/E": "33.4",
+    "Dividend Yield": "0.92 %",
+    "ROCE": "20.5 %",
+    "ROE": "16.0 %"
+   },
+   "last": {
+    "date": "2026-10-23",
+    "close": 1748.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-24",
+     "close": 1849.9,
+     "move_pct": -0.81,
+     "vol_multiple": 1.13
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1852.2,
+     "move_pct": 0.12,
+     "vol_multiple": 0.43
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1838.0,
+     "move_pct": -0.77,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1865.0,
+     "move_pct": 1.47,
+     "vol_multiple": 1.98
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1816.6,
+     "move_pct": -2.6,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1801.0,
+     "move_pct": -0.86,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1779.7,
+     "move_pct": -1.18,
+     "vol_multiple": 0.81
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1804.1,
+     "move_pct": 1.37,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1781.0,
+     "move_pct": -1.28,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1759.8,
+     "move_pct": -1.19,
+     "vol_multiple": 1.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1760.0,
+     "move_pct": 0.01,
+     "vol_multiple": 0.83
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1760.0,
+     "move_pct": 0.0,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1770.7,
+     "move_pct": 0.61,
+     "vol_multiple": 0.74
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1746.4,
+     "move_pct": -1.37,
+     "vol_multiple": 1.13
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1764.0,
+     "move_pct": 1.01,
+     "vol_multiple": 0.85
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1758.8,
+     "move_pct": -0.29,
+     "vol_multiple": 0.94
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1743.0,
+     "move_pct": -0.9,
+     "vol_multiple": 0.51
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1745.1,
+     "move_pct": 0.12,
+     "vol_multiple": 1.52
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1758.0,
+     "move_pct": 0.74,
+     "vol_multiple": 1.18
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1748.0,
+     "move_pct": -0.57,
+     "vol_multiple": 0.69
+    }
+   ],
+   "spark": [
+    1899.5,
+    1913.3,
+    1920.0,
+    1984.8,
+    1929.0,
+    1931.7,
+    1916.0,
+    1899.0,
+    1895.0,
+    1885.9,
+    1864.9,
+    1861.0,
+    1840.0,
+    1835.0,
+    1853.5,
+    1867.3,
+    1837.3,
+    1868.9,
+    1846.4,
+    1865.0,
+    1849.9,
+    1852.2,
+    1838.0,
+    1865.0,
+    1816.6,
+    1801.0,
+    1779.7,
+    1804.1,
+    1781.0,
+    1759.8,
+    1760.0,
+    1760.0,
+    1770.7,
+    1746.4,
+    1764.0,
+    1758.8,
+    1743.0,
+    1745.1,
+    1758.0,
+    1748.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f44a1be-85a8-4545-a86e-71a27b7b7f15.pdf",
+     "time": "2026-10-26T12:30:09+05:30",
+     "category": "unclassified",
+     "subtype": "allotment",
+     "score": 12,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46b44110-a538-4759-8351-04d4731da2ae.pdf",
+     "time": "2026-10-23T18:01:34+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a434af1-62a4-4822-a754-fa547098def0.pdf",
+     "time": "2026-10-20T17:33:54+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fee4866d-b8c6-40e5-b8d5-c93ade038a11.pdf",
+     "time": "2026-10-15T18:24:16+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Consideration And Approval The Unaudited Financial Results For The Quarter And Half Year Ended 30 September 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab1efc78-7c9b-45b4-be79-85ae32c29b34.pdf",
+     "time": "2026-10-14T20:16:46+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      12959.0,
+      13851.0,
+      14478.0,
+      15521.0,
+      14612.0,
+      15300.0
+     ],
+     "Operating Profit": [
+      3716.0,
+      4302.0,
+      4527.0,
+      4948.0,
+      3954.0,
+      4418.0
+     ],
+     "Other Income": [
+      251.0,
+      -354.0,
+      470.0,
+      89.0,
+      458.0,
+      520.0
+     ],
+     "Interest": [
+      49.0,
+      75.0,
+      100.0,
+      78.0,
+      86.0,
+      100.0
+     ],
+     "Depreciation": [
+      664.0,
+      701.0,
+      730.0,
+      732.0,
+      775.0,
+      739.0
+     ],
+     "Profit before tax": [
+      3254.0,
+      3173.0,
+      4168.0,
+      4227.0,
+      3551.0,
+      4099.0
+     ],
+     "Net Profit": [
+      2154.0,
+      2293.0,
+      3125.0,
+      3381.0,
+      2710.0,
+      2901.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/3245/3/2025/",
+     "https://www.screener.in/company/source/quarter/3245/6/2025/",
+     "https://www.screener.in/company/source/quarter/3245/9/2025/",
+     "https://www.screener.in/company/source/quarter/3245/12/2025/",
+     "https://www.screener.in/company/source/quarter/3245/3/2026/",
+     "https://www.screener.in/company/source/quarter/3245/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/511405ab-48e8-4d89-84af-aaa2e083e816.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a1e3c7fc-c47e-4ce8-ad92-b4affd2a9cf8.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Sep 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c37365ed-4a1a-42a6-9eb7-3f6d922f67a4.pdf"
+     },
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6f00b4f-5f46-44d8-a2d2-db50b7cc28ff.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf",
+      "ppt": null
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fb0611b-17c4-4e4b-8730-63f76028c1a1.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1082d0ab-d6fb-40f5-873e-d7301397cd05.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ef19f3e-b9ef-4842-9ad9-d0b0120afe72.pdf"
+     },
+     {
+      "label": "Dec 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e01bfcbf-aaae-4101-a746-c13ec04f062e.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "MARUTI",
+   "name": "Maruti Suzuki India Ltd",
+   "sector": "Autos",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 3,57,414 Cr.",
+    "Current Price": "₹ 11,368",
+    "Stock P/E": "25.0",
+    "Dividend Yield": "1.25 %",
+    "ROCE": "18.9 %",
+    "ROE": "14.3 %"
+   },
+   "last": {
+    "date": "2026-10-23",
+    "close": 11230.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-24",
+     "close": 11990.0,
+     "move_pct": -1.96,
+     "vol_multiple": 0.99
+    },
+    {
+     "date": "2026-09-25",
+     "close": 12065.0,
+     "move_pct": 0.63,
+     "vol_multiple": 0.7
+    },
+    {
+     "date": "2026-09-28",
+     "close": 12008.0,
+     "move_pct": -0.47,
+     "vol_multiple": 0.75
+    },
+    {
+     "date": "2026-09-29",
+     "close": 11877.0,
+     "move_pct": -1.09,
+     "vol_multiple": 1.28
+    },
+    {
+     "date": "2026-09-30",
+     "close": 11967.0,
+     "move_pct": 0.76,
+     "vol_multiple": 1.05
+    },
+    {
+     "date": "2026-10-01",
+     "close": 11386.0,
+     "move_pct": -4.86,
+     "vol_multiple": 2.3
+    },
+    {
+     "date": "2026-10-05",
+     "close": 11532.0,
+     "move_pct": 1.28,
+     "vol_multiple": 1.9
+    },
+    {
+     "date": "2026-10-06",
+     "close": 11625.0,
+     "move_pct": 0.81,
+     "vol_multiple": 0.63
+    },
+    {
+     "date": "2026-10-07",
+     "close": 11450.0,
+     "move_pct": -1.51,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-08",
+     "close": 11228.0,
+     "move_pct": -1.94,
+     "vol_multiple": 1.01
+    },
+    {
+     "date": "2026-10-09",
+     "close": 11420.0,
+     "move_pct": 1.71,
+     "vol_multiple": 0.82
+    },
+    {
+     "date": "2026-10-12",
+     "close": 11315.0,
+     "move_pct": -0.92,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-13",
+     "close": 11245.0,
+     "move_pct": -0.62,
+     "vol_multiple": 1.81
+    },
+    {
+     "date": "2026-10-14",
+     "close": 11178.0,
+     "move_pct": -0.6,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-15",
+     "close": 11445.0,
+     "move_pct": 2.39,
+     "vol_multiple": 1.16
+    },
+    {
+     "date": "2026-10-16",
+     "close": 11489.0,
+     "move_pct": 0.38,
+     "vol_multiple": 0.91
+    },
+    {
+     "date": "2026-10-19",
+     "close": 11475.0,
+     "move_pct": -0.12,
+     "vol_multiple": 0.99
+    },
+    {
+     "date": "2026-10-21",
+     "close": 11200.0,
+     "move_pct": -2.4,
+     "vol_multiple": 0.88
+    },
+    {
+     "date": "2026-10-22",
+     "close": 11170.0,
+     "move_pct": -0.27,
+     "vol_multiple": 0.9
+    },
+    {
+     "date": "2026-10-23",
+     "close": 11230.0,
+     "move_pct": 0.54,
+     "vol_multiple": 0.72
+    }
+   ],
+   "spark": [
+    13520.0,
+    13440.0,
+    13376.0,
+    13547.0,
+    12950.0,
+    12849.0,
+    12857.0,
+    12694.0,
+    12760.0,
+    12641.0,
+    12618.0,
+    12590.0,
+    12400.0,
+    12231.0,
+    12166.0,
+    12338.0,
+    12103.0,
+    12153.0,
+    12190.0,
+    12230.0,
+    11990.0,
+    12065.0,
+    12008.0,
+    11877.0,
+    11967.0,
+    11386.0,
+    11532.0,
+    11625.0,
+    11450.0,
+    11228.0,
+    11420.0,
+    11315.0,
+    11245.0,
+    11178.0,
+    11445.0,
+    11489.0,
+    11475.0,
+    11200.0,
+    11170.0,
+    11230.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34cdfd84-89c0-476d-b2dc-82908b76b697.pdf",
+     "time": "2026-10-24T10:25:04+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 21 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c1d60831-6535-483d-9eec-222e52fbe3bb.pdf",
+     "time": "2026-10-21T15:38:39+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Intimation Under Regulation 30 Of SEBI (LODR) Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa561a4b-39c9-4134-8db9-b84c580aeaf5.pdf",
+     "time": "2026-10-15T19:12:49+05:30",
+     "category": "unclassified",
+     "subtype": "unknown",
+     "score": 12,
+     "ambiguous": true
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c5cfc61-fa73-42b2-b787-45f6953fdd6f.pdf",
+     "time": "2026-10-13T13:15:37+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Intimation Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f7d5e9-5331-4fb0-8bc5-b6328e1d413c.pdf",
+     "time": "2026-10-12T16:16:05+05:30",
+     "category": "unclassified",
+     "subtype": "unknown",
+     "score": 12,
+     "ambiguous": true
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      40920.0,
+      38605.0,
+      42344.0,
+      49904.0,
+      52462.0,
+      52470.0
+     ],
+     "Operating Profit": [
+      4844.0,
+      4623.0,
+      5086.0,
+      5573.0,
+      6158.0,
+      4313.0
+     ],
+     "Other Income": [
+      1583.0,
+      1924.0,
+      1014.0,
+      1140.0,
+      581.0,
+      1972.0
+     ],
+     "Interest": [
+      48.0,
+      47.0,
+      57.0,
+      62.0,
+      73.0,
+      64.0
+     ],
+     "Depreciation": [
+      1462.0,
+      1556.0,
+      1703.0,
+      1735.0,
+      1748.0,
+      1780.0
+     ],
+     "Profit before tax": [
+      4918.0,
+      4944.0,
+      4339.0,
+      4917.0,
+      4918.0,
+      4441.0
+     ],
+     "Net Profit": [
+      3911.0,
+      3792.0,
+      3349.0,
+      3879.0,
+      3659.0,
+      3447.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/2023/3/2025/",
+     "https://www.screener.in/company/source/quarter/2023/6/2025/",
+     "https://www.screener.in/company/source/quarter/2023/9/2025/",
+     "https://www.screener.in/company/source/quarter/2023/12/2025/",
+     "https://www.screener.in/company/source/quarter/2023/3/2026/",
+     "https://www.screener.in/company/source/quarter/2023/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6b3feef-628a-443c-9e63-665a5e057547.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b14c577-1d8d-4eb0-a79e-f94640af8a67.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b7f0db8-b33e-4a14-bb96-542978860d78.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8ced1ab-d385-4f8c-bcc9-90a186b40275.pdf"
+     },
+     {
+      "label": "Mar 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e535086-f03f-40be-97bd-e966c116c483.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d203cd4-51c6-4795-a58f-b784adfca9a0.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de8ce513-a808-453e-9b3b-94328ebe6e0c.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY_26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb1d3824-d661-4143-b061-9964bf79d1b3.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "LT",
+   "name": "Larsen & Toubro Ltd",
+   "sector": "Capital goods and EPC",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 5,08,201 Cr.",
+    "Current Price": "₹ 3,694",
+    "Stock P/E": "28.8",
+    "Dividend Yield": "1.03 %",
+    "ROCE": "14.6 %",
+    "ROE": "15.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 3680.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 3876.2,
+     "move_pct": 0.46,
+     "vol_multiple": 0.89
+    },
+    {
+     "date": "2026-09-28",
+     "close": 3766.4,
+     "move_pct": -2.83,
+     "vol_multiple": 0.98
+    },
+    {
+     "date": "2026-09-29",
+     "close": 3749.1,
+     "move_pct": -0.46,
+     "vol_multiple": 1.8
+    },
+    {
+     "date": "2026-09-30",
+     "close": 3760.0,
+     "move_pct": 0.29,
+     "vol_multiple": 1.64
+    },
+    {
+     "date": "2026-10-01",
+     "close": 3693.4,
+     "move_pct": -1.77,
+     "vol_multiple": 1.45
+    },
+    {
+     "date": "2026-10-05",
+     "close": 3750.0,
+     "move_pct": 1.53,
+     "vol_multiple": 1.47
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3770.0,
+     "move_pct": 0.53,
+     "vol_multiple": 1.21
+    },
+    {
+     "date": "2026-10-07",
+     "close": 3701.5,
+     "move_pct": -1.82,
+     "vol_multiple": 0.96
+    },
+    {
+     "date": "2026-10-08",
+     "close": 3625.1,
+     "move_pct": -2.06,
+     "vol_multiple": 0.99
+    },
+    {
+     "date": "2026-10-09",
+     "close": 3703.3,
+     "move_pct": 2.16,
+     "vol_multiple": 0.78
+    },
+    {
+     "date": "2026-10-12",
+     "close": 3627.5,
+     "move_pct": -2.05,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-13",
+     "close": 3675.0,
+     "move_pct": 1.31,
+     "vol_multiple": 1.38
+    },
+    {
+     "date": "2026-10-14",
+     "close": 3642.0,
+     "move_pct": -0.9,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-15",
+     "close": 3632.0,
+     "move_pct": -0.27,
+     "vol_multiple": 1.45
+    },
+    {
+     "date": "2026-10-16",
+     "close": 3627.1,
+     "move_pct": -0.13,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-10-19",
+     "close": 3661.9,
+     "move_pct": 0.96,
+     "vol_multiple": 1.34
+    },
+    {
+     "date": "2026-10-21",
+     "close": 3636.0,
+     "move_pct": -0.71,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3638.3,
+     "move_pct": 0.06,
+     "vol_multiple": 1.46
+    },
+    {
+     "date": "2026-10-23",
+     "close": 3647.0,
+     "move_pct": 0.24,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-26",
+     "close": 3680.0,
+     "move_pct": 0.9,
+     "vol_multiple": 0.59
+    }
+   ],
+   "spark": [
+    4027.0,
+    4045.8,
+    4044.9,
+    3980.1,
+    3981.0,
+    3975.0,
+    3964.1,
+    3999.0,
+    3946.1,
+    3922.6,
+    3955.0,
+    3930.7,
+    3850.7,
+    3807.7,
+    3836.2,
+    3885.0,
+    3904.8,
+    3866.4,
+    3929.9,
+    3858.4,
+    3876.2,
+    3766.4,
+    3749.1,
+    3760.0,
+    3693.4,
+    3750.0,
+    3770.0,
+    3701.5,
+    3625.1,
+    3703.3,
+    3627.5,
+    3675.0,
+    3642.0,
+    3632.0,
+    3627.1,
+    3661.9,
+    3636.0,
+    3638.3,
+    3647.0,
+    3680.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s) 27 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=115618e0-f718-4b8b-81e1-642618cbe608.pdf",
+     "time": "2026-10-27T10:14:11+05:30",
+     "category": "press_release",
+     "subtype": "order",
+     "score": 62,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42761949-c90f-4c0c-8fad-6d79416f15d2.pdf",
+     "time": "2026-10-21T09:45:02+05:30",
+     "category": "press_release",
+     "subtype": "order",
+     "score": 62,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f057a04-479c-4785-9250-f18c7d1ad88a.pdf",
+     "time": "2026-10-19T10:13:18+05:30",
+     "category": "unclassified",
+     "subtype": "unknown",
+     "score": 12,
+     "ambiguous": true
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=821c9264-499f-4c19-a55c-233ed13d8e11.pdf",
+     "time": "2026-10-16T16:52:23+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Considering The Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69aa9bce-1c52-4e8d-a556-2b8928c778b9.pdf",
+     "time": "2026-10-13T18:15:14+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      74392.0,
+      63679.0,
+      67984.0,
+      71450.0,
+      82762.0,
+      67942.0
+     ],
+     "Operating Profit": [
+      9876.0,
+      8024.0,
+      8513.0,
+      9190.0,
+      10419.0,
+      8149.0
+     ],
+     "Other Income": [
+      1610.0,
+      1357.0,
+      1384.0,
+      -350.0,
+      1647.0,
+      2377.0
+     ],
+     "Interest": [
+      2419.0,
+      2488.0,
+      2470.0,
+      2399.0,
+      2488.0,
+      2571.0
+     ],
+     "Depreciation": [
+      1052.0,
+      1033.0,
+      1092.0,
+      1072.0,
+      1168.0,
+      1032.0
+     ],
+     "Profit before tax": [
+      8014.0,
+      5860.0,
+      6336.0,
+      5370.0,
+      8410.0,
+      6922.0
+     ],
+     "Net Profit": [
+      6156.0,
+      4318.0,
+      4678.0,
+      3825.0,
+      6133.0,
+      4988.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1870/3/2025/",
+     "https://www.screener.in/company/source/quarter/1870/6/2025/",
+     "https://www.screener.in/company/source/quarter/1870/9/2025/",
+     "https://www.screener.in/company/source/quarter/1870/12/2025/",
+     "https://www.screener.in/company/source/quarter/1870/3/2026/",
+     "https://www.screener.in/company/source/quarter/1870/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63959ce8-b641-4bd4-9a62-43ab52301856.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b59765b4-ed42-48bd-afad-7caa4417d85d.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4d1bc4e-1492-4448-b203-5d6041b48a0e.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2095c57-89e5-4a19-adb3-0d074ac96126.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d35018aa-6e52-4d2f-a36e-82205456c0de.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=79d47adc-e94d-4ae2-9f11-2053b053b389.pdf"
+     },
+     {
+      "label": "Jul 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Earnings%20Call%20Transcript%20Q1FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce24f0b7-3769-4f7f-ba0b-8b700d2de060.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Q4FY25%20Earnings%20Call%20Transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4a102eb-f822-40cd-b836-0590ea3f2229.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "TITAN",
+   "name": "Titan Company Ltd",
+   "sector": "Consumer discretionary",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 3,84,877 Cr.",
+    "Current Price": "₹ 4,335",
+    "Stock P/E": "66.0",
+    "Dividend Yield": "0.35 %",
+    "ROCE": "20.5 %",
+    "ROE": "37.7 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 4323.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 4884.0,
+     "move_pct": 1.07,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-09-28",
+     "close": 4819.5,
+     "move_pct": -1.32,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-09-29",
+     "close": 4675.0,
+     "move_pct": -3.0,
+     "vol_multiple": 2.06
+    },
+    {
+     "date": "2026-09-30",
+     "close": 4587.0,
+     "move_pct": -1.88,
+     "vol_multiple": 1.53
+    },
+    {
+     "date": "2026-10-01",
+     "close": 4515.7,
+     "move_pct": -1.55,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-10-05",
+     "close": 4580.0,
+     "move_pct": 1.42,
+     "vol_multiple": 1.17
+    },
+    {
+     "date": "2026-10-06",
+     "close": 4550.0,
+     "move_pct": -0.66,
+     "vol_multiple": 1.27
+    },
+    {
+     "date": "2026-10-07",
+     "close": 4377.0,
+     "move_pct": -3.8,
+     "vol_multiple": 4.5
+    },
+    {
+     "date": "2026-10-08",
+     "close": 4359.5,
+     "move_pct": -0.4,
+     "vol_multiple": 1.91
+    },
+    {
+     "date": "2026-10-09",
+     "close": 4410.0,
+     "move_pct": 1.16,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-12",
+     "close": 4400.0,
+     "move_pct": -0.23,
+     "vol_multiple": 0.87
+    },
+    {
+     "date": "2026-10-13",
+     "close": 4487.0,
+     "move_pct": 1.98,
+     "vol_multiple": 0.64
+    },
+    {
+     "date": "2026-10-14",
+     "close": 4444.0,
+     "move_pct": -0.96,
+     "vol_multiple": 0.64
+    },
+    {
+     "date": "2026-10-15",
+     "close": 4455.8,
+     "move_pct": 0.27,
+     "vol_multiple": 0.62
+    },
+    {
+     "date": "2026-10-16",
+     "close": 4444.8,
+     "move_pct": -0.25,
+     "vol_multiple": 0.66
+    },
+    {
+     "date": "2026-10-19",
+     "close": 4424.2,
+     "move_pct": -0.46,
+     "vol_multiple": 0.74
+    },
+    {
+     "date": "2026-10-21",
+     "close": 4380.9,
+     "move_pct": -0.98,
+     "vol_multiple": 0.52
+    },
+    {
+     "date": "2026-10-22",
+     "close": 4350.0,
+     "move_pct": -0.71,
+     "vol_multiple": 0.5
+    },
+    {
+     "date": "2026-10-23",
+     "close": 4299.7,
+     "move_pct": -1.16,
+     "vol_multiple": 0.79
+    },
+    {
+     "date": "2026-10-26",
+     "close": 4323.0,
+     "move_pct": 0.54,
+     "vol_multiple": 0.48
+    }
+   ],
+   "spark": [
+    5139.3,
+    5169.2,
+    5102.4,
+    5050.0,
+    5074.0,
+    5027.0,
+    5020.0,
+    4995.0,
+    4987.0,
+    5005.0,
+    5021.0,
+    5009.5,
+    4856.0,
+    4908.5,
+    4841.0,
+    4798.5,
+    4875.0,
+    4928.5,
+    4880.0,
+    4832.5,
+    4884.0,
+    4819.5,
+    4675.0,
+    4587.0,
+    4515.7,
+    4580.0,
+    4550.0,
+    4377.0,
+    4359.5,
+    4410.0,
+    4400.0,
+    4487.0,
+    4444.0,
+    4455.8,
+    4444.8,
+    4424.2,
+    4380.9,
+    4350.0,
+    4299.7,
+    4323.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f317d625-e7e4-4155-bf66-a43c7def32b6.pdf",
+     "time": "2026-10-23T19:47:16+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Consider And Approve The Unaudited Financial Results For The Quarter Ended 30Th September 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf",
+     "time": "2026-10-20T14:42:56+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    },
+    {
+     "title": "Intimation of Repayment of Commercial Paper (CP)",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=631d73dc-7695-4952-8082-d9d34d4e0827.pdf",
+     "time": "2026-10-19T15:27:59+05:30",
+     "category": "fund_raise",
+     "subtype": "financing",
+     "score": 58,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=676fd8e4-027b-42cd-bcf8-fe1537ccf0f3.pdf",
+     "time": "2026-10-13T10:18:12+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Intimation of Repayment of Commercial Paper (CP)",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad927144-51f6-458f-a4a5-dfed2478c03a.pdf",
+     "time": "2026-10-08T16:09:29+05:30",
+     "category": "fund_raise",
+     "subtype": "financing",
+     "score": 58,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      14916.0,
+      16523.0,
+      18725.0,
+      25416.0,
+      26920.0,
+      21356.0
+     ],
+     "Operating Profit": [
+      1537.0,
+      1830.0,
+      1875.0,
+      2713.0,
+      1938.0,
+      2890.0
+     ],
+     "Other Income": [
+      116.0,
+      105.0,
+      113.0,
+      -1.0,
+      235.0,
+      148.0
+     ],
+     "Interest": [
+      252.0,
+      271.0,
+      277.0,
+      282.0,
+      350.0,
+      353.0
+     ],
+     "Depreciation": [
+      183.0,
+      184.0,
+      189.0,
+      207.0,
+      246.0,
+      256.0
+     ],
+     "Profit before tax": [
+      1218.0,
+      1480.0,
+      1522.0,
+      2223.0,
+      1577.0,
+      2429.0
+     ],
+     "Net Profit": [
+      871.0,
+      1091.0,
+      1120.0,
+      1684.0,
+      1179.0,
+      1777.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/3437/3/2025/",
+     "https://www.screener.in/company/source/quarter/3437/6/2025/",
+     "https://www.screener.in/company/source/quarter/3437/9/2025/",
+     "https://www.screener.in/company/source/quarter/3437/12/2025/",
+     "https://www.screener.in/company/source/quarter/3437/3/2026/",
+     "https://www.screener.in/company/source/quarter/3437/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6b841ec3-461e-4368-8fb9-d95df5065e11.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b02a958-6fd3-4a5c-86f9-b741a1e20ddd.pdf"
+     },
+     {
+      "label": "Jun 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a44057f-f3eb-4183-a3f0-08dafa095930.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50c87137-297a-4b93-81ce-024b08b65b09.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c59f4f91-69ed-4be2-9374-d369ac3ba0f4.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f5f3ace-fe6b-4549-952e-8f8c2a9dbe23.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e6dc31-44a8-4bae-bea2-9f10e08c8dec.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e22db5b-633b-4bc9-bc79-f281d0dcfa96.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "ADANIPORTS",
+   "name": "Adani Ports & Special Economic Zone Ltd",
+   "sector": "Ports and logistics",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 4,03,988 Cr.",
+    "Current Price": "₹ 1,753",
+    "Stock P/E": "30.4",
+    "Dividend Yield": "0.43 %",
+    "ROCE": "14.1 %",
+    "ROE": "16.4 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1752.5
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1788.0,
+     "move_pct": 0.15,
+     "vol_multiple": 0.35
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1743.7,
+     "move_pct": -2.48,
+     "vol_multiple": 0.5
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1822.0,
+     "move_pct": 4.49,
+     "vol_multiple": 1.74
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1798.3,
+     "move_pct": -1.3,
+     "vol_multiple": 1.49
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1737.8,
+     "move_pct": -3.36,
+     "vol_multiple": 1.02
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1774.0,
+     "move_pct": 2.08,
+     "vol_multiple": 1.32
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1783.4,
+     "move_pct": 0.53,
+     "vol_multiple": 0.81
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1750.1,
+     "move_pct": -1.87,
+     "vol_multiple": 0.56
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1708.0,
+     "move_pct": -2.41,
+     "vol_multiple": 1.59
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1761.0,
+     "move_pct": 3.1,
+     "vol_multiple": 4.47
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1754.0,
+     "move_pct": -0.4,
+     "vol_multiple": 4.48
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1763.0,
+     "move_pct": 0.51,
+     "vol_multiple": 1.21
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1748.7,
+     "move_pct": -0.81,
+     "vol_multiple": 0.61
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1743.2,
+     "move_pct": -0.31,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1750.8,
+     "move_pct": 0.44,
+     "vol_multiple": 0.42
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1766.0,
+     "move_pct": 0.87,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1748.8,
+     "move_pct": -0.97,
+     "vol_multiple": 0.78
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1750.0,
+     "move_pct": 0.07,
+     "vol_multiple": 0.56
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1702.7,
+     "move_pct": -2.7,
+     "vol_multiple": 0.55
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1752.5,
+     "move_pct": 2.92,
+     "vol_multiple": 0.63
+    }
+   ],
+   "spark": [
+    1714.0,
+    1707.5,
+    1593.1,
+    1647.5,
+    1672.7,
+    1706.5,
+    1707.3,
+    1694.3,
+    1710.0,
+    1775.0,
+    1768.0,
+    1764.6,
+    1713.8,
+    1723.8,
+    1738.3,
+    1824.0,
+    1787.1,
+    1795.0,
+    1807.3,
+    1785.3,
+    1788.0,
+    1743.7,
+    1822.0,
+    1798.3,
+    1737.8,
+    1774.0,
+    1783.4,
+    1750.1,
+    1708.0,
+    1761.0,
+    1754.0,
+    1763.0,
+    1748.7,
+    1743.2,
+    1750.8,
+    1766.0,
+    1748.8,
+    1750.0,
+    1702.7,
+    1752.5
+   ],
+   "filings": [
+    {
+     "title": "Intimation Under Regulation 30 Of The SEBI (LODR) Regulations, 2015 - Incorporation Of Step-Down Subsidiary.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8dbcbbbb-1706-41d5-a7d3-058de4c45277.pdf",
+     "time": "2026-10-22T15:11:21+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    },
+    {
+     "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 13 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=DD4E84ED_5624_40B4_A4A1_7CF909BD5C90_110656.pdf",
+     "time": "2026-10-13T11:07:04+05:30",
+     "category": "insider_trading",
+     "subtype": "disclosure",
+     "score": 34,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40467571-acea-44fa-87d0-9c617bce59dc.pdf",
+     "time": "2026-10-07T20:01:39+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Intimation Under Regulation 30 Of The SEBI (LODR) Regulations, 2015 - Incorporation Of Wholly Owned Subsidiary Company.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7c5db6c-3143-4afb-b2b7-7de50e0af5e2.pdf",
+     "time": "2026-10-06T18:34:49+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Considering And Approving The Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40ab74d7-f8ae-457d-b0d6-aa69eb52702c.pdf",
+     "time": "2026-10-05T20:40:40+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      8488.0,
+      9126.0,
+      9167.0,
+      9705.0,
+      10738.0,
+      10821.0
+     ],
+     "Operating Profit": [
+      5006.0,
+      5495.0,
+      5340.0,
+      5786.0,
+      6020.0,
+      6253.0
+     ],
+     "Other Income": [
+      426.0,
+      453.0,
+      837.0,
+      189.0,
+      900.0,
+      853.0
+     ],
+     "Interest": [
+      715.0,
+      846.0,
+      1223.0,
+      980.0,
+      1605.0,
+      1087.0
+     ],
+     "Depreciation": [
+      1185.0,
+      1255.0,
+      1264.0,
+      1384.0,
+      1615.0,
+      1711.0
+     ],
+     "Profit before tax": [
+      3532.0,
+      3848.0,
+      3690.0,
+      3611.0,
+      3700.0,
+      4307.0
+     ],
+     "Net Profit": [
+      3023.0,
+      3311.0,
+      3120.0,
+      3043.0,
+      3308.0,
+      3650.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/57/3/2025/",
+     "https://www.screener.in/company/source/quarter/57/6/2025/",
+     "https://www.screener.in/company/source/quarter/57/9/2025/",
+     "https://www.screener.in/company/source/quarter/57/12/2025/",
+     "https://www.screener.in/company/source/quarter/57/3/2026/",
+     "https://www.screener.in/company/source/quarter/57/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aaa81a60-9ae5-42c6-870c-2abb13d032bb.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f434460b-fc13-4cca-88ca-89d960a38b63.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3aba93e-4577-41bf-9623-f711be83882b.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28ee5493-d5bf-4bba-b34e-7b5022c6d663.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=872a9876-e6af-4d7c-964a-3ccacf26f2d4.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93044df8-18d9-4030-bf77-eff67a67e993.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9f3ad1a-a702-4e31-a4f0-56c7b818d47b.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a76c41a-fca9-4c0c-9711-f105c8e6bd23.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q1-FY26-",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22c2027b-75c8-47fa-9280-396b7fd5273e.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "HAL",
+   "name": "Hindustan Aeronautics Ltd",
+   "sector": "Defence",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 3,24,954 Cr.",
+    "Current Price": "₹ 4,859",
+    "Stock P/E": "34.8",
+    "Dividend Yield": "0.93 %",
+    "ROCE": "32.0 %",
+    "ROE": "24.0 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 4775.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 4800.0,
+     "move_pct": 0.54,
+     "vol_multiple": 0.49
+    },
+    {
+     "date": "2026-09-28",
+     "close": 4738.0,
+     "move_pct": -1.29,
+     "vol_multiple": 1.03
+    },
+    {
+     "date": "2026-09-29",
+     "close": 4549.3,
+     "move_pct": -3.98,
+     "vol_multiple": 1.36
+    },
+    {
+     "date": "2026-09-30",
+     "close": 4668.0,
+     "move_pct": 2.61,
+     "vol_multiple": 1.5
+    },
+    {
+     "date": "2026-10-01",
+     "close": 4601.0,
+     "move_pct": -1.44,
+     "vol_multiple": 0.86
+    },
+    {
+     "date": "2026-10-05",
+     "close": 4680.0,
+     "move_pct": 1.72,
+     "vol_multiple": 0.53
+    },
+    {
+     "date": "2026-10-06",
+     "close": 4816.0,
+     "move_pct": 2.91,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-07",
+     "close": 4746.3,
+     "move_pct": -1.45,
+     "vol_multiple": 0.61
+    },
+    {
+     "date": "2026-10-08",
+     "close": 4647.4,
+     "move_pct": -2.08,
+     "vol_multiple": 0.61
+    },
+    {
+     "date": "2026-10-09",
+     "close": 4655.6,
+     "move_pct": 0.18,
+     "vol_multiple": 0.67
+    },
+    {
+     "date": "2026-10-12",
+     "close": 4760.0,
+     "move_pct": 2.24,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-13",
+     "close": 4869.0,
+     "move_pct": 2.29,
+     "vol_multiple": 0.89
+    },
+    {
+     "date": "2026-10-14",
+     "close": 4933.0,
+     "move_pct": 1.31,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-15",
+     "close": 4910.0,
+     "move_pct": -0.47,
+     "vol_multiple": 1.2
+    },
+    {
+     "date": "2026-10-16",
+     "close": 4989.0,
+     "move_pct": 1.61,
+     "vol_multiple": 1.4
+    },
+    {
+     "date": "2026-10-19",
+     "close": 4959.0,
+     "move_pct": -0.6,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-21",
+     "close": 4854.4,
+     "move_pct": -2.11,
+     "vol_multiple": 1.03
+    },
+    {
+     "date": "2026-10-22",
+     "close": 4875.0,
+     "move_pct": 0.42,
+     "vol_multiple": 1.35
+    },
+    {
+     "date": "2026-10-23",
+     "close": 4725.0,
+     "move_pct": -3.08,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-26",
+     "close": 4775.0,
+     "move_pct": 1.06,
+     "vol_multiple": 0.8
+    }
+   ],
+   "spark": [
+    4899.0,
+    4861.1,
+    4801.6,
+    4807.6,
+    4780.0,
+    4765.6,
+    4856.0,
+    4855.2,
+    5031.1,
+    5000.5,
+    4950.0,
+    4905.0,
+    4695.0,
+    4695.6,
+    4788.0,
+    4800.3,
+    4826.0,
+    4800.0,
+    4836.0,
+    4774.2,
+    4800.0,
+    4738.0,
+    4549.3,
+    4668.0,
+    4601.0,
+    4680.0,
+    4816.0,
+    4746.3,
+    4647.4,
+    4655.6,
+    4760.0,
+    4869.0,
+    4933.0,
+    4910.0,
+    4989.0,
+    4959.0,
+    4854.4,
+    4875.0,
+    4725.0,
+    4775.0
+   ],
+   "filings": [
+    {
+     "title": "General Updates",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=af36be63-87ea-4eef-8143-08db2b916474.pdf",
+     "time": "2026-10-22T13:02:56+05:30",
+     "category": "unclassified",
+     "subtype": "update",
+     "score": 15,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4fa70d2-bab3-4652-995d-4727e34503b0.pdf",
+     "time": "2026-10-07T15:37:50+05:30",
+     "category": "management_change",
+     "subtype": "director",
+     "score": 66,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70bc729d-e921-4367-9add-cb9cdb5162fc.pdf",
+     "time": "2026-10-02T19:42:06+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    },
+    {
+     "title": "Closure of Trading Window",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=187be252-a86e-49b3-b59a-cd9c47e92f20.pdf",
+     "time": "2026-09-28T15:07:05+05:30",
+     "category": "unclassified",
+     "subtype": "trading_window",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Change in Management",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fc2f5da-34a9-4a6c-a7d2-59cdcf975f69.pdf",
+     "time": "2026-09-28T14:52:46+05:30",
+     "category": "management_change",
+     "subtype": "senior",
+     "score": 84,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      13700.0,
+      4819.0,
+      6629.0,
+      7699.0,
+      13942.0,
+      5515.0
+     ],
+     "Operating Profit": [
+      5295.0,
+      1282.0,
+      1558.0,
+      1871.0,
+      5059.0,
+      1527.0
+     ],
+     "Other Income": [
+      669.0,
+      757.0,
+      895.0,
+      927.0,
+      1164.0,
+      912.0
+     ],
+     "Interest": [
+      8.0,
+      0.0,
+      0.0,
+      1.0,
+      4.0,
+      0.0
+     ],
+     "Depreciation": [
+      736.0,
+      185.0,
+      226.0,
+      310.0,
+      634.0,
+      304.0
+     ],
+     "Profit before tax": [
+      5219.0,
+      1854.0,
+      2227.0,
+      2487.0,
+      5584.0,
+      2134.0
+     ],
+     "Net Profit": [
+      3977.0,
+      1384.0,
+      1669.0,
+      1867.0,
+      4196.0,
+      1590.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1274307/3/2025/",
+     "https://www.screener.in/company/source/quarter/1274307/6/2025/",
+     "https://www.screener.in/company/source/quarter/1274307/9/2025/",
+     "https://www.screener.in/company/source/quarter/1274307/12/2025/",
+     "https://www.screener.in/company/source/quarter/1274307/3/2026/",
+     "https://www.screener.in/company/source/quarter/1274307/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3acba06e-38a8-4dd8-8524-1875087acd5b.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/425a7379-6556-41a7-8edf-41b26574a53e.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7e7c2a0a-f366-4aff-8d47-0818d45fae58.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=344500e7-2fff-4cc6-a792-c4693e0340f6.pdf",
+      "ppt": null
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94da53ef-52aa-4fdd-8cc2-9dcf291a112d.pdf",
+      "ppt": null
+     },
+     {
+      "label": "May 2024",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7425b322-7f3d-4b7c-bc63-a61673475a4f.pdf",
+      "ppt": null
+     },
+     {
+      "label": "May 2023",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2560c6fe-eba7-48fd-85e2-8458df6f6b4d.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9bf7532-45d1-4a0b-b9ca-8d4d0769b65c.pdf"
+     },
+     {
+      "label": "Nov 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fecf3e40-6c9d-4907-9d62-fbc852c6f8fa.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4a31ac7-fcc8-4cae-8a8e-e94ec687ba24.pdf"
+     },
+     {
+      "label": "Sep 2022",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f3151c7-e5a7-4f62-bc1d-398be356ea1d.pdf",
+      "ppt": null
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "TRENT",
+   "name": "Trent Ltd",
+   "sector": "Retail",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 1,50,169 Cr.",
+    "Current Price": "₹ 2,816",
+    "Stock P/E": "82.1",
+    "Dividend Yield": "0.15 %",
+    "ROCE": "28.3 %",
+    "ROE": "27.7 %"
+   },
+   "last": {
+    "date": "2026-10-23",
+    "close": 2727.5
+   },
+   "stats": [
+    {
+     "date": "2026-09-24",
+     "close": 2700.0,
+     "move_pct": -2.67,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-09-25",
+     "close": 2669.3,
+     "move_pct": -1.14,
+     "vol_multiple": 1.59
+    },
+    {
+     "date": "2026-09-28",
+     "close": 2626.0,
+     "move_pct": -1.62,
+     "vol_multiple": 0.92
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2635.0,
+     "move_pct": 0.34,
+     "vol_multiple": 2.22
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2621.6,
+     "move_pct": -0.51,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2580.0,
+     "move_pct": -1.59,
+     "vol_multiple": 1.22
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2580.0,
+     "move_pct": 0.0,
+     "vol_multiple": 1.09
+    },
+    {
+     "date": "2026-10-06",
+     "close": 2906.0,
+     "move_pct": 12.64,
+     "vol_multiple": 8.96
+    },
+    {
+     "date": "2026-10-07",
+     "close": 2890.3,
+     "move_pct": -0.54,
+     "vol_multiple": 1.25
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2876.3,
+     "move_pct": -0.48,
+     "vol_multiple": 1.26
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2918.2,
+     "move_pct": 1.46,
+     "vol_multiple": 0.68
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2913.0,
+     "move_pct": -0.18,
+     "vol_multiple": 0.57
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2987.8,
+     "move_pct": 2.57,
+     "vol_multiple": 0.8
+    },
+    {
+     "date": "2026-10-14",
+     "close": 2971.0,
+     "move_pct": -0.56,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-15",
+     "close": 2949.7,
+     "move_pct": -0.72,
+     "vol_multiple": 0.73
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2958.7,
+     "move_pct": 0.31,
+     "vol_multiple": 0.45
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2891.6,
+     "move_pct": -2.27,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2822.0,
+     "move_pct": -2.41,
+     "vol_multiple": 0.68
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2775.8,
+     "move_pct": -1.64,
+     "vol_multiple": 1.22
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2727.5,
+     "move_pct": -1.74,
+     "vol_multiple": 0.65
+    }
+   ],
+   "spark": [
+    2908.2,
+    2878.5,
+    2898.0,
+    2879.9,
+    2855.0,
+    2852.3,
+    2815.6,
+    2853.0,
+    2814.5,
+    2793.6,
+    2820.0,
+    2818.7,
+    2802.4,
+    2730.0,
+    2769.7,
+    2789.0,
+    2824.0,
+    2815.5,
+    2782.9,
+    2774.0,
+    2700.0,
+    2669.3,
+    2626.0,
+    2635.0,
+    2621.6,
+    2580.0,
+    2580.0,
+    2906.0,
+    2890.3,
+    2876.3,
+    2918.2,
+    2913.0,
+    2987.8,
+    2971.0,
+    2949.7,
+    2958.7,
+    2891.6,
+    2822.0,
+    2775.8,
+    2727.5
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Diversification / Disinvestment",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf9c8eec-654a-4016-acf5-b7160985dc78.pdf",
+     "time": "2026-10-23T19:49:14+05:30",
+     "category": "M&A",
+     "subtype": "deal",
+     "score": 80,
+     "ambiguous": false
+    },
+    {
+     "title": "Reminder Letter For Transfer Of Equity Shares To The Investor Education And Protection Fund ('IEPF')",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aeaf0a5d-3d57-41ef-87d1-a10268a57932.pdf",
+     "time": "2026-10-23T16:35:03+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=096b4491-68dc-4163-8b20-3621448309db.pdf",
+     "time": "2026-10-19T11:07:58+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Resignation of Director",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f2619df-b01f-4905-978f-00de8477b2f8.pdf",
+     "time": "2026-10-18T18:44:51+05:30",
+     "category": "management_change",
+     "subtype": "director",
+     "score": 66,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Notice Of Board Meeting",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=db15dcb8-dfc0-478f-a8cc-e528917d5414.pdf",
+     "time": "2026-10-06T12:10:54+05:30",
+     "category": "unclassified",
+     "subtype": "board_intimation",
+     "score": 18,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      4217.0,
+      4883.0,
+      4818.0,
+      5345.0,
+      5028.0,
+      5755.0
+     ],
+     "Operating Profit": [
+      651.0,
+      848.0,
+      816.0,
+      1081.0,
+      911.0,
+      1119.0
+     ],
+     "Other Income": [
+      74.0,
+      50.0,
+      28.0,
+      5.0,
+      28.0,
+      30.0
+     ],
+     "Interest": [
+      38.0,
+      40.0,
+      42.0,
+      43.0,
+      44.0,
+      47.0
+     ],
+     "Depreciation": [
+      272.0,
+      293.0,
+      325.0,
+      367.0,
+      377.0,
+      410.0
+     ],
+     "Profit before tax": [
+      416.0,
+      565.0,
+      477.0,
+      676.0,
+      519.0,
+      692.0
+     ],
+     "Net Profit": [
+      312.0,
+      425.0,
+      373.0,
+      510.0,
+      413.0,
+      518.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/3467/3/2025/",
+     "https://www.screener.in/company/source/quarter/3467/6/2025/",
+     "https://www.screener.in/company/source/quarter/3467/9/2025/",
+     "https://www.screener.in/company/source/quarter/3467/12/2025/",
+     "https://www.screener.in/company/source/quarter/3467/3/2026/",
+     "https://www.screener.in/company/source/quarter/3467/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c7330ad5-ba82-4673-baaa-b39af9c47c87.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Aug 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffb34801-a67e-4184-897a-06bf9e8bec64.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e08ff77d-7f68-46d2-acc6-ed26ee5c4974.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": null,
+      "ppt": "https://docs.trent-tata.com/Investor_Presentation_Q3FY26.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": null,
+      "ppt": "https://docs.trent-tata.com/Investor_Presentation_Q2_FY26.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b445c87-9c3c-4747-af2e-afde246c803c.pdf"
+     },
+     {
+      "label": "Jun 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25ff32f-40f3-4190-8525-3f53102a4938.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "DIXON",
+   "name": "Dixon Technologies (India) Ltd",
+   "sector": "Electronics manufacturing",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 68,744 Cr.",
+    "Current Price": "₹ 11,238",
+    "Stock P/E": "36.6",
+    "Dividend Yield": "0.09 %",
+    "ROCE": "29.2 %",
+    "ROE": "18.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 11161.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 13390.0,
+     "move_pct": 0.68,
+     "vol_multiple": 0.88
+    },
+    {
+     "date": "2026-09-28",
+     "close": 13640.0,
+     "move_pct": 1.87,
+     "vol_multiple": 1.83
+    },
+    {
+     "date": "2026-09-29",
+     "close": 13250.0,
+     "move_pct": -2.86,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-09-30",
+     "close": 13100.0,
+     "move_pct": -1.13,
+     "vol_multiple": 0.82
+    },
+    {
+     "date": "2026-10-01",
+     "close": 12700.0,
+     "move_pct": -3.05,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-05",
+     "close": 12748.0,
+     "move_pct": 0.38,
+     "vol_multiple": 0.62
+    },
+    {
+     "date": "2026-10-06",
+     "close": 13015.0,
+     "move_pct": 2.09,
+     "vol_multiple": 0.52
+    },
+    {
+     "date": "2026-10-07",
+     "close": 13024.0,
+     "move_pct": 0.07,
+     "vol_multiple": 0.48
+    },
+    {
+     "date": "2026-10-08",
+     "close": 12650.0,
+     "move_pct": -2.87,
+     "vol_multiple": 0.68
+    },
+    {
+     "date": "2026-10-09",
+     "close": 12774.0,
+     "move_pct": 0.98,
+     "vol_multiple": 0.51
+    },
+    {
+     "date": "2026-10-12",
+     "close": 12660.0,
+     "move_pct": -0.89,
+     "vol_multiple": 0.55
+    },
+    {
+     "date": "2026-10-13",
+     "close": 12740.0,
+     "move_pct": 0.63,
+     "vol_multiple": 0.44
+    },
+    {
+     "date": "2026-10-14",
+     "close": 12820.0,
+     "move_pct": 0.63,
+     "vol_multiple": 0.53
+    },
+    {
+     "date": "2026-10-15",
+     "close": 12666.0,
+     "move_pct": -1.2,
+     "vol_multiple": 1.19
+    },
+    {
+     "date": "2026-10-16",
+     "close": 12340.0,
+     "move_pct": -2.57,
+     "vol_multiple": 1.91
+    },
+    {
+     "date": "2026-10-19",
+     "close": 12100.0,
+     "move_pct": -1.94,
+     "vol_multiple": 1.19
+    },
+    {
+     "date": "2026-10-21",
+     "close": 11689.0,
+     "move_pct": -3.4,
+     "vol_multiple": 1.95
+    },
+    {
+     "date": "2026-10-22",
+     "close": 11594.0,
+     "move_pct": -0.81,
+     "vol_multiple": 1.02
+    },
+    {
+     "date": "2026-10-23",
+     "close": 11191.0,
+     "move_pct": -3.48,
+     "vol_multiple": 1.33
+    },
+    {
+     "date": "2026-10-26",
+     "close": 11161.0,
+     "move_pct": -0.27,
+     "vol_multiple": 0.85
+    }
+   ],
+   "spark": [
+    14711.0,
+    14650.0,
+    14850.0,
+    14461.0,
+    14590.0,
+    14445.0,
+    14240.0,
+    14180.0,
+    14100.0,
+    13845.0,
+    13500.0,
+    13425.0,
+    13180.0,
+    13181.0,
+    13290.0,
+    13005.0,
+    13350.0,
+    13084.0,
+    13200.0,
+    13299.0,
+    13390.0,
+    13640.0,
+    13250.0,
+    13100.0,
+    12700.0,
+    12748.0,
+    13015.0,
+    13024.0,
+    12650.0,
+    12774.0,
+    12660.0,
+    12740.0,
+    12820.0,
+    12666.0,
+    12340.0,
+    12100.0,
+    11689.0,
+    11594.0,
+    11191.0,
+    11161.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4260af0d-9e97-44f0-a19a-04b0b0ddb4e5.pdf",
+     "time": "2026-10-23T18:10:44+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Inter-Alia, Consideration And Approval Of Un-Audited Financial Results (Standalone & Consolidated) Of The Company For The Quarter And Half Year Ended 30Th September, 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ac4537e-4a64-4682-a4c5-5255ba8895cf.pdf",
+     "time": "2026-10-23T18:04:16+05:30",
+     "category": "results",
+     "subtype": "intimation",
+     "score": 52,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement Under Regulation 30 Of SEBI LODR- Giving Of Guarantees Or Indemnity Or Becoming A Surety For Any Third Party",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=243de729-cff5-4203-a58d-cb59adb578b5.pdf",
+     "time": "2026-10-21T18:40:52+05:30",
+     "category": "fund_raise",
+     "subtype": "financing",
+     "score": 58,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement Under Regulation 30 Of SEBI LODR- ESG Rating By Crisil ESG Ratings & Analytics Ltd",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f64aac8-d0af-437a-ad7d-bfda96989bc9.pdf",
+     "time": "2026-10-14T18:25:28+05:30",
+     "category": "unclassified",
+     "subtype": "esg",
+     "score": 5,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec84453f-825b-440c-8a80-cd201962e97c.pdf",
+     "time": "2026-10-10T13:40:18+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      10293.0,
+      12836.0,
+      14855.0,
+      10672.0,
+      10511.0,
+      15548.0
+     ],
+     "Operating Profit": [
+      443.0,
+      482.0,
+      561.0,
+      414.0,
+      408.0,
+      463.0
+     ],
+     "Other Income": [
+      265.0,
+      8.0,
+      497.0,
+      139.0,
+      90.0,
+      537.0
+     ],
+     "Interest": [
+      46.0,
+      33.0,
+      38.0,
+      43.0,
+      24.0,
+      24.0
+     ],
+     "Depreciation": [
+      86.0,
+      93.0,
+      96.0,
+      99.0,
+      105.0,
+      107.0
+     ],
+     "Profit before tax": [
+      576.0,
+      366.0,
+      924.0,
+      412.0,
+      370.0,
+      869.0
+     ],
+     "Net Profit": [
+      465.0,
+      280.0,
+      746.0,
+      321.0,
+      298.0,
+      718.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1274137/3/2025/",
+     "https://www.screener.in/company/source/quarter/1274137/6/2025/",
+     "https://www.screener.in/company/source/quarter/1274137/9/2025/",
+     "https://www.screener.in/company/source/quarter/1274137/12/2025/",
+     "https://www.screener.in/company/source/quarter/1274137/3/2026/",
+     "https://www.screener.in/company/source/quarter/1274137/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7eabc370-b827-435c-9dd2-8a70553a8062.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44312065-295c-4d01-ac79-338efd2f98f7.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf",
+      "ppt": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/07150914-1f3b-43ce-82f2-f8543b60027d-EarningPresentation-Q1FY26-27.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
+      "ppt": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/355b2e69-f5a3-4a7f-bd0c-21482263cd92-EarningPresentation-Q4FY25-26.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06b7006d-5602-41a1-b6d2-850217f7af9e.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3e6d18a8-52fe-461b-b882-baaf90d4f787.pdf"
+     },
+     {
+      "label": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe83e870-4ca3-462a-addd-5c85ec513959.pdf",
+      "ppt": "https://nsearchives.nseindia.com/corporate/DIXON_22072025161648_PPTwithOutcome.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55e495a0-7626-4311-9f59-0a1b21076ca8.pdf",
+      "ppt": "https://nsearchives.nseindia.com/corporate/DIXON_20052025161223_FinancialwithPPT20052025.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "POLYCAB",
+   "name": "Polycab India Ltd",
+   "sector": "Cables and wires",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 1,16,368 Cr.",
+    "Current Price": "₹ 7,722",
+    "Stock P/E": "36.8",
+    "Dividend Yield": "0.62 %",
+    "ROCE": "33.2 %",
+    "ROE": "23.0 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 7739.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 8408.5,
+     "move_pct": 0.5,
+     "vol_multiple": 0.73
+    },
+    {
+     "date": "2026-09-28",
+     "close": 8191.0,
+     "move_pct": -2.59,
+     "vol_multiple": 0.69
+    },
+    {
+     "date": "2026-09-29",
+     "close": 8102.5,
+     "move_pct": -1.08,
+     "vol_multiple": 4.13
+    },
+    {
+     "date": "2026-09-30",
+     "close": 8026.0,
+     "move_pct": -0.94,
+     "vol_multiple": 1.07
+    },
+    {
+     "date": "2026-10-01",
+     "close": 7990.0,
+     "move_pct": -0.45,
+     "vol_multiple": 1.02
+    },
+    {
+     "date": "2026-10-05",
+     "close": 8080.0,
+     "move_pct": 1.13,
+     "vol_multiple": 0.93
+    },
+    {
+     "date": "2026-10-06",
+     "close": 8147.0,
+     "move_pct": 0.83,
+     "vol_multiple": 0.65
+    },
+    {
+     "date": "2026-10-07",
+     "close": 8310.0,
+     "move_pct": 2.0,
+     "vol_multiple": 1.32
+    },
+    {
+     "date": "2026-10-08",
+     "close": 8151.0,
+     "move_pct": -1.91,
+     "vol_multiple": 0.91
+    },
+    {
+     "date": "2026-10-09",
+     "close": 8255.0,
+     "move_pct": 1.28,
+     "vol_multiple": 0.86
+    },
+    {
+     "date": "2026-10-12",
+     "close": 8405.0,
+     "move_pct": 1.82,
+     "vol_multiple": 1.15
+    },
+    {
+     "date": "2026-10-13",
+     "close": 8290.0,
+     "move_pct": -1.37,
+     "vol_multiple": 1.97
+    },
+    {
+     "date": "2026-10-14",
+     "close": 8335.0,
+     "move_pct": 0.54,
+     "vol_multiple": 2.69
+    },
+    {
+     "date": "2026-10-15",
+     "close": 8207.0,
+     "move_pct": -1.54,
+     "vol_multiple": 1.82
+    },
+    {
+     "date": "2026-10-16",
+     "close": 8219.0,
+     "move_pct": 0.15,
+     "vol_multiple": 1.2
+    },
+    {
+     "date": "2026-10-19",
+     "close": 8025.0,
+     "move_pct": -2.36,
+     "vol_multiple": 0.57
+    },
+    {
+     "date": "2026-10-21",
+     "close": 7770.5,
+     "move_pct": -3.17,
+     "vol_multiple": 0.61
+    },
+    {
+     "date": "2026-10-22",
+     "close": 7671.0,
+     "move_pct": -1.28,
+     "vol_multiple": 0.65
+    },
+    {
+     "date": "2026-10-23",
+     "close": 7440.0,
+     "move_pct": -3.01,
+     "vol_multiple": 0.63
+    },
+    {
+     "date": "2026-10-26",
+     "close": 7739.0,
+     "move_pct": 4.02,
+     "vol_multiple": 0.43
+    }
+   ],
+   "spark": [
+    9079.0,
+    9088.0,
+    9445.0,
+    8895.5,
+    8804.0,
+    8807.5,
+    8300.0,
+    8261.0,
+    8373.5,
+    8354.0,
+    8358.0,
+    8241.0,
+    8143.5,
+    8121.5,
+    8208.5,
+    8400.0,
+    8369.5,
+    8350.0,
+    8417.0,
+    8366.5,
+    8408.5,
+    8191.0,
+    8102.5,
+    8026.0,
+    7990.0,
+    8080.0,
+    8147.0,
+    8310.0,
+    8151.0,
+    8255.0,
+    8405.0,
+    8290.0,
+    8335.0,
+    8207.0,
+    8219.0,
+    8025.0,
+    7770.5,
+    7671.0,
+    7440.0,
+    7739.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9743040-8809-46d3-85ca-c6ca01bc322a.pdf",
+     "time": "2026-10-23T14:32:26+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement Under Regulation 30 (LODR) - Earnings Call Transcript",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+     "time": "2026-10-19T16:38:15+05:30",
+     "category": "earnings_call",
+     "subtype": "transcript",
+     "score": 40,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9cf5ed4b-10af-4d0f-aa1f-75f22f8e5a75.pdf",
+     "time": "2026-10-19T16:22:22+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process (CIRP)",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0fba81c-bd84-40eb-8435-9643b019e9fc.pdf",
+     "time": "2026-10-16T09:34:04+05:30",
+     "category": "litigation",
+     "subtype": "regulatory",
+     "score": 74,
+     "ambiguous": false
+    },
+    {
+     "title": "Audio Recording Of Earnings Conference Call Q2 FY 26-27",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3264baf9-979a-4835-85b1-c5a9838c57d6.pdf",
+     "time": "2026-10-15T20:48:30+05:30",
+     "category": "earnings_call",
+     "subtype": "transcript",
+     "score": 40,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Sales": [
+      5906.0,
+      6477.0,
+      7636.0,
+      8864.0,
+      8210.0,
+      9899.0
+     ],
+     "Operating Profit": [
+      858.0,
+      1021.0,
+      966.0,
+      1161.0,
+      1136.0,
+      1422.0
+     ],
+     "Other Income": [
+      80.0,
+      45.0,
+      50.0,
+      60.0,
+      105.0,
+      88.0
+     ],
+     "Interest": [
+      51.0,
+      48.0,
+      69.0,
+      75.0,
+      80.0,
+      94.0
+     ],
+     "Depreciation": [
+      86.0,
+      97.0,
+      106.0,
+      98.0,
+      103.0,
+      111.0
+     ],
+     "Profit before tax": [
+      801.0,
+      921.0,
+      842.0,
+      1049.0,
+      1058.0,
+      1306.0
+     ],
+     "Net Profit": [
+      600.0,
+      693.0,
+      630.0,
+      786.0,
+      797.0,
+      990.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1274653/6/2025/",
+     "https://www.screener.in/company/source/quarter/1274653/9/2025/",
+     "https://www.screener.in/company/source/quarter/1274653/12/2025/",
+     "https://www.screener.in/company/source/quarter/1274653/3/2026/",
+     "https://www.screener.in/company/source/quarter/1274653/6/2026/",
+     "https://www.screener.in/company/source/quarter/1274653/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/82657cf0-b6b8-4b01-bb68-9f477d451107.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/82657cf0-b6b8-4b01-bb68-9f477d451107.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a940f987-41db-4848-8f35-4b6c8a8f5b47.pdf"
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52abf6f5-8a9d-4914-8ed1-725361e6832b.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f586954-cf4c-4a5c-b179-8fb4a3cf55a9.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+      "ppt": null
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9b665a82-e6f7-42aa-8d23-b4cc3572bac1.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a5825e0-67d1-41af-96e0-d78387aaba8d.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa70b8fd-18f7-41c1-a693-91318de87262.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "KPITTECH",
+   "name": "KPIT Technologies Ltd",
+   "sector": "Auto software",
+   "portfolio": true,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 14,702 Cr.",
+    "Current Price": "₹ 536",
+    "Stock P/E": "23.5",
+    "Dividend Yield": "1.43 %",
+    "ROCE": "26.3 %",
+    "ROE": "20.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 536.55
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 519.4,
+     "move_pct": 0.49,
+     "vol_multiple": 0.72
+    },
+    {
+     "date": "2026-09-28",
+     "close": 509.0,
+     "move_pct": -2.0,
+     "vol_multiple": 0.52
+    },
+    {
+     "date": "2026-09-29",
+     "close": 519.7,
+     "move_pct": 2.1,
+     "vol_multiple": 2.24
+    },
+    {
+     "date": "2026-09-30",
+     "close": 499.1,
+     "move_pct": -3.96,
+     "vol_multiple": 1.05
+    },
+    {
+     "date": "2026-10-01",
+     "close": 492.0,
+     "move_pct": -1.42,
+     "vol_multiple": 1.26
+    },
+    {
+     "date": "2026-10-05",
+     "close": 489.5,
+     "move_pct": -0.51,
+     "vol_multiple": 0.85
+    },
+    {
+     "date": "2026-10-06",
+     "close": 492.7,
+     "move_pct": 0.65,
+     "vol_multiple": 0.58
+    },
+    {
+     "date": "2026-10-07",
+     "close": 484.25,
+     "move_pct": -1.72,
+     "vol_multiple": 0.63
+    },
+    {
+     "date": "2026-10-08",
+     "close": 471.0,
+     "move_pct": -2.74,
+     "vol_multiple": 0.86
+    },
+    {
+     "date": "2026-10-09",
+     "close": 479.0,
+     "move_pct": 1.7,
+     "vol_multiple": 1.2
+    },
+    {
+     "date": "2026-10-12",
+     "close": 481.0,
+     "move_pct": 0.42,
+     "vol_multiple": 0.89
+    },
+    {
+     "date": "2026-10-13",
+     "close": 513.75,
+     "move_pct": 6.81,
+     "vol_multiple": 3.57
+    },
+    {
+     "date": "2026-10-14",
+     "close": 523.8,
+     "move_pct": 1.96,
+     "vol_multiple": 2.5
+    },
+    {
+     "date": "2026-10-15",
+     "close": 526.0,
+     "move_pct": 0.42,
+     "vol_multiple": 1.46
+    },
+    {
+     "date": "2026-10-16",
+     "close": 555.0,
+     "move_pct": 5.51,
+     "vol_multiple": 2.44
+    },
+    {
+     "date": "2026-10-19",
+     "close": 536.95,
+     "move_pct": -3.25,
+     "vol_multiple": 0.67
+    },
+    {
+     "date": "2026-10-21",
+     "close": 544.7,
+     "move_pct": 1.44,
+     "vol_multiple": 1.29
+    },
+    {
+     "date": "2026-10-22",
+     "close": 537.75,
+     "move_pct": -1.28,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-23",
+     "close": 532.65,
+     "move_pct": -0.95,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-26",
+     "close": 536.55,
+     "move_pct": 0.73,
+     "vol_multiple": 0.65
+    }
+   ],
+   "spark": [
+    588.0,
+    609.4,
+    585.0,
+    590.0,
+    588.0,
+    583.5,
+    575.45,
+    562.25,
+    562.0,
+    553.1,
+    550.95,
+    553.75,
+    563.0,
+    555.0,
+    559.3,
+    532.0,
+    536.8,
+    529.05,
+    527.0,
+    516.85,
+    519.4,
+    509.0,
+    519.7,
+    499.1,
+    492.0,
+    489.5,
+    492.7,
+    484.25,
+    471.0,
+    479.0,
+    481.0,
+    513.75,
+    523.8,
+    526.0,
+    555.0,
+    536.95,
+    544.7,
+    537.75,
+    532.65,
+    536.55
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b116e2d-3f77-43c4-85d7-b4a4077b43ba.pdf",
+     "time": "2026-10-21T17:28:50+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for Intimation Of Meeting Of Board",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b34cb750-9855-4dc2-aef6-705c5064bd8a.pdf",
+     "time": "2026-10-15T16:52:57+05:30",
+     "category": "unclassified",
+     "subtype": "board_intimation",
+     "score": 18,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1d96f292-9db1-4fb2-9cce-30faac5cbb9f.pdf",
+     "time": "2026-10-13T21:16:05+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Closure of Trading Window 30 Sep",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2128e446-b78e-43c2-9e76-08f258992edb.pdf",
+     "time": "2026-09-30T16:11:48+05:30",
+     "category": "unclassified",
+     "subtype": "trading_window",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=decd8e6e-ca3d-443c-a8bd-4daf4cccd429.pdf",
+     "time": "2026-09-22T20:04:41+05:30",
+     "category": "investor_meetings",
+     "subtype": "outcome",
+     "score": 20,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      1528.0,
+      1539.0,
+      1588.0,
+      1617.0,
+      1711.0,
+      1675.0
+     ],
+     "Operating Profit": [
+      323.0,
+      295.0,
+      298.0,
+      311.0,
+      317.0,
+      257.0
+     ],
+     "Other Income": [
+      60.0,
+      16.0,
+      24.0,
+      -26.0,
+      12.0,
+      8.0
+     ],
+     "Interest": [
+      9.0,
+      12.0,
+      16.0,
+      23.0,
+      22.0,
+      23.0
+     ],
+     "Depreciation": [
+      58.0,
+      63.0,
+      75.0,
+      81.0,
+      82.0,
+      83.0
+     ],
+     "Profit before tax": [
+      316.0,
+      236.0,
+      231.0,
+      181.0,
+      225.0,
+      160.0
+     ],
+     "Net Profit": [
+      245.0,
+      172.0,
+      169.0,
+      133.0,
+      163.0,
+      116.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1274654/3/2025/",
+     "https://www.screener.in/company/source/quarter/1274654/6/2025/",
+     "https://www.screener.in/company/source/quarter/1274654/9/2025/",
+     "https://www.screener.in/company/source/quarter/1274654/12/2025/",
+     "https://www.screener.in/company/source/quarter/1274654/3/2026/",
+     "https://www.screener.in/company/source/quarter/1274654/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d2467e3-e28a-472b-8492-7fd9e46e63c4.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e6d2634-be8b-41d7-93c4-9b3fd8b78107.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2adfaf3e-928d-457f-af6f-aa7ae7130b36.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d07f9c52-5c5a-443b-b239-6acd5e94b97a.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6a6b68ae-fd73-4785-84ff-5d12426dd847.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70c85b6c-58e6-423f-9b32-50b17a948674.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=106e8aaa-64bd-40f1-91f1-9c3daa4b9b8d.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a574a9b4-2ec3-4418-afd7-7deb13264328.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb6d0b19-d192-42d2-8dd6-308fd24af4fd.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf7302f-a4b8-4d59-8914-f53018acd102.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=080b5f61-99b4-4b6a-9579-8be059e460fa.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c0d90bb9-9e31-4b03-92ba-0df108f5a9b8.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc792f5f-1fb0-4c60-b5e9-1a9f2c5b3e7d.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de7b1f84-1911-471d-bc77-f623a00cee67.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ead0fc9e-99cc-41bb-a38b-bb47cde76ae2.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "name": "Asian Paints Ltd",
+   "sector": "Paints",
+   "portfolio": false,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 2,20,424 Cr.",
+    "Current Price": "₹ 2,298",
+    "Stock P/E": "45.2",
+    "Dividend Yield": "1.18 %",
+    "ROCE": "26.3 %",
+    "ROE": "21.8 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 2322.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 2444.0,
+     "move_pct": 2.14,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-09-28",
+     "close": 2420.0,
+     "move_pct": -0.98,
+     "vol_multiple": 1.99
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2415.0,
+     "move_pct": -0.21,
+     "vol_multiple": 1.56
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2402.6,
+     "move_pct": -0.51,
+     "vol_multiple": 0.99
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2407.0,
+     "move_pct": 0.18,
+     "vol_multiple": 1.88
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2366.0,
+     "move_pct": -1.7,
+     "vol_multiple": 1.64
+    },
+    {
+     "date": "2026-10-06",
+     "close": 2424.2,
+     "move_pct": 2.46,
+     "vol_multiple": 0.76
+    },
+    {
+     "date": "2026-10-07",
+     "close": 2372.1,
+     "move_pct": -2.15,
+     "vol_multiple": 0.9
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2311.6,
+     "move_pct": -2.55,
+     "vol_multiple": 1.1
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2339.1,
+     "move_pct": 1.19,
+     "vol_multiple": 0.41
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2331.0,
+     "move_pct": -0.35,
+     "vol_multiple": 0.66
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2376.0,
+     "move_pct": 1.93,
+     "vol_multiple": 1.05
+    },
+    {
+     "date": "2026-10-14",
+     "close": 2344.7,
+     "move_pct": -1.32,
+     "vol_multiple": 1.19
+    },
+    {
+     "date": "2026-10-15",
+     "close": 2350.0,
+     "move_pct": 0.23,
+     "vol_multiple": 1.4
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2331.9,
+     "move_pct": -0.77,
+     "vol_multiple": 1.67
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2330.7,
+     "move_pct": -0.05,
+     "vol_multiple": 0.78
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2319.4,
+     "move_pct": -0.48,
+     "vol_multiple": 0.85
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2284.8,
+     "move_pct": -1.49,
+     "vol_multiple": 0.71
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2307.0,
+     "move_pct": 0.97,
+     "vol_multiple": 1.34
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2322.0,
+     "move_pct": 0.65,
+     "vol_multiple": 1.31
+    }
+   ],
+   "spark": [
+    2631.0,
+    2608.7,
+    2653.6,
+    2575.5,
+    2527.5,
+    2541.6,
+    2527.3,
+    2500.9,
+    2481.6,
+    2489.0,
+    2498.1,
+    2472.5,
+    2402.8,
+    2416.6,
+    2454.0,
+    2451.3,
+    2440.3,
+    2448.5,
+    2455.0,
+    2392.7,
+    2444.0,
+    2420.0,
+    2415.0,
+    2402.6,
+    2407.0,
+    2366.0,
+    2424.2,
+    2372.1,
+    2311.6,
+    2339.1,
+    2331.0,
+    2376.0,
+    2344.7,
+    2350.0,
+    2331.9,
+    2330.7,
+    2319.4,
+    2284.8,
+    2307.0,
+    2322.0
+   ],
+   "filings": [
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab56187f-c5d5-4433-9ca8-2a8ddb0da877.pdf",
+     "time": "2026-10-15T22:49:56+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=426db6a0-0345-4e7f-b2b3-90a1a7afe726.pdf",
+     "time": "2026-10-08T15:06:58+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99c473b5-dfa6-4526-ae3d-2bd9dd63326a.pdf",
+     "time": "2026-10-07T20:33:43+05:30",
+     "category": "postal_ballot",
+     "subtype": "ballot",
+     "score": 24,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6165abb2-8e61-48a0-a7be-1052082fe01b.pdf",
+     "time": "2026-10-06T20:17:30+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Record Date For Payment Of Interim Dividend, If Any, For The Financial Year Ending 31St March 2027 6 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d3646d6-15e4-40fd-8e18-df6f15a750e2.pdf",
+     "time": "2026-10-06T19:43:35+05:30",
+     "category": "dividend",
+     "subtype": "declared",
+     "score": 60,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      8359.0,
+      8939.0,
+      8531.0,
+      8867.0,
+      9247.0,
+      10542.0
+     ],
+     "Operating Profit": [
+      1436.0,
+      1625.0,
+      1503.0,
+      1781.0,
+      1787.0,
+      2169.0
+     ],
+     "Other Income": [
+      -60.0,
+      229.0,
+      237.0,
+      69.0,
+      197.0,
+      279.0
+     ],
+     "Interest": [
+      53.0,
+      44.0,
+      44.0,
+      48.0,
+      59.0,
+      48.0
+     ],
+     "Depreciation": [
+      301.0,
+      301.0,
+      305.0,
+      313.0,
+      310.0,
+      304.0
+     ],
+     "Profit before tax": [
+      1022.0,
+      1509.0,
+      1392.0,
+      1489.0,
+      1614.0,
+      2096.0
+     ],
+     "Net Profit": [
+      701.0,
+      1117.0,
+      1018.0,
+      1074.0,
+      1185.0,
+      1559.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/295/3/2025/",
+     "https://www.screener.in/company/source/quarter/295/6/2025/",
+     "https://www.screener.in/company/source/quarter/295/9/2025/",
+     "https://www.screener.in/company/source/quarter/295/12/2025/",
+     "https://www.screener.in/company/source/quarter/295/3/2026/",
+     "https://www.screener.in/company/source/quarter/295/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5703f4ea-cc29-49c6-9ec2-df459801eb50.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/218b2e64-6a82-4ecf-8d19-f92bd77518c7.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b5c9244a-c461-49ea-abdf-6645780a8715.pdf"
+     },
+     {
+      "label": "Jun 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2e93acbe-5230-4e7c-bd2d-209d067dc21c.pdf"
+     },
+     {
+      "label": "Feb 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=df929076-f7e7-41d5-994c-5467c2412117.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=301557b8-9c9f-4d3c-90c6-bac7f8d069df.pdf"
+     },
+     {
+      "label": "Aug 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cfd25bff-1623-40b0-a6d6-c8ddab10b398.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf2169dc-659d-462e-bda1-dbffff0dde0f.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=095fd538-6e08-4480-9795-3d6c9607cc85.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70255f9a-65f2-4439-965b-20c61aac94d3.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "DMART",
+   "name": "Avenue Supermarts Ltd",
+   "sector": "Retail",
+   "portfolio": false,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 2,06,847 Cr.",
+    "Current Price": "₹ 3,171",
+    "Stock P/E": "66.4",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "17.2 %",
+    "ROE": "12.9 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 3150.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 3834.2,
+     "move_pct": 1.23,
+     "vol_multiple": 0.7
+    },
+    {
+     "date": "2026-09-28",
+     "close": 3803.5,
+     "move_pct": -0.8,
+     "vol_multiple": 0.87
+    },
+    {
+     "date": "2026-09-29",
+     "close": 3750.0,
+     "move_pct": -1.41,
+     "vol_multiple": 1.56
+    },
+    {
+     "date": "2026-09-30",
+     "close": 3801.4,
+     "move_pct": 1.37,
+     "vol_multiple": 1.45
+    },
+    {
+     "date": "2026-10-01",
+     "close": 3813.0,
+     "move_pct": 0.31,
+     "vol_multiple": 1.49
+    },
+    {
+     "date": "2026-10-05",
+     "close": 3567.0,
+     "move_pct": -6.45,
+     "vol_multiple": 5.53
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3581.9,
+     "move_pct": 0.42,
+     "vol_multiple": 1.43
+    },
+    {
+     "date": "2026-10-07",
+     "close": 3636.0,
+     "move_pct": 1.51,
+     "vol_multiple": 0.67
+    },
+    {
+     "date": "2026-10-08",
+     "close": 3585.0,
+     "move_pct": -1.4,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-09",
+     "close": 3516.8,
+     "move_pct": -1.9,
+     "vol_multiple": 0.81
+    },
+    {
+     "date": "2026-10-12",
+     "close": 3364.9,
+     "move_pct": -4.32,
+     "vol_multiple": 5.05
+    },
+    {
+     "date": "2026-10-13",
+     "close": 3383.0,
+     "move_pct": 0.54,
+     "vol_multiple": 0.56
+    },
+    {
+     "date": "2026-10-14",
+     "close": 3415.0,
+     "move_pct": 0.95,
+     "vol_multiple": 0.84
+    },
+    {
+     "date": "2026-10-15",
+     "close": 3378.4,
+     "move_pct": -1.07,
+     "vol_multiple": 0.58
+    },
+    {
+     "date": "2026-10-16",
+     "close": 3342.0,
+     "move_pct": -1.08,
+     "vol_multiple": 0.9
+    },
+    {
+     "date": "2026-10-19",
+     "close": 3304.0,
+     "move_pct": -1.14,
+     "vol_multiple": 0.55
+    },
+    {
+     "date": "2026-10-21",
+     "close": 3250.9,
+     "move_pct": -1.61,
+     "vol_multiple": 0.6
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3166.0,
+     "move_pct": -2.61,
+     "vol_multiple": 1.8
+    },
+    {
+     "date": "2026-10-23",
+     "close": 3157.7,
+     "move_pct": -0.26,
+     "vol_multiple": 0.49
+    },
+    {
+     "date": "2026-10-26",
+     "close": 3150.0,
+     "move_pct": -0.24,
+     "vol_multiple": 0.37
+    }
+   ],
+   "spark": [
+    3847.4,
+    3830.6,
+    3900.0,
+    3824.0,
+    3813.4,
+    3763.0,
+    3770.0,
+    3710.0,
+    3720.2,
+    3735.0,
+    3690.0,
+    3688.0,
+    3680.0,
+    3720.0,
+    3711.2,
+    3749.9,
+    3800.4,
+    3777.0,
+    3834.8,
+    3787.5,
+    3834.2,
+    3803.5,
+    3750.0,
+    3801.4,
+    3813.0,
+    3567.0,
+    3581.9,
+    3636.0,
+    3585.0,
+    3516.8,
+    3364.9,
+    3383.0,
+    3415.0,
+    3378.4,
+    3342.0,
+    3304.0,
+    3250.9,
+    3166.0,
+    3157.7,
+    3150.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication 12 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d53ca9e8-05c3-4b7f-a3c4-c5a577120583.pdf",
+     "time": "2026-10-12T17:41:31+05:30",
+     "category": "unclassified",
+     "subtype": "newspaper_ad",
+     "score": 4,
+     "ambiguous": false
+    },
+    {
+     "title": "Financial Results For The Quarter Ended 30Th September, 2026 10 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5265885f-b4a6-4f12-8503-26911647c4f0.pdf",
+     "time": "2026-10-10T15:37:34+05:30",
+     "category": "results",
+     "subtype": "outcome",
+     "score": 92,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b231ec5-e90f-4423-8abf-7a22a88dc285.pdf",
+     "time": "2026-10-10T15:42:01+05:30",
+     "category": "press_release",
+     "subtype": "release",
+     "score": 44,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28519d83-e15b-41c1-842c-b589621d6439.pdf",
+     "time": "2026-10-10T15:44:37+05:30",
+     "category": "results",
+     "subtype": "deck",
+     "score": 40,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Outcome for Meeting Held On October 10, 2026",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=229db0b1-7348-4aef-8a35-a1ec23de8fe8.pdf",
+     "time": "2026-10-10T15:23:59+05:30",
+     "category": "unclassified",
+     "subtype": "unknown",
+     "score": 12,
+     "ambiguous": true
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Sales": [
+      16360.0,
+      16676.0,
+      18101.0,
+      17684.0,
+      18795.0,
+      19644.0
+     ],
+     "Operating Profit": [
+      1299.0,
+      1214.0,
+      1463.0,
+      1211.0,
+      1499.0,
+      1393.0
+     ],
+     "Other Income": [
+      19.0,
+      20.0,
+      17.0,
+      18.0,
+      26.0,
+      14.0
+     ],
+     "Interest": [
+      29.0,
+      35.0,
+      37.0,
+      41.0,
+      54.0,
+      64.0
+     ],
+     "Depreciation": [
+      232.0,
+      253.0,
+      268.0,
+      284.0,
+      288.0,
+      318.0
+     ],
+     "Profit before tax": [
+      1057.0,
+      945.0,
+      1175.0,
+      904.0,
+      1183.0,
+      1025.0
+     ],
+     "Net Profit": [
+      773.0,
+      685.0,
+      856.0,
+      656.0,
+      860.0,
+      743.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/1273670/6/2025/",
+     "https://www.screener.in/company/source/quarter/1273670/9/2025/",
+     "https://www.screener.in/company/source/quarter/1273670/12/2025/",
+     "https://www.screener.in/company/source/quarter/1273670/3/2026/",
+     "https://www.screener.in/company/source/quarter/1273670/6/2026/",
+     "https://www.screener.in/company/source/quarter/1273670/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6796ce24-465d-4198-b3dc-8387b19b1cef.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/14f569a2-0850-4e73-aa38-69494b1142cb.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28519d83-e15b-41c1-842c-b589621d6439.pdf"
+     },
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58e61774-8375-4458-836d-a52d044bec77.pdf"
+     },
+     {
+      "label": "Jul 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d3e35b8-b792-4f29-b7be-b46dfed23928.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=41f9f4a8-9c40-484c-a705-25c0bf4b96d3.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4070c208-aa9a-4c54-8c74-a8702b4cf9ef.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94760836-1e44-4f83-b725-9020ff441562.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "PERSISTENT",
+   "name": "Persistent Systems Ltd",
+   "sector": "IT services",
+   "portfolio": false,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 91,430 Cr.",
+    "Current Price": "₹ 5,781",
+    "Stock P/E": "48.9",
+    "Dividend Yield": "0.68 %",
+    "ROCE": "34.4 %",
+    "ROE": "27.2 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 5850.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 5372.0,
+     "move_pct": 1.8,
+     "vol_multiple": 0.62
+    },
+    {
+     "date": "2026-09-28",
+     "close": 5328.5,
+     "move_pct": -0.81,
+     "vol_multiple": 0.67
+    },
+    {
+     "date": "2026-09-29",
+     "close": 5162.0,
+     "move_pct": -3.12,
+     "vol_multiple": 0.63
+    },
+    {
+     "date": "2026-09-30",
+     "close": 5279.0,
+     "move_pct": 2.27,
+     "vol_multiple": 1.42
+    },
+    {
+     "date": "2026-10-01",
+     "close": 5367.0,
+     "move_pct": 1.67,
+     "vol_multiple": 1.18
+    },
+    {
+     "date": "2026-10-05",
+     "close": 5530.0,
+     "move_pct": 3.04,
+     "vol_multiple": 1.81
+    },
+    {
+     "date": "2026-10-06",
+     "close": 5521.0,
+     "move_pct": -0.16,
+     "vol_multiple": 0.61
+    },
+    {
+     "date": "2026-10-07",
+     "close": 5507.0,
+     "move_pct": -0.25,
+     "vol_multiple": 0.68
+    },
+    {
+     "date": "2026-10-08",
+     "close": 5468.0,
+     "move_pct": -0.71,
+     "vol_multiple": 0.77
+    },
+    {
+     "date": "2026-10-09",
+     "close": 5770.0,
+     "move_pct": 5.52,
+     "vol_multiple": 1.79
+    },
+    {
+     "date": "2026-10-12",
+     "close": 5787.0,
+     "move_pct": 0.29,
+     "vol_multiple": 0.76
+    },
+    {
+     "date": "2026-10-13",
+     "close": 5988.0,
+     "move_pct": 3.47,
+     "vol_multiple": 2.35
+    },
+    {
+     "date": "2026-10-14",
+     "close": 5898.0,
+     "move_pct": -1.5,
+     "vol_multiple": 1.36
+    },
+    {
+     "date": "2026-10-15",
+     "close": 5840.0,
+     "move_pct": -0.98,
+     "vol_multiple": 2.93
+    },
+    {
+     "date": "2026-10-16",
+     "close": 5741.0,
+     "move_pct": -1.7,
+     "vol_multiple": 4.38
+    },
+    {
+     "date": "2026-10-19",
+     "close": 5690.0,
+     "move_pct": -0.89,
+     "vol_multiple": 2.13
+    },
+    {
+     "date": "2026-10-21",
+     "close": 5858.5,
+     "move_pct": 2.96,
+     "vol_multiple": 1.43
+    },
+    {
+     "date": "2026-10-22",
+     "close": 5740.5,
+     "move_pct": -2.01,
+     "vol_multiple": 1.11
+    },
+    {
+     "date": "2026-10-23",
+     "close": 5727.5,
+     "move_pct": -0.23,
+     "vol_multiple": 1.71
+    },
+    {
+     "date": "2026-10-26",
+     "close": 5850.0,
+     "move_pct": 2.14,
+     "vol_multiple": 0.63
+    }
+   ],
+   "spark": [
+    5654.0,
+    5875.0,
+    5594.5,
+    5800.0,
+    5690.0,
+    5657.0,
+    5643.0,
+    5540.0,
+    5560.0,
+    5419.0,
+    5509.5,
+    5516.0,
+    5477.5,
+    5440.0,
+    5473.0,
+    5416.0,
+    5449.0,
+    5366.0,
+    5240.0,
+    5277.0,
+    5372.0,
+    5328.5,
+    5162.0,
+    5279.0,
+    5367.0,
+    5530.0,
+    5521.0,
+    5507.0,
+    5468.0,
+    5770.0,
+    5787.0,
+    5988.0,
+    5898.0,
+    5840.0,
+    5741.0,
+    5690.0,
+    5858.5,
+    5740.5,
+    5727.5,
+    5850.0
+   ],
+   "filings": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4491cbf4-b27c-45f2-a905-1220b80dec9c.pdf",
+     "time": "2026-10-26T23:23:43+05:30",
+     "category": "unclassified",
+     "subtype": "update",
+     "score": 15,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b633b6e5-f968-461c-b8f1-2ac155afc384.pdf",
+     "time": "2026-10-26T23:29:31+05:30",
+     "category": "unclassified",
+     "subtype": "allotment",
+     "score": 12,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3ba2a8b-279a-4e0f-9ee8-c99ca501552b.pdf",
+     "time": "2026-10-26T19:28:42+05:30",
+     "category": "unclassified",
+     "subtype": "update",
+     "score": 15,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+     "time": "2026-10-23T20:45:10+05:30",
+     "category": "earnings_call",
+     "subtype": "transcript",
+     "score": 40,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d500e04f-fe02-4b5c-923a-0275b18f6044.pdf",
+     "time": "2026-10-22T23:06:18+05:30",
+     "category": "credit_rating",
+     "subtype": "rating",
+     "score": 48,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026",
+     "Sep 2026"
+    ],
+    "rows": {
+     "Sales": [
+      3334.0,
+      3581.0,
+      3778.0,
+      4056.0,
+      4303.0,
+      4664.0
+     ],
+     "Operating Profit": [
+      612.0,
+      683.0,
+      733.0,
+      768.0,
+      697.0,
+      633.0
+     ],
+     "Other Income": [
+      55.0,
+      52.0,
+      -49.0,
+      33.0,
+      71.0,
+      24.0
+     ],
+     "Interest": [
+      17.0,
+      18.0,
+      19.0,
+      19.0,
+      29.0,
+      38.0
+     ],
+     "Depreciation": [
+      94.0,
+      100.0,
+      101.0,
+      109.0,
+      115.0,
+      167.0
+     ],
+     "Profit before tax": [
+      555.0,
+      617.0,
+      565.0,
+      674.0,
+      623.0,
+      454.0
+     ],
+     "Net Profit": [
+      425.0,
+      471.0,
+      439.0,
+      529.0,
+      483.0,
+      352.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/2458/6/2025/",
+     "https://www.screener.in/company/source/quarter/2458/9/2025/",
+     "https://www.screener.in/company/source/quarter/2458/12/2025/",
+     "https://www.screener.in/company/source/quarter/2458/3/2026/",
+     "https://www.screener.in/company/source/quarter/2458/6/2026/",
+     "https://www.screener.in/company/source/quarter/2458/9/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/659e0149-a77e-46a1-adab-05e676fe9996.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8419d162-e08b-450a-b37b-660fe25e7e7b.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Oct 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69eb4f2c-1eb5-4654-a500-c7bef33d2f19.pdf"
+     },
+     {
+      "label": "Sep 2026",
+      "transcript": null,
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=05c651aa-b523-490c-bc71-82aa02d579c0.pdf"
+     },
+     {
+      "label": "Aug 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3b69fe96-720a-48da-9ace-c045c4422419.pdf"
+     },
+     {
+      "label": "Apr 2026",
+      "transcript": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb576c3c-6adf-4f63-9347-4de1b08d8a60.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9de693b-9b58-4325-a318-8df28405a0d5.pdf"
+     },
+     {
+      "label": "Oct 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f38819d8-e17e-417b-960f-c192b4d17af5.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=05654edd-992e-434a-81c1-bac885e32731.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "symbol": "CIPLA",
+   "name": "Cipla Ltd",
+   "sector": "Pharma",
+   "portfolio": false,
+   "financial": false,
+   "ratios": {
+    "Market Cap": "₹ 1,08,723 Cr.",
+    "Current Price": "₹ 1,346",
+    "Stock P/E": "30.4",
+    "Dividend Yield": "0.96 %",
+    "ROCE": "15.5 %",
+    "ROE": "11.6 %"
+   },
+   "last": {
+    "date": "2026-10-26",
+    "close": 1355.0
+   },
+   "stats": [
+    {
+     "date": "2026-09-25",
+     "close": 1399.7,
+     "move_pct": 0.05,
+     "vol_multiple": 1.29
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1383.7,
+     "move_pct": -1.14,
+     "vol_multiple": 0.76
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1379.3,
+     "move_pct": -0.32,
+     "vol_multiple": 1.56
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1346.0,
+     "move_pct": -2.41,
+     "vol_multiple": 1.09
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1344.0,
+     "move_pct": -0.15,
+     "vol_multiple": 0.94
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1335.5,
+     "move_pct": -0.63,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1340.2,
+     "move_pct": 0.35,
+     "vol_multiple": 0.56
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1327.2,
+     "move_pct": -0.97,
+     "vol_multiple": 0.86
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1306.8,
+     "move_pct": -1.54,
+     "vol_multiple": 0.55
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1301.0,
+     "move_pct": -0.44,
+     "vol_multiple": 0.66
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1311.3,
+     "move_pct": 0.79,
+     "vol_multiple": 0.68
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1329.6,
+     "move_pct": 1.4,
+     "vol_multiple": 0.49
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1314.6,
+     "move_pct": -1.13,
+     "vol_multiple": 1.08
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1328.0,
+     "move_pct": 1.02,
+     "vol_multiple": 1.51
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1325.1,
+     "move_pct": -0.22,
+     "vol_multiple": 0.92
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1324.1,
+     "move_pct": -0.08,
+     "vol_multiple": 1.48
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1314.0,
+     "move_pct": -0.76,
+     "vol_multiple": 1.33
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1330.9,
+     "move_pct": 1.29,
+     "vol_multiple": 0.67
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1338.0,
+     "move_pct": 0.53,
+     "vol_multiple": 1.4
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1355.0,
+     "move_pct": 1.27,
+     "vol_multiple": 1.58
+    }
+   ],
+   "spark": [
+    1420.0,
+    1423.5,
+    1409.2,
+    1423.0,
+    1412.8,
+    1394.7,
+    1385.0,
+    1395.0,
+    1384.0,
+    1363.1,
+    1373.3,
+    1366.0,
+    1351.0,
+    1358.0,
+    1376.3,
+    1394.5,
+    1386.1,
+    1384.1,
+    1383.0,
+    1399.0,
+    1399.7,
+    1383.7,
+    1379.3,
+    1346.0,
+    1344.0,
+    1335.5,
+    1340.2,
+    1327.2,
+    1306.8,
+    1301.0,
+    1311.3,
+    1329.6,
+    1314.6,
+    1328.0,
+    1325.1,
+    1324.1,
+    1314.0,
+    1330.9,
+    1338.0,
+    1355.0
+   ],
+   "filings": [
+    {
+     "title": "USFDA Inspection At Invagen Manufacturing Facility In Hauppauge, Long Island, New York, USA",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f23c5791-28be-478e-9be4-f037068b73d5.pdf",
+     "time": "2026-10-23T09:02:35+05:30",
+     "category": "litigation",
+     "subtype": "regulatory",
+     "score": 74,
+     "ambiguous": false
+    },
+    {
+     "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 15 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc77b5e8-b6e0-436f-96bf-9575b1a20e6b.pdf",
+     "time": "2026-10-15T18:34:55+05:30",
+     "category": "unclassified",
+     "subtype": "compliance",
+     "score": 3,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 13 Oct",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10415382-a94b-4f11-a507-c7c91a0fca3b.pdf",
+     "time": "2026-10-13T18:53:26+05:30",
+     "category": "investor_meetings",
+     "subtype": "intimation",
+     "score": 10,
+     "ambiguous": false
+    },
+    {
+     "title": "Board Meeting Intimation for The Quarter And Half Year Ended 30Th September, 2026 Under SEBI (LODR) Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=466a7c30-3b33-4150-b6fb-8c3c2a5ffe5a.pdf",
+     "time": "2026-09-28T19:15:16+05:30",
+     "category": "unclassified",
+     "subtype": "board_intimation",
+     "score": 18,
+     "ambiguous": false
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7e2cf19-a12e-402c-9912-89847462d232.pdf",
+     "time": "2026-09-24T19:07:42+05:30",
+     "category": "unclassified",
+     "subtype": "esop",
+     "score": 4,
+     "ambiguous": false
+    }
+   ],
+   "quarters": {
+    "labels": [
+     "Mar 2025",
+     "Jun 2025",
+     "Sep 2025",
+     "Dec 2025",
+     "Mar 2026",
+     "Jun 2026"
+    ],
+    "rows": {
+     "Sales": [
+      6730.0,
+      6957.0,
+      7589.0,
+      7074.0,
+      6541.0,
+      7119.0
+     ],
+     "Operating Profit": [
+      1538.0,
+      1778.0,
+      1895.0,
+      1255.0,
+      955.0,
+      1192.0
+     ],
+     "Other Income": [
+      289.0,
+      259.0,
+      269.0,
+      -70.0,
+      148.0,
+      211.0
+     ],
+     "Interest": [
+      14.0,
+      14.0,
+      13.0,
+      14.0,
+      13.0,
+      17.0
+     ],
+     "Depreciation": [
+      309.0,
+      253.0,
+      297.0,
+      278.0,
+      383.0,
+      304.0
+     ],
+     "Profit before tax": [
+      1504.0,
+      1770.0,
+      1854.0,
+      893.0,
+      707.0,
+      1082.0
+     ],
+     "Net Profit": [
+      1214.0,
+      1292.0,
+      1353.0,
+      674.0,
+      543.0,
+      786.0
+     ]
+    },
+    "pdfs": [
+     "https://www.screener.in/company/source/quarter/661/3/2025/",
+     "https://www.screener.in/company/source/quarter/661/6/2025/",
+     "https://www.screener.in/company/source/quarter/661/9/2025/",
+     "https://www.screener.in/company/source/quarter/661/12/2025/",
+     "https://www.screener.in/company/source/quarter/661/3/2026/",
+     "https://www.screener.in/company/source/quarter/661/6/2026/"
+    ]
+   },
+   "docs": {
+    "annual_reports": [
+     {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf"
+     },
+     {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/674f8305-0979-4722-ad6c-b7915c00c1d8.pdf"
+     },
+     {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9ec11f08-4ca3-4060-8cd4-2cfad0af4959.pdf"
+     }
+    ],
+    "concalls": [
+     {
+      "label": "Jul 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c3c9b3f-1feb-4568-952f-3cf9736654fe.pdf"
+     },
+     {
+      "label": "May 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+      "ppt": "https://www.cipla.com/sites/default/files/SignedInvestorpresentation13052026Signed_0.pdf"
+     },
+     {
+      "label": "Jan 2026",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0318e3b-b31b-41a5-a9ae-adf3337e2e7c.pdf"
+     },
+     {
+      "label": "Nov 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ea9d3f9-fdfe-4f40-9d9e-057a5018ec8f.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9feb721-cda2-4afe-857c-4ef41a0163e6.pdf"
+     },
+     {
+      "label": "Jul 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=156e5b80-4621-43c8-8c6c-e3a6dad66b56.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bc6f1835-1653-4507-ac88-eb31eff815c9.pdf"
+     },
+     {
+      "label": "May 2025",
+      "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10726a3d-ea15-40af-9631-9f38ebff5582.pdf",
+      "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2cc43710-cb55-4a7e-8169-057035373bfe.pdf"
+     }
+    ]
+   }
+  }
+ ],
+ "failed": {}
+}

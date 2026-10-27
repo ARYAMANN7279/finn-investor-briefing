@@ -60,3 +60,16 @@ def unusual(bars: list[Bar], vol_mult: float = 2.0, move_pct: float = 4.0, lookb
     return {"date": last.date, "close": last.close, "move_pct": round(move, 2), "volume": last.volume,
             "avg_volume": round(avg), "vol_multiple": round(mult, 2),
             "volume_alert": mult >= vol_mult, "move_alert": abs(move) >= move_pct}
+
+
+def daily_stats(bars: list[Bar], days: int = 20, lookback: int = 20) -> list[dict]:
+    """For each of the last `days` completed sessions: close, one-day move and volume as a multiple of the previous `lookback`
+    sessions' average. The app uses this to re-evaluate any threshold the user sets without asking a server."""
+    out = []
+    for i in range(max(lookback + 1, len(bars) - days), len(bars)):
+        window = bars[i - lookback:i]
+        avg = sum(b.volume for b in window) / lookback
+        out.append({"date": bars[i].date, "close": round(bars[i].close, 2),
+                    "move_pct": round((bars[i].close / bars[i - 1].close - 1) * 100, 2),
+                    "vol_multiple": round(bars[i].volume / avg, 2) if avg else 0.0})
+    return out
