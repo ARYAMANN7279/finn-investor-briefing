@@ -60,15 +60,25 @@ JUDGE_SCHEMA = {"type": "OBJECT", "properties": {"verdicts": {"type": "ARRAY", "
     "required": ["id", "verdict", "evidence"]}}}, "required": ["verdicts"]}
 JUDGE_SYSTEM = ("You compare what management promised on an earnings call with what the company then reported. "
                 "Use only the promises and the quarterly table given. Cite the quarters (labels as in the table) and the figures you used in `evidence`, "
-                "in one or two plain sentences. If the table cannot test the promise (new products, qualitative goals), say not_measurable. "
+                "in one or two plain sentences. Do not calculate, sum, or derive any figures; use only the values already present in the table. "
+                "If the table cannot test the promise (new products, qualitative goals), say not_measurable. "
                 "If too little time has passed, say too_early. Never use outside knowledge.")
-JUDGE_PROMPT = """Company: {name}. Quarterly results table (figures in Rs crore, oldest to newest; OPM = operating profit / revenue; YoY and last-4-quarter figures are already computed, use them rather than calculating):
+JUDGE_PROMPT = """Company: {name}.
+
+Quarterly results table (figures in Rs crore, oldest to newest; YoY growth, trailing-four-quarter totals and margins are precomputed):
 {table}
 
-Promises made on earlier calls (id, call date, quarters reported after the call, promise, quote). Judge a promise only against quarters listed as reported after its call; if none of them covers the promised period, say too_early:
+Promises made on earlier calls follow. Each row includes its id, call date, quarters available after that call, promise, target, horizon and source quote.
 {promises}
 
-For each id give a verdict. If a promise repeats the same commitment as an earlier id in the list (for example the same margin band restated on a later call), set `same_as` to that earlier id, otherwise null."""
+For each input id, return exactly one verdict and evidence:
+- Compare only with quarters listed for that promise. Do not use a quarter that predates its call.
+- Use the table's precomputed values as written. Do not calculate totals, margins, growth rates, or differences.
+- Use `too_early` when the target period has not passed or no listed quarter can test it.
+- Use `not_measurable` when results rows do not measure the promise.
+- Use `delivered`, `partly`, or `missed` only when the relevant reported values support that judgment.
+- In `evidence`, name the quarter(s) and quote only the relevant precomputed table values. If no table value can test the target, explain that briefly.
+- Set `same_as` only when the same commitment appeared under an earlier id in this input; otherwise set it to null."""
 
 VIEW_SCHEMA = {"type": "OBJECT", "properties": {
     "business": {"type": "STRING"},
@@ -119,7 +129,8 @@ def read_doc(label: str, url: str, kind: str) -> dict | None:
     if not idx:
         return None
     text = _tagged(pages, idx)
-    return {"label": label, "url": url, "kind": kind, "text": text, "norm": _norm(text), "pages": len(pages)}
+    return {"label": label, "url": url, "kind": kind, "text": text, "norm": _norm(text),
+            "page_text": {i + 1: pages[i] for i in idx}, "pages": len(pages)}
 
 
 def extract_doc(doc: dict, tag: str) -> list[dict]:
@@ -130,8 +141,12 @@ def extract_doc(doc: dict, tag: str) -> list[dict]:
             for it in r["data"].get(key, []):
                 if it.get("speaker") == "analyst" or (doc["kind"] == "concall" and "?" in it["quote"]):
                     continue  # a question from the floor is not management's word (the model's label is checked with a plain rule)
-                q = _norm(it["quote"])
-                if len(q) < 25 or q not in doc["norm"]:  # not a verbatim quote of this document: drop it
+                quote = it.get("quote", "")
+                page = it.get("page")
+                page_text = doc["page_text"].get(page) if isinstance(page, int) else None
+                q = _norm(quote)
+                if len(quote.split()) > 40 or len(q) < 25 or page_text is None or q not in _norm(page_text):
+                    # Check the cited page, not merely somewhere in the document.
                     continue
                 items.append({"id": f"{tag}.{len(items)}", "type": kind, "doc": doc["label"], "url": doc["url"], **it, "model": r["model"]})
     seen, out = set(), []
@@ -152,35 +167,55 @@ def _ym(label: str) -> tuple[int, int] | None:
 
 
 def quarters_after(call_label: str, labels: list[str]) -> list[str]:
-    """Quarters whose results came out after a call: any quarter ending in or after the call's month."""
+    """Approximate eligible periods: quarter-end month is the call month or later; the source has month-only call labels."""
     c = _ym(call_label)
     return [q for q in labels if c and _ym(q) and _ym(q) >= c]
 
 
 def numbers_ok(evidence: str, tbl: str) -> bool:
-    """Every figure of 100 or more quoted in the evidence must appear in the table the judge was given."""
-    nums = re.findall(r"\d[\d,]*\.?\d*", evidence)
-    big = [n.replace(",", "").rstrip(".") for n in nums if len(n.replace(",", "").split(".")[0]) >= 3]
-    flat = tbl.replace(",", "")
-    return all(n in flat or n.split(".")[0] in flat for n in big)
+    """Every financial value of 100 or more in the evidence must occur in the supplied table."""
+    from decimal import Decimal, InvalidOperation
+
+    pattern = r"(?<![\w.])[-+]?\d[\d,]*(?:\.\d+)?%?"
+
+    def values(text, ignore_dates=False):
+        found = set()
+        for match in re.finditer(pattern, text):
+            raw = match.group(0)
+            try:
+                value = Decimal(raw.replace(",", "").rstrip("%"))
+            except InvalidOperation:
+                continue
+            is_year = value == value.to_integral_value() and 1900 <= value <= 2099
+            if ignore_dates and is_year:
+                continue
+            found.add(value)
+        return found
+
+    table_values = values(tbl)
+    big = {value for value in values(evidence, ignore_dates=True) if abs(value) >= 100}
+    return big <= table_values
 
 
 def table(co: screener.Company, n: int = 12) -> str:
-    """The quarterly table the judge sees. Growth and trailing-year figures are computed here so the model never does the arithmetic."""
+    """Quarterly and trailing-four-quarter metrics for the judge; every calculation stays in code."""
     q = co.quarters
     top = co.top_line() or []
     op = q["rows"].get("Operating Profit")
     pat = q["rows"].get("Net Profit")
-    lines = ["quarter | revenue | revenue YoY% | revenue last 4 quarters | operating profit | OPM% | net profit | net profit YoY%"]
+    lines = ["quarter | revenue | revenue YoY% | revenue last 4 quarters | operating profit | operating profit last 4 quarters | OPM% | trailing-four-quarter OPM% | net profit | net profit YoY% | net profit last 4 quarters"]
     for i in range(max(0, len(q["labels"]) - n), len(q["labels"])):
         r = top[i] if top else None
         o = op[i] if op else None
         yoy = f"{(r - top[i - 4]) / top[i - 4] * 100:.1f}" if r is not None and i >= 4 and top[i - 4] else "n/a"
-        ttm = f"{sum(top[i - 3:i + 1]):.0f}" if i >= 3 and all(v is not None for v in top[i - 3:i + 1]) else "n/a"
+        rev4 = sum(top[i - 3:i + 1]) if i >= 3 and all(v is not None for v in top[i - 3:i + 1]) else None
+        op4 = sum(op[i - 3:i + 1]) if op and i >= 3 and all(v is not None for v in op[i - 3:i + 1]) else None
+        pat4 = sum(pat[i - 3:i + 1]) if pat and i >= 3 and all(v is not None for v in pat[i - 3:i + 1]) else None
         p, p4 = (pat[i] if pat else None), (pat[i - 4] if pat and i >= 4 else None)
         pyoy = f"{(p - p4) / abs(p4) * 100:.1f}" if p is not None and p4 else "n/a"
         opm = f"{o / r * 100:.1f}" if r and o is not None else "n/a"
-        lines.append(f"{q['labels'][i]} | {r} | {yoy} | {ttm} | {o} | {opm} | {p} | {pyoy}")
+        ttm_opm = f"{op4 / rev4 * 100:.1f}" if op4 is not None and rev4 else "n/a"
+        lines.append(f"{q['labels'][i]} | {r} | {yoy} | {rev4 if rev4 is not None else 'n/a'} | {o} | {op4 if op4 is not None else 'n/a'} | {opm} | {ttm_opm} | {p} | {pyoy} | {pat4 if pat4 is not None else 'n/a'}")
     return "\n".join(lines)
 
 
@@ -213,7 +248,8 @@ def build(symbol: str, calls: int = 4, reports: int = 1) -> dict:
             break
         if c.get("transcript"):
             d = read_doc(f"Concall {c['label']}", c["transcript"], "concall")
-            if d and any(d["norm"][:3000] == o["norm"][:3000] for o in docs):  # the same transcript filed under two dates
+            if d and any(d["norm"] == o["norm"] for o in docs if o["kind"] == "concall"):
+                # Full-text comparison avoids treating shared opening boilerplate as a duplicate.
                 print("  skip duplicate", d["label"])
                 continue
             if d:

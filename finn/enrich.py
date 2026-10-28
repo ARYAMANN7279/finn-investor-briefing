@@ -44,9 +44,32 @@ def _text(url: str, limit: int = 14000) -> str:
     return "\n".join(pdftext.pages(url))[:limit]
 
 
+def refresh_checks(snapshot: dict, db: dict) -> int:
+    """Recompute saved filing-vs-Screener checks after validation logic changes, without another model call."""
+    updated = 0
+    for co in snapshot.get("companies", []):
+        q = co["quarters"]
+        for filing in co.get("filings", []):
+            if filing.get("category") != "results" or filing.get("subtype") != "outcome":
+                continue
+            row = db.get(filing["url"])
+            if not row or row.get("kind") != "results" or row.get("status") != "extracted":
+                continue
+            check = extract.cross_check(row["data"], q["labels"], q["rows"], extract.quarter_label(filing["title"]) or "", co["financial"])
+            if row.get("check") != check:
+                row["check"] = check
+                updated += 1
+    if updated:
+        extract.save(db)
+    return updated
+
+
 def main() -> None:
     snap = json.loads(SNAP.read_text())
     db = extract.load()
+    refreshed = refresh_checks(snap, db)
+    if refreshed:
+        print("refreshed", refreshed, "saved results cross-checks")
     todo = []
     for co in snap["companies"]:
         if not co["portfolio"]:

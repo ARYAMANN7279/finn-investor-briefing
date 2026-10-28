@@ -79,21 +79,29 @@ def cross_check(data: dict, labels: list[str], rows: dict, label: str, financial
     i = labels.index(label)
     unit = data["unit"]
     cur = data["current"]
-    top = rows.get("Sales") or rows.get("Revenue")
-    pairs = [("revenue", crore(cur.get("revenue"), unit), top[i] if top else None),
-             ("profit_before_tax", crore(cur.get("profit_before_tax"), unit), (rows.get("Profit before tax") or [None] * 99)[i]),
-             ("net_profit", crore(cur.get("net_profit"), unit), (rows.get("Net Profit") or [None] * 99)[i])]
+    top = rows.get("Sales") or rows.get("Revenue") or []
+
+    def at(values):
+        return values[i] if i < len(values) else None
+
+    pairs = [("revenue", crore(cur.get("revenue"), unit), at(top)),
+             ("profit_before_tax", crore(cur.get("profit_before_tax"), unit), at(rows.get("Profit before tax") or [])),
+             ("net_profit", crore(cur.get("net_profit"), unit), at(rows.get("Net Profit") or []))]
     detail, bad = [], 0
     for name, a, b in pairs:
-        if a is None or b in (None, 0):
+        if a is None or b is None:
             detail.append({"metric": name, "filing": a, "screener": b, "ok": None})
             continue
-        ok = abs(a - b) / abs(b) <= 0.015
+        # A small absolute floor handles zero; otherwise use relative tolerance for rounding.
+        ok = abs(a - b) <= max(0.01, abs(b) * 0.015)
         bad += not ok
         detail.append({"metric": name, "filing": round(a, 2), "screener": b, "ok": ok})
     checked = [d for d in detail if d["ok"] is not None]
-    state = "unchecked" if not checked else ("verified" if not bad else "mismatch")
-    return {"state": state, "detail": detail}
+    state = "mismatch" if bad else ("verified" if len(checked) == len(pairs) else "unchecked")
+    result = {"state": state, "detail": detail, "checked": len(checked), "expected": len(pairs)}
+    if state == "unchecked":
+        result["why"] = f"Only {len(checked)} of {len(pairs)} filing figures could be compared."
+    return result
 
 
 def load() -> dict:

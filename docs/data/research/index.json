@@ -1,25 +1,25 @@
 {
  "ASIANPAINT": {
   "name": "Asian Paints Ltd",
-  "built_at": "2026-10-27T20:12:38+0530",
-  "promises": 10,
+  "built_at": "2026-10-28T10:26:54+0530",
+  "promises": 11,
   "sources": 5
  },
  "DMART": {
   "name": "Avenue Supermarts Ltd",
-  "built_at": "2026-10-27T20:18:51+0530",
+  "built_at": "2026-10-28T10:26:55+0530",
   "promises": 23,
   "sources": 5
  },
  "PERSISTENT": {
   "name": "Persistent Systems Ltd",
-  "built_at": "2026-10-27T20:19:58+0530",
-  "promises": 12,
+  "built_at": "2026-10-28T10:26:57+0530",
+  "promises": 14,
   "sources": 5
  },
  "CIPLA": {
   "name": "Cipla Ltd",
-  "built_at": "2026-10-27T20:22:15+0530",
+  "built_at": "2026-10-28T10:26:59+0530",
   "promises": 19,
   "sources": 5
  }

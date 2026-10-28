@@ -42,6 +42,7 @@ function checkHTML(f) {
     const bad = c.detail.filter((d) => d.ok === false).map((d) => `${d.metric.replace(/_/g, " ")}: filing ${fmt(d.filing)}, Screener ${fmt(d.screener)}`).join("; ");
     return `<span class="badge warn">filing and Screener differ</span> <span class="note">${esc(bad)}. Check the filing.</span>`;
   }
+  if (c.checked > 0) return `<span class="badge">partial cross-check · ${c.checked}/${c.expected} figures</span>`;
   return `<span class="badge">could not cross-check</span>`;
 }
 
@@ -53,7 +54,7 @@ function resultsHTML(co, f) {
   const e = state.enrich[f.url];
   return `<table class="nums"><thead><tr><th>₹ crore, ${esc(r.quarter)}</th><th>Now</th><th>QoQ vs ${esc(r.prevLabel || "-")}</th><th>YoY vs ${esc(r.yagoLabel || "-")}</th></tr></thead><tbody>${body}</tbody></table>
     <p style="margin:8px 0 0">${checkHTML(f)}</p>
-    <p class="note">${r.financial ? "Banks and NBFCs have no EBITDA; net interest income is shown instead." : "EBITDA is operating profit: sales less operating costs, before other income, interest and depreciation."} ${e?.check ? `${esc(modelName(e.model))} read revenue, PBT and PAT out of the filing and they were compared with Screener's table (1.5% tolerance). ` : ""}${r.pdf ? `<a class="link" href="${esc(r.pdf)}" target="_blank" rel="noopener">Results filing</a>` : ""}</p>`;
+    <p class="note">${r.financial ? "Banks and NBFCs have no EBITDA; net interest income is shown instead." : "EBITDA is Screener's operating-profit figure: sales less operating costs, before other income, interest and depreciation."} ${e?.check ? `${esc(modelName(e.model))} extracted revenue, PBT and PAT from the filing. The badge shows how many were cross-checked against Screener (1.5% tolerance). ` : ""}${r.pdf ? `<a class="link" href="${esc(r.pdf)}" target="_blank" rel="noopener">Results filing</a>` : ""}</p>`;
 }
 
 const ACTION = { appointed: "Joins", resigned: "Leaves", retiring: "Retiring", reappointed: "Re-appointed", role_change: "New role", other: "Change" };
@@ -126,7 +127,7 @@ function sectionBody(sheet, id) {
     const rows = [...(sheet.promised || [])].sort((a, b) => ORDER.indexOf(a.verdict) - ORDER.indexOf(b.verdict));
     if (!rows.length) return `<p class="why">Not enough quantified guidance in the transcripts to compare.</p>`;
     const n = (v) => rows.filter((p) => p.verdict === v).length;
-    const head = `<p class="why" style="margin-top:0">${rows.length} commitments from earlier calls, tested against the quarters reported since: ${n("delivered")} delivered, ${n("partly")} partly, ${n("missed")} missed, ${n("too_early")} too early, ${n("not_measurable")} not testable from results numbers (volumes, projects, programmes).</p>`;
+    const head = `<p class="why" style="margin-top:0">${rows.length} commitments from earlier calls, tested against results periods ending in or after the call month (transcript labels are month-only): ${n("delivered")} delivered, ${n("partly")} partly, ${n("missed")} missed, ${n("too_early")} too early, ${n("not_measurable")} not testable from results numbers (volumes, projects, programmes).</p>`;
     return head + rows.map((p) => `<div class="pvd"><div class="q">${esc(p.doc)} <span class="verdict v-${esc(p.verdict)}">${esc(VERDICT[p.verdict] || p.verdict)}</span></div>
       <div class="said"><b>Said:</b> ${esc(p.claim)}</div><div class="got"><b>What followed:</b> ${esc(p.evidence)}${p.numbers_ok === false ? ` <span class="badge warn">a figure here is not in the table, check it</span>` : ""}</div>
       <blockquote>“${esc(p.quote)}”</blockquote><a class="link" href="${esc(p.url)}#page=${p.page}" target="_blank" rel="noopener">${esc(p.doc)}, page ${p.page}</a>
@@ -152,7 +153,7 @@ function sheetHTML(sheet, focus) {
   const st = sheet.stats || {};
   const secs = SECTIONS.map(([id, label, hero]) => `<section class="sec ${hero ? "hero" : ""}" aria-expanded="${focus ? focus === id : !!hero}" data-sec="${id}"><button data-act="sec">${esc(label)}<span class="chev">›</span></button><div class="body">${sectionBody(sheet, id)}</div></section>`).join("");
   return `<div class="sheet"><h2>${esc(sheet.name || sheet.symbol)}</h2>
-    <p class="note" style="margin-top:2px">Built only from the company's own annual report and concall transcripts (${(sheet.sources || []).length} documents, ${st.verified_items || 0} quotes checked word for word against the PDFs). ${st.bulk_model ? `Extraction: ${esc(modelName(st.bulk_model))}. ` : ""}${st.view_model ? `Comparison and writing: ${esc(modelName(st.view_model))}.` : ""}</p>${secs}
+    <p class="note" style="margin-top:2px">Built only from the company's own annual report and concall transcripts (${(sheet.sources || []).length} documents, ${st.verified_items || 0} quotes checked against their cited PDF pages, ignoring case and punctuation). ${st.bulk_model ? `Extraction: ${esc(modelName(st.bulk_model))}. ` : ""}${st.view_model ? `Comparison and writing: ${esc(modelName(st.view_model))}.` : ""}</p>${secs}
     <div class="h">Documents</div>${(sheet.sources || []).map((s) => `<p class="why" style="margin:2px 0"><a class="link" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></p>`).join("")}</div>`;
 }
 
@@ -203,7 +204,7 @@ function viewWatch() {
     <div class="h">Holdings<span class="n">price · today vs average volume</span></div>${hold}
     <div class="h">Model spend</div><div class="cost"><div><b>${tok >= 1000 ? `${Math.round(tok / 1000)}k` : tok}</b><span>tokens</span></div><div><b>${calls}</b><span>model calls</span></div><div><b>${hits}</b><span>cache hits</span></div></div>
     ${L.map(([m, x]) => `<p class="note" style="margin:2px 0">${esc(modelName(m))}: ${x.calls} calls, ${Math.round((x.input_tokens + x.output_tokens) / 1000)}k tokens</p>`).join("")}
-    <p class="note">Free tier, so $0 spent. A small model reads the documents, a stronger one is used only for the promised-versus-delivered comparison and the written view, and every request is cached so a document is paid for once.</p>`;
+    <p class="note">This meter shows token usage and cache hits, not billing charges. Check the Gemini project billing page for actual spend. FINN caches each exact request and uses its stronger tier only for the promised-versus-delivered comparison and the written view.</p>`;
 }
 
 /* ---------------------------------------------------------------- shell */

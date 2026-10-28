@@ -1,15 +1,15 @@
 {
  "gemini-3.5-flash-lite": {
-  "calls": 174,
-  "cache_hits": 244,
-  "input_tokens": 810330,
-  "output_tokens": 94262
+  "calls": 184,
+  "cache_hits": 616,
+  "input_tokens": 841712,
+  "output_tokens": 109749
  },
  "gemini-3.5-flash": {
-  "calls": 19,
-  "cache_hits": 5,
-  "input_tokens": 53029,
-  "output_tokens": 88768
+  "calls": 20,
+  "cache_hits": 6,
+  "input_tokens": 55123,
+  "output_tokens": 95057
  },
  "gemini-3.8-flash": {
   "calls": 1,
