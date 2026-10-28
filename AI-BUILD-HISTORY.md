@@ -2,7 +2,7 @@
 
 This is the conversation between Aryamann and Claude Code (Sonnet 5.5) while building FINN, in order, generated from Claude Code's session log. Historical user messages remain verbatim; Claude's replies are its visible text messages, and tool use is summarized as action lists. Secrets, roll number, personal email addresses, and local paths are redacted. The public challenge contact is retained. Automatic system notices and context-summary messages are omitted. The log is a historical record, not a polished prompt guide.
 
-For a clean, copy-ready prompt workflow, see [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md). For the prompts FINN itself sends to models and the build stages, see [PROMPT-FLOW.md](PROMPT-FLOW.md). The history was generated on 28 Oct 2026 and ends at the last ENAM turn before that request.
+For an edited, structured reconstruction of the project prompts, see [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md). Those prompts were written after the build and are not presented as verbatim chat. For the prompts FINN itself sends to models, see [PROMPT-FLOW.md](PROMPT-FLOW.md). The history was generated on 28 Oct 2026 and ends at the last ENAM turn before that request.
 
 **How the work went.** I gave short, high-level instructions and decisions; Claude did most of the typing and proposed designs, which I approved or redirected. The decisions that were mine are listed first; the full turn-by-turn log follows.
 
@@ -16,6 +16,19 @@ For a clean, copy-ready prompt workflow, see [WORKFLOW-PROMPTS.md](WORKFLOW-PROM
 | Quota problem (Pro has no free quota) | Build with Flash models and fallback, then research sheets |
 | Leaked key in a screenshot | Rotated it; created a new key |
 | Publish | Approved a public repo and GitHub Pages after seeing the exact plan |
+
+## Structured workflow (edited reconstruction)
+
+The original chat below is informal. This short stage map and the detailed prompts in [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md) reorganize the recorded goals into a reviewable sequence. They were written after the build, so treat them as an editorial reconstruction, not as messages sent during the original session. The user-message turn references below point to the actual decisions; implementation and verification details remain in the history and repository.
+
+| Stage | Goal and review gate | Record to check |
+|---|---|---|
+| 1. Scope the brief | Convert the challenge into a small investor workflow and measurable requirements before implementation. | Turn 1; `PLAN.md` |
+| 2. Choose the data path | Check real source behavior, keep dated snapshots, and respect blocked exchange endpoints. | Turn 1; `finn/` data modules and `docs/data/` |
+| 3. Build the product flow | Deliver Brief, Ask, and Watch views; keep ranking and alert behavior testable. | Turn 1; `docs/`, `docs/logic.js`, browser-logic tests |
+| 4. Add research models | After checking the key and available models, use Flash with fallback, caching, and source-bound outputs. | Turns 2–4; `finn/llm.py`, `finn/extract.py`, `finn/research.py` |
+| 5. Review and correct | Inspect generated evidence, then fix analyst-question, duplicate-promise, citation, and arithmetic issues. | Turns 4 and 12; `PROMPT-FLOW.md`, research sheets |
+| 6. Release for review | Check the repository and app, then publish only after the user approves the plan. | Turns 12–13; `README.md`, `docs/`, published repo |
 
 ## What was committed, in order (from `git log`)
 
@@ -31,7 +44,7 @@ For a clean, copy-ready prompt workflow, see [WORKFLOW-PROMPTS.md](WORKFLOW-PROM
 - 27 Oct 20:22  Rebuild sheets, service worker, tests, email draft, log
 - 27 Oct 22:09  Serve the app from docs/ for GitHub Pages
 
-## Turn-by-turn log
+## Original conversation log
 
 Each turn is one message from me and everything Claude did before the next one. Long turns (Turn 1 is the whole first build) show Claude's progress messages in order so the back-and-forth of working, checking and correcting is visible. Files written through shell heredocs are not listed under 'Files written'; the commit list above shows them.
 

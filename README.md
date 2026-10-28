@@ -29,7 +29,7 @@ Tests: `python3 -m unittest discover -s tests` and `node --test tests/logic.test
 ## Build notes
 
 - [AI-BUILD-HISTORY.md](AI-BUILD-HISTORY.md) is the historical session log, with sensitive details redacted.
-- [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md) is a polished, reusable prompt sequence for building and reviewing FINN. It was written after the build and is not presented as historical dialogue.
+- [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md) is a project-specific prompt sequence reconstructed after the build from the recorded goals. It is not presented as historical dialogue.
 - [PROMPT-FLOW.md](PROMPT-FLOW.md) explains the prompts FINN sends to its models and how the build stages fit together.
 
 ## How it is put together

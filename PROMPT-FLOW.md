@@ -1,6 +1,6 @@
 # FINN prompt flow and build workflow
 
-This page describes the prompts FINN sends to its models and the decisions behind the build. The prompt text lives in `finn/extract.py`, `finn/enrich.py`, and `finn/research.py`. The historical conversation is in [AI-BUILD-HISTORY.md](AI-BUILD-HISTORY.md); polished prompts for a repeatable build are in [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md).
+This page describes the prompts FINN sends to its models and the decisions behind the build. The prompt text lives in `finn/extract.py`, `finn/enrich.py`, and `finn/research.py`. The historical conversation is in [AI-BUILD-HISTORY.md](AI-BUILD-HISTORY.md); project-specific prompts reconstructed after the build are in [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md).
 
 ## 1. The model pipeline
 
@@ -50,4 +50,4 @@ The cross-check does not call a partial comparison "verified": all three filing 
 | 5. Review | Read the first sheets myself and sent back what looked wrong | Fixed the analyst, repeat and footnote problems above |
 | 6. Publish | Approved a public repo and Pages after seeing the exact plan; rotated a key that had been pasted | Created the repo, moved the app to `docs/`, served it on Pages |
 
-The historical messages are shorter and looser than a production prompt. [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md) provides structured, copy-ready prompts for challenge analysis, repository inspection, data, UI, model stages, verification, and submission preparation. They are clearly labeled as prompts written after the build; the historical log remains a record of what was actually said.
+The historical messages are shorter and looser than a production prompt. [WORKFLOW-PROMPTS.md](WORKFLOW-PROMPTS.md) turns the recorded goals into a structured, project-specific sequence for scope, data, UI, model work, review, and release. It is labeled as an edited reconstruction; the historical log remains the record of what was actually said.

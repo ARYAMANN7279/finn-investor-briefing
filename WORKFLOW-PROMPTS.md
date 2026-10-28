@@ -1,228 +1,110 @@
-# Structured AI build prompts for FINN
+# FINN build workflow: edited prompt reconstruction
 
-These prompts are a clean, reusable workflow for building or continuing FINN. They were written after the build; they are not quotes from the historical conversation. For the actual session record, see [AI-BUILD-HISTORY.md](AI-BUILD-HISTORY.md).
+This is a structured rewrite of the goals and review steps recorded in [AI-BUILD-HISTORY.md](AI-BUILD-HISTORY.md). It was assembled after the build; these are **not verbatim prompts** and should not be read as messages that were sent at the time. The original conversation remains below the reconstruction in the history file. Stage references point to the recorded turns and project artifacts that support each part.
 
-Use them in order. Replace bracketed inputs with the challenge brief, repository, or decision for that stage. Keep each stage reviewable before moving on.
+The sequence shows how the work moved from the ENAM brief to a checked, published prototype. Each prompt keeps a clear scope, constraints, output, and review gate so a future session can continue the project without treating one broad request as approval for every decision.
 
-## 0. Understand the challenge
+## 1. Turn the challenge brief into a build plan
 
-```text
-You are helping me build FINN for the ENAM Holdings AI Engineer Build Challenge.
-
-Goal
-Read the supplied challenge brief and reference material, then turn them into a testable product plan.
-
-Inputs
-- Challenge brief: [path or attachment]
-- Reference material: [path or attachment]
-- Deadline and submission format: [details]
-
-Constraints
-- Treat the supplied brief as the source of truth. Separate explicit requirements from your assumptions.
-- Prioritize a small, working investor product over features that cannot be verified.
-- The pull side must use company annual reports and earnings-call transcripts only.
-- Do not bypass access controls or invent live data, evidence, or results.
-- Do not write code yet.
-
-Deliver
-1. A requirement-to-feature table with a measurable acceptance check for every requirement.
-2. A short product point of view and a prioritized scope: must ship, could ship, out of scope.
-3. A data and model plan, including source freshness, failure behavior, and cost controls.
-4. The top risks and the decisions that need my input.
-
-Done when every requirement maps to an acceptance check and every unresolved assumption is visible.
-Stop for my review before implementation.
-```
-
-## 1. Inspect the existing repository
+**Recorded basis:** History, Turn 1; `PLAN.md`.
 
 ```text
-Continue FINN in the existing repository; do not replace it with a new scaffold.
+I am building FINN for the ENAM Holdings AI Engineer challenge. Read the supplied brief and reference material first, then plan the smallest complete investor workflow that meets the brief.
 
-Goal
-Understand the current implementation and identify the smallest changes that satisfy the approved plan.
+Before coding:
+- List the explicit requirements and map each one to a screen, data source, or submission artifact.
+- Separate brief requirements from your design assumptions.
+- Propose a mobile-first flow for a filing brief, company research questions, and watch rules.
+- Identify source, freshness, model-quota, and hosting constraints.
 
-Inputs
-- Repository: [path]
-- Approved plan: [path]
-- Current user request: [request]
+Use annual reports and earnings-call transcripts as the research evidence; use filing documents for the push-side brief and results extraction. Be clear where the prototype must rely on a dated snapshot. Do not invent coverage or work around blocked sources.
 
-Before editing
-- Read the README and all applicable AGENTS.md instructions.
-- Check git status, recent commits, tracked and untracked files, and ignored secrets.
-- Trace each relevant feature from data source to stored data to UI.
-- List existing tests and known limitations.
-
-Constraints
-- Preserve user changes and the working architecture unless evidence shows a defect.
-- Never print, commit, or copy credentials. Do not change remotes or publish without explicit authorization.
-- Separate confirmed bugs from optional polish.
-
-Deliver
-1. A concise architecture map.
-2. A bug and gap list ranked by user impact, with file references and evidence.
-3. A small implementation plan with acceptance checks.
-
-Do not start unrelated work. Report the findings before broad refactors.
+Deliver a short scope, architecture, data plan, risks, and acceptance checks. Flag decisions that need my answer, then wait for review before expanding the scope.
 ```
 
-## 2. Build the data pipeline
+## 2. Inspect sources and choose a defensible data path
+
+**Recorded basis:** History, Turn 1; cached fetcher, Screener parser, Yahoo end-of-day prices, and dated snapshot in `finn/` and `docs/data/`.
 
 ```text
-Implement the approved FINN data pipeline for portfolio filings, quarterly results, and end-of-day prices.
+Inspect the existing project and the public sources needed for FINN before building the data pipeline. Check what the sources actually return and document any access limits.
 
-Goal
-Produce a dated, auditable snapshot that the browser app can consume without a server.
+For this prototype:
+- Use Screener for company, quarterly, and recent-filing data; Yahoo Finance for end-of-day prices; and annual reports plus earnings-call transcripts for company research.
+- Keep source URLs and retrieval dates with the data.
+- Cache requests and respect rate limits. If an exchange blocks automated access, record the limitation and use an honest dated snapshot; do not evade its checks.
+- Validate ticker coverage, dates, units, and missing values before publishing a snapshot.
 
-Inputs
-- Approved data design: [path]
-- Portfolio and research tickers: [list]
-- Existing fetchers and fixtures: [paths]
-
-Constraints
-- Use the named public sources and document what each source supplies.
-- Respect rate limits and access controls. Do not evade bot checks, logins, or blocks.
-- Cache fetched data and retain stale data when a refresh fails, while showing its timestamp.
-- Keep parsing deterministic where possible. Do not use a model for arithmetic or source discovery.
-- Validate dates, units, missing values, and ticker coverage before writing the snapshot.
-
-Done when
-- Each supported ticker either has a valid, timestamped record or a clear recorded failure.
-- Filing categories and result rows match the source fixtures.
-- A rebuild is repeatable and does not expose credentials.
-- The app labels stale or unavailable data honestly.
-
-Report the sources, snapshot timestamp, failures, and checks performed.
+Deliver a source map and a reproducible data plan first. After it is reviewed, implement the fetchers and parser in the existing architecture. The app must show when data is dated or unavailable.
 ```
 
-## 3. Build the mobile investor workflow
+## 3. Build the investor flow around the challenge use case
+
+**Recorded basis:** History, Turn 1; `docs/` app, `docs/logic.js`, and browser-logic tests.
 
 ```text
-Implement the approved FINN experience in the existing mobile-first app.
+Implement FINN as a responsive, static web app using the existing project structure. Keep the main workflow to three views:
 
-Goal
-Help an investor see what changed, ask a grounded company question, and adjust alert rules.
+1. Brief: rank and filter company announcements, with routine filings still available.
+2. Ask: answer a company question from the prepared, cited research sheets.
+3. Watch: let me adjust alert thresholds and category preferences, and show model usage.
 
-Required views
-- Brief: rank filings in a selectable window, group related notices, and keep routine filings accessible.
-- Ask: route a company question to a prepared, sourced research sheet.
-- Watch: adjust alert thresholds and category preferences; show the data and model freshness.
+Keep ranking, alert evaluation, and financial arithmetic in deterministic JavaScript. Make controls usable on a phone, preserve clear empty and partial-data states, and label the snapshot date. Do not imply that the app streams live exchange data.
 
-Constraints
-- Reuse the existing framework and data format unless a concrete defect requires a change.
-- Keep ranking, alert math, and financial calculations deterministic and testable.
-- Make links, dates, units, empty states, and partial results clear on a phone-sized screen.
-- Escape user-visible text and preserve keyboard and screen-reader access.
-- Never imply that a dated snapshot is live.
-
-Done when
-- The three views work at a 375 px viewport and with missing optional data.
-- Controls update their results immediately and can be reset or persisted as designed.
-- Every numeric result has a defined source and unit.
-
-Show the changed screens and list the acceptance checks completed.
+Before calling this stage done, check the key interactions at a phone-sized viewport and add focused tests for the pure ranking and alert logic. Report any view that could not be checked.
 ```
 
-## 4. Add the evidence-grounded model workflow
+## 4. Add the model layer within the available quota
+
+**Recorded basis:** History, Turns 2–4 and 6–8; explicit approval in Turn 4 to use Flash models, fallback, and research sheets; `finn/llm.py`.
 
 ```text
-Implement the FINN model stages as small, structured transformations.
+The Gemini key is configured locally. Build the FINN model layer using the available Flash models, a documented fallback chain, and cached requests. Never print or commit the key.
 
-Goal
-Extract useful filing and research facts while making unsupported claims easy to reject.
+Keep model work narrow and structured:
+- Read results figures from the filing and compare them with Screener values in code.
+- Summarize management changes and material filings from the supplied filing text only.
+- Extract research facts and forward-looking statements from the supplied annual reports and calls, with a short quote and page for every item.
+- Judge promises only against the results data passed into that step; calculate growth, margins, and trailing totals in code.
 
-Inputs
-- Source documents: [specific filing, annual report, or transcript]
-- Output schema and downstream consumer: [paths]
-- Model and quota constraints: [details]
-
-Prompt structure for every stage
-1. Role and one-sentence task.
-2. Allowed evidence and explicit exclusions.
-3. Field-by-field output definitions and valid enums.
-4. Rules for missing, conflicting, or untestable evidence.
-5. A small output schema; no prose outside the schema.
-
-Constraints
-- Only use evidence supplied to that stage. Keep model arithmetic out of the pipeline.
-- Copy supporting quotes from the source; validate the words and cited page in code.
-- Separate management statements from analyst questions.
-- Compare promises only with results reported after the promise and within the available data.
-- Treat a schema-valid answer as untrusted until semantic and source checks pass.
-- Cache by the full request, record the model used, and fail clearly when quota or source data is unavailable.
-
-Done when
-- Valid outputs pass schema and source checks; invalid quotes, pages, figures, or IDs are dropped or flagged.
-- Empty evidence produces an explicit unknown state instead of a guess.
-- A reviewer can open every displayed citation and find the cited words.
+Return schema-constrained JSON, handle quota and source failures plainly, and record which model produced each sheet. Do not present a result as verified when required comparison values are missing. Start with representative companies, inspect their outputs, then continue across the four selected research names.
 ```
 
-## 5. Review and verify
+## 5. Review the evidence and correct observed failure modes
+
+**Recorded basis:** History, Turn 4 and Turn 12; corrections described in `PROMPT-FLOW.md`, `finn/research.py`, and the refreshed research sheets.
 
 ```text
-Review FINN against the approved acceptance checks. Fix demonstrated defects in scope.
+Review the generated FINN results cards and research sheets against their source documents. Treat model output as a draft until the source and code checks pass.
 
-Goal
-Find incorrect claims, broken interactions, stale-data confusion, and regressions before release.
+Check specifically that:
+- A displayed quote appears on the page cited, and its source document is linked.
+- A concall analyst question is not presented as management guidance.
+- Repeated transcript promises are not counted as separate promises.
+- Duplicate copies of the same transcript do not add evidence twice.
+- Figures used in a verdict match the computed comparison table; the model does not do financial arithmetic.
+- Missing or untestable evidence remains explicitly unknown or not measurable.
 
-Inputs
-- Approved plan and acceptance checks: [paths]
-- Changed files: [git diff]
-- Current snapshot and prepared research sheets: [paths]
-
-Review sequence
-1. Check source-to-UI data flow and labels for units, dates, and freshness.
-2. Check financial comparisons, quote-to-page matching, and evidence references.
-3. Check empty, partial, stale, and error states.
-4. Run the existing test commands and add focused tests for fixes.
-5. Run a local production-like server check; inspect a 375 px layout if a browser is available.
-
-Constraints
-- Report exactly what ran and what could not be checked.
-- Do not turn a warning or limitation into a claim of success.
-- Do not expand scope to unrelated refactors.
-
-Done when every acceptance check has a result and remaining risks are stated plainly.
+Fix demonstrated errors, regenerate affected sheets when needed, and report what changed along with the remaining limits. Keep source-backed facts separate from interpretation.
 ```
 
-## 6. Prepare the submission
+## 6. Finish the release and submission artifacts
+
+**Recorded basis:** History, Turns 12–13; public-repo approval in Turn 13; `README.md`, `docs/`, and the completion summary in `AI-BUILD-HISTORY.md`.
 
 ```text
-Prepare FINN for the challenge submission using the verified implementation.
+Prepare the verified FINN project for review and publication. First check the repository state, README run steps, public files, generated research sheets, and configured Pages paths.
 
-Goal
-Make the repository, hosted app, AI build history, and covering note easy for an evaluator to review.
+Release checks:
+- Confirm secrets and private submission details are excluded from tracked files.
+- Confirm the README explains the architecture, dated data, model routing, coverage, and known limitations.
+- Run the existing Python and browser-logic checks and report exact results.
+- Check that the Pages app paths and service-worker cache match the published layout.
+- Keep the cover email as a local draft for me to review and send.
 
-Inputs
-- Verified branch and commit: [details]
-- Hosting and repository URLs: [links]
-- Required email format and deadline: [details]
-
-Deliver
-- A README with run steps, feature map, data freshness, model routing, tested names, and limitations.
-- A concise architecture and prompt-flow explanation.
-- The historical AI build log, plus a clearly labeled structured prompt workflow for future runs.
-- A covering-email draft with placeholders for any missing links or user-only details.
-
-Constraints
-- Never include keys, tokens, private local paths, or personal identifiers that are not required for submission.
-- Distinguish historical facts from polished prompts written after the build.
-- Do not send email, create a public repo, or push commits unless I explicitly authorize that action.
-- Do not describe an untested feature as complete.
-
-Done when a reviewer can run the app, inspect its evidence, understand its limitations, and find every required artifact.
+Summarize the release plan and URLs before publishing. After I approve the public repository and hosting plan, publish the reviewed branch and verify the deployed app loads. Do not send the submission email for me.
 ```
 
-## Compact prompt template
+## What this reconstruction does and does not claim
 
-For a new task, keep this structure and fill in the specifics:
-
-```text
-Goal: [one observable outcome]
-Context: [challenge requirement and current implementation]
-Inputs: [files, data, links]
-Constraints: [source, privacy, cost, architecture, scope]
-Plan: [small ordered steps; inspect before editing]
-Acceptance checks: [observable evidence that defines done]
-Review: [what to summarize, risks, and remaining gaps]
-```
+The structure above is editorial: it organizes the real work into reviewable stages and turns the recorded goals into usable prompts. It does not claim that these exact words were typed, that every proposed gate happened at the time, or that the prototype meets requirements beyond the checks recorded in the history and repository. The stage references and [PROMPT-FLOW.md](PROMPT-FLOW.md) provide the implementation details; the original messages provide the verbatim record.
